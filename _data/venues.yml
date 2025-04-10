@@ -5,5 +5,11 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"TOSEM":
+  color: "#009f36"
+
+"TPDS":
+  color: "#009f36"
+
 "Vision":
   color: "#009f36"
