@@ -37,26 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-第三章-概率分布抽样算法",
-        
-          title: "第三章：概率分布抽样算法",
-        
-        description: "本博客是笔者阅读康崇禄的《蒙特卡罗方法理论和应用》笔记",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/MCMC/";
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-got-my-doctorate-degree-certificate",
-          title: 'Got my doctorate degree certificate.',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
