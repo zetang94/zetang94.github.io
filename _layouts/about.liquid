@@ -40,6 +40,7 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    {% comment %}
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
@@ -47,11 +48,11 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-
+    {% endcomment %}
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">最近的博客</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
@@ -59,12 +60,13 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">部分论文</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Social -->
+    {% comment %}
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
@@ -72,6 +74,7 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+    {% endcomment %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

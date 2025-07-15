@@ -57,6 +57,7 @@
           </li>
 
           <!-- Other pages -->
+
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
@@ -117,6 +118,8 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          {% comment %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
@@ -125,6 +128,7 @@
               </button>
             </li>
           {% endif %}
+          {% endcomment %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
