@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 主页
 permalink: /
 subtitle: 
 
