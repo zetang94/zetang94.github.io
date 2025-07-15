@@ -1,1 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://zetang94.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://zetang94.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-04-10T02:17:03+00:00</updated><id>https://zetang94.github.io/feed.xml</id><title type="html">blank</title></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://zetang94.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://zetang94.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-07-15T06:38:28+00:00</updated><id>https://zetang94.github.io/feed.xml</id><title type="html">blank</title><entry><title type="html">Codalab配置教程</title><link href="https://zetang94.github.io/blog/2025/codalab_worker/" rel="alternate" type="text/html" title="Codalab配置教程"/><published>2025-07-15T00:40:16+00:00</published><updated>2025-07-15T00:40:16+00:00</updated><id>https://zetang94.github.io/blog/2025/codalab_worker</id><content type="html" xml:base="https://zetang94.github.io/blog/2025/codalab_worker/"><![CDATA[<blockquote> <p>Codalab可以方便地管理在多台服务器的运行实验，多台服务器的实验结果可以汇总到网页，并通过表格的形式呈现。 同时也可以将实验的全流程公开，便于复现。</p> </blockquote> <h3 id="1-服务器worker配置">1. 服务器Worker配置</h3> <hr/> <h4 id="11-环境依赖">1.1 环境依赖</h4> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. 安装yum-utils</span>
+yum <span class="nb">install</span> <span class="nt">-y</span> yum-utils
+<span class="c"># 2. 配置docker镜像</span>
+<span class="nb">sudo </span>yum-config-manager <span class="nt">--add-repo</span> https://download.docker.com/linux/centos/docker-ce.repo
+<span class="c"># 3. 查看docker-ce版本</span>
+yum list docker-ce <span class="nt">--showduplicates</span> | <span class="nb">sort</span> <span class="nt">-r</span> 
+<span class="c"># 4. docker版本不能超过19, 选择18.03</span>
+yum <span class="nb">install </span>docker-ce-18.03.1.ce-1.el7.centos docker-ce-cli-18.03.1.ce-1.el7.centos containerd.io docker-buildx-plugin docker-compose-plugin
+<span class="c"># 5. 测试docker是否正确安装</span>
+<span class="nb">sudo </span>systemctl start docker
+<span class="nb">sudo </span>docker run hello-world
+<span class="c"># 6. 配置nvidia-docker仓库</span>
+<span class="nv">distribution</span><span class="o">=</span><span class="si">$(</span><span class="nb">.</span> /etc/os-release<span class="p">;</span><span class="nb">echo</span> <span class="nv">$ID$VERSION_ID</span><span class="si">)</span> <span class="se">\</span>
+   <span class="o">&amp;&amp;</span> curl <span class="nt">-s</span> <span class="nt">-L</span> https://nvidia.github.io/libnvidia-container/<span class="nv">$distribution</span>/libnvidia-container.repo | <span class="nb">sudo tee</span> /etc/yum.repos.d/nvidia-container-toolkit.repo
+<span class="c"># 7. 安装nvidia-docker</span>
+<span class="nb">sudo </span>yum <span class="nb">install</span> <span class="nt">-y</span> nvidia-docker2
+<span class="c"># 8. docker开机自启动，重启docker</span>
+systemctl <span class="nb">enable </span>docker.service
+systemctl restart docker
+<span class="c"># 9. 验证gpu是否可用,网址列表在这里: https://catalog.ngc.nvidia.com/orgs/nvidia/containers/cuda,对于11.7版本的cuda,选择</span>
+docker run <span class="nt">--runtime</span><span class="o">=</span>nvidia <span class="nt">--rm</span> nvidia/cuda:11.7.1-runtime-centos7 nvidia-smi
+</code></pre></div></div> <h4 id="12-worker配置">1.2 worker配置</h4> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. 安装codalab</span>
+pip <span class="nb">install </span>codalab
+<span class="c"># 2. 启动worker,并且输入用户名和密码</span>
+<span class="c"># --verbose 输出日志</span>
+<span class="c"># --tag-exclusive 只接受--request-queue &lt;worker-tag&gt;</span>
+<span class="c"># --tag 指定&lt;worker-tag&gt;</span>
+<span class="c"># --work-dir 指定数据存放地址</span>
+<span class="c"># --cpuset 指定cpu数量</span>
+<span class="c"># --gpuset 指定gpu数量</span>
+<span class="c"># 目前只在210.28.133.13:21678中开启了worker</span>
+cl-worker <span class="nt">--tag</span> 21678 <span class="nt">--tag-exclusive</span> <span class="nt">--work-dir</span> /root/tz/codalab <span class="nt">--cpuset</span> <span class="s2">"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"</span> <span class="nt">--gpuset</span> <span class="s2">"0,1,2,3"</span> <span class="nt">--verbose</span>
+<span class="c"># 3. 测试worker运行</span>
+cl run <span class="nb">date</span>
+<span class="c"># 4. 测试在codalab中调用nvidia docker</span>
+cl run <span class="nt">--request-docker-image</span> nvidia/cuda:11.7.1-runtime-centos7 <span class="nt">--request-gpus</span> 1 <span class="s2">"nvidia-smi"</span>
+</code></pre></div></div> <hr/> <h3 id="2-docker镜像打包">2. Docker镜像打包</h3> <p>需要的文件:</p> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/><a href="/assets/codes/codalab中Docker镜像配置文件/requirements.txt">requirements.txt</a></li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/><a href="/assets/codes/codalab中Docker镜像配置文件/Dockerfile">Dockerfile</a></li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>cached_hf_models ## 模型缓存，解决huggingface被墙问题</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/><a href="/assets/codes/codalab中Docker镜像配置文件/default_config.yaml">default_config.yaml</a> ## 配置accelerate</li> </ul> <p>然后，使用以下的命令将镜像上传至dockerhub:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker login <span class="nt">-u</span> zetang
+docker build <span class="nt">-t</span> codecom <span class="nb">.</span>
+docker image tag codecom zetang/codecom:latest
+docker image push zetang/codecom:latest
+</code></pre></div></div> <p>在Python代码中加载模型时，可以使用以下代码进行替换：</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">huggingface_hub</span> <span class="kn">import</span> <span class="n">snapshot_download</span>
+<span class="k">def</span> <span class="nf">get_hf_model</span><span class="p">(</span><span class="n">repo_name</span><span class="p">,</span> <span class="n">cache</span><span class="o">=</span><span class="sh">"</span><span class="s">E:/cached_hf_models</span><span class="sh">"</span><span class="p">):</span>
+    <span class="k">return</span> <span class="nf">snapshot_download</span><span class="p">(</span><span class="n">repo_name</span><span class="p">,</span> <span class="n">cache_dir</span><span class="o">=</span><span class="n">cache</span><span class="p">)</span>
+<span class="n">AutoModel</span><span class="p">.</span><span class="nf">from_pretrained</span><span class="p">(</span><span class="nf">get_hf_model</span><span class="p">(</span><span class="sh">"</span><span class="s">model_name</span><span class="sh">"</span><span class="p">))</span>
+</code></pre></div></div> <p>测试镜像:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker ps <span class="nt">-a</span>
+</code></pre></div></div> <hr/> <h3 id="3-客户端运行">3. 客户端运行</h3> <p>准备工作:</p> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>客户端安装codalab</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>上传代码和数据</li> </ul> <p>通过以下脚本可以在worker中运行实验:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># This is an example script to start a CodaLab run. There are often several</span>
+<span class="c"># things to configure, including the docker image, compute resources, bundle</span>
+<span class="c"># dependencies (code and data), and custom arguments to pass to the command.</span>
+<span class="c"># Factoring all this into a script makes it easier to run and track different</span>
+<span class="c"># configurations.</span>
+
+<span class="c">### CodaLab arguments</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"cl run"</span>
+
+<span class="c"># Name of bundle (can customize however you want)</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --name bigcode-santacoder-Android"</span>
+<span class="c"># Docker image (default: codalab/default-cpu)</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --request-docker-image zetang/code_com_llm:latest"</span>
+<span class="c"># Explicitly ask for a worker with at least one GPU</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --request-gpus 4"</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --request-cpus 10"</span>
+<span class="c"># Control the amount of RAM your run needs</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --request-memory 128g"</span>
+<span class="c"># Kill job after this many days (default: 1 day)</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --request-time 2d"</span>
+<span class="c"># Use own GPU</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> --request-queue 21678"</span>
+
+<span class="c"># Bundle dependencies</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> :src"</span>      <span class="c"># Code</span>
+<span class="nv">CODALAB_ARGS</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> :data"</span>                             <span class="c"># Dataset</span>
+<span class="c"># CODALAB_ARGS="$CODALAB_ARGS word-vectors.txt:glove.840B.300d"  # Word vectors</span>
+
+<span class="c">### Command to execute (these flags can be overridden) from the command-line</span>
+<span class="nv">CMD</span><span class="o">=</span><span class="s2">"accelerate launch src/main.py"</span>
+<span class="nv">CMD</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CMD</span><span class="s2"> --model bigcode/santacoder"</span>
+<span class="c">### task is Android line com</span>
+<span class="nv">CMD</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CMD</span><span class="s2"> --tasks android"</span>
+<span class="nv">CMD</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CMD</span><span class="s2"> --max_length_generation 512 --temperature 0.8 --precision fp16 --do_sample True --n_samples 1 --batch_size 1 --save_generations"</span>
+<span class="nv">CMD</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CMD</span><span class="s2"> --save_generations_path android-generation.json"</span>
+<span class="nv">CMD</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CMD</span><span class="s2"> --metric_output_path android-evaluation.json"</span>
+
+<span class="c"># Pass the command-line arguments through to override the above</span>
+<span class="k">if</span> <span class="o">[</span> <span class="nt">-n</span> <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="o">]</span><span class="p">;</span> <span class="k">then
+  </span><span class="nv">CMD</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CMD</span><span class="s2"> </span><span class="nv">$@</span><span class="s2">"</span>
+<span class="k">fi</span>
+
+<span class="c"># Create the run on CodaLab!</span>
+<span class="nv">FINAL_COMMAND</span><span class="o">=</span><span class="s2">"</span><span class="nv">$CODALAB_ARGS</span><span class="s2"> '</span><span class="nv">$CMD</span><span class="s2">'"</span>
+<span class="nb">echo</span> <span class="nv">$FINAL_COMMAND</span>
+<span class="nb">exec </span>bash <span class="nt">-c</span> <span class="s2">"</span><span class="nv">$FINAL_COMMAND</span><span class="s2">"</span>
+
+pause
+</code></pre></div></div> <hr/> <h4 id="参考资料">参考资料</h4> <ol> <li><a href="https://docs.docker.com/engine/install/centos/">在centos上安装docker</a></li> <li><a href="https://github.com/keineahnung2345/Dockerfiles/blob/master/How%20to%20install%20Nvidia-Docker%202.0%20on%20CentOS%207.md">在centos上安装nvidia-docker</a></li> <li><a href="https://codalab-worksheets.readthedocs.io/en/latest/examples/quickstart/">官网指南</a></li> <li><a href="https://worksheets.codalab.org/worksheets/0x17d24480c9cc42fa9489279bc1e7bb36">个人配置</a></li> </ol>]]></content><author><name></name></author><category term="tools"/><category term="工具"/><summary type="html"><![CDATA[Codalab服务器和客户端配置]]></summary></entry><entry><title type="html">凸优化</title><link href="https://zetang94.github.io/blog/2025/lecture_1/" rel="alternate" type="text/html" title="凸优化"/><published>2025-03-27T16:40:16+00:00</published><updated>2025-03-27T16:40:16+00:00</updated><id>https://zetang94.github.io/blog/2025/lecture_1</id><content type="html" xml:base="https://zetang94.github.io/blog/2025/lecture_1/"><![CDATA[<p>本博客记录该书第三章的重点内容。</p>]]></content><author><name></name></author><category term="book_notes"/><category term="MonteCarlo"/><summary type="html"><![CDATA[本博客是笔者阅读康崇禄的《蒙特卡罗方法理论和应用》笔记]]></summary></entry></feed>
