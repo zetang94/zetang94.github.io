@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+title: 课程
+permalink: /courses/
+description:
+nav: true
+nav_order: 5
+display_categories: [2025秋]
 horizontal: false
 ---
 
