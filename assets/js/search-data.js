@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-课程",
+          title: "课程",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/courses/";
+          },
         },{id: "post-codalab配置教程",
         
           title: "Codalab配置教程",
@@ -50,6 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-工业互联网导论-2025秋",
+          title: '工业互联网导论（2025秋）',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/industrial_internet_introduction/";
             },},{
         id: 'social-email',
         title: 'email',
