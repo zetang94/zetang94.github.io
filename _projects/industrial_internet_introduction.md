@@ -5,6 +5,8 @@ img: assets/img/12.jpg
 importance: 1
 category: 2025秋
 pretty_table: true
+toc:
+  sidebar: right
 ---
 
 # 工业互联网技术导论
