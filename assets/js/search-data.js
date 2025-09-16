@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-工业互联网导论-2025秋",
           title: '工业互联网导论（2025秋）',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/industrial_internet_introduction/";
             },},{
