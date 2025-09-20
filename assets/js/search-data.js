@@ -41,17 +41,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/codalab_worker/";
           
         },
-      },{id: "post-凸优化",
-        
-          title: "凸优化",
-        
-        description: "本博客是笔者阅读康崇禄的《蒙特卡罗方法理论和应用》笔记",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/lecture_1/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
