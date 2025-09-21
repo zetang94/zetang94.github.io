@@ -50,7 +50,7 @@ ninja.data = [{
           title: '工业互联网导论（2025秋）',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/industrial_internet_introduction/";
+              window.location.href = "/projects/IIOT2025/";
             },},{
         id: 'social-email',
         title: 'email',
