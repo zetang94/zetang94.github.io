@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>题目作答系统（题型独立序号+选项修复）</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Microsoft YaHei", sans-serif;
+    }
+    body {
+      background-color: #f5f5f5;
+      display: flex;
+      min-height: 100vh;
+      padding: 1rem;
+    }
+
+    /* 左侧题目主区域 */
+    .main-content {
+      flex: 1;
+      padding: 1rem 2rem;
+      overflow-y: auto;
+      position: relative;
+    }
+
+    /* 翻页控件样式 */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1.5rem;
+      gap: 1rem;
+    }
+    .page-btn {
+      padding: 0.5rem 1.2rem;
+      background-color: #4299e1;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.95rem;
+      transition: background-color 0.3s;
+    }
+    .page-btn:disabled {
+      background-color: #cbd5e0;
+      cursor: not-allowed;
+      opacity: 0.7;
+    }
+    .page-btn:hover:not(:disabled) {
+      background-color: #3182ce;
+    }
+    .page-info {
+      font-size: 1rem;
+      color: #4a5568;
+    }
+
+    /* 题型标题（当前激活的题型） */
+    .type-title {
+      font-size: 1.8rem;
+      color: #2d3748;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.8rem;
+      border-bottom: 3px solid #4299e1;
+      text-align: center;
+    }
+
+    /* 题目样式 */
+    .question-container {
+      background: white;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      display: none; /* 默认隐藏所有题目 */
+    }
+    .question-container.active {
+      display: block; /* 当前题型+当前页的题目显示 */
+    }
+    .question-header {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: #2d3748;
+    }
+    .option-group {
+      margin: 1.2rem 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+    }
+    .option {
+      cursor: pointer;
+      font-size: 1rem;
+      color: #4a5568;
+      display: flex;
+      align-items: center;
+    }
+    .option input {
+      margin-right: 0.8rem;
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+    }
+    .no-options {
+      color: #718096;
+      font-size: 1rem;
+      padding: 0.8rem;
+      background-color: #f8f8f8;
+      border-radius: 4px;
+    }
+    .btn-check {
+      padding: 0.5rem 1.2rem;
+      background-color: #4299e1;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.95rem;
+      transition: background-color 0.3s;
+    }
+    .btn-check:hover {
+      background-color: #3182ce;
+    }
+    .result {
+      margin: 1rem 0;
+      padding: 0.8rem;
+      border-radius: 4px;
+      font-weight: 500;
+      display: none;
+    }
+    .correct {
+      background-color: #e8f4f8;
+      color: #22543d;
+      border: 1px solid #c3e6cb;
+    }
+    .incorrect {
+      background-color: #fdf2f8;
+      color: #742a2a;
+      border: 1px solid #f5c6c6;
+    }
+    .explanation {
+      margin-top: 1rem;
+      padding: 1rem;
+      background-color: #f8f8f8;
+      border-left: 3px solid #9f7aea;
+      color: #2d3748;
+      display: none;
+      line-height: 1.6;
+    }
+
+    /* 右侧导航栏：纵向分组（判断题→单选题→多选题） */
+    .sidebar {
+      width: 200px;
+      background: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      padding: 1.2rem;
+      margin-left: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      position: sticky;
+      top: 1rem;
+      height: fit-content;
+    }
+    /* 每个题型的导航分组 */
+    .nav-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+    }
+    /* 题型导航标题 */
+    .nav-group-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #2d3748;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid #f3f4f6;
+    }
+    /* 题目序号容器（横向换行） */
+    .nav-items-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+    }
+    /* 题目序号 */
+    .nav-item {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #f5f5f5;
+      color: #4a5568;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .nav-item:hover {
+      transform: scale(1.05);
+    }
+    /* 当前激活的题型下，当前页的序号高亮 */
+    .nav-item.active {
+      border: 2px solid #4299e1;
+    }
+    .nav-item.correct {
+      background-color: #48bb78;
+      color: white;
+    }
+    .nav-item.incorrect {
+      background-color: #dc2626;
+      color: white;
+    }
+
+    /* 加载和错误提示 */
+    .loading, .error {
+      text-align: center;
+      font-size: 1.2rem;
+      color: #4a5568;
+      padding: 2rem;
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      white-space: pre-line;
+    }
+    .error {
+      color: #dc2626;
+    }
+
+    /* 响应式适配（手机端：导航栏在上，题目在下） */
+    @media (max-width: 768px) {
+      body {
+        flex-direction: column;
+        padding: 0.5rem;
+      }
+      .sidebar {
+        width: 100%;
+        margin: 0.5rem 0;
+        flex-direction: row;
+        overflow-x: auto;
+        padding: 0.8rem;
+        gap: 1rem;
+      }
+      .nav-group {
+        min-width: 150px;
+      }
+      .main-content {
+        padding: 0.5rem;
+      }
+      .pagination {
+        gap: 0.5rem;
+      }
+      .page-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- 左侧题目区域 -->
+  <div class="main-content">
+    <!-- 题型标题（当前激活的题型） -->
+    <h2 class="type-title" id="current-type-title">判断题</h2>
+
+    <!-- 翻页控件 -->
+    <div class="pagination" id="pagination" style="display: none;">
+      <button class="page-btn" id="prev-page" disabled>上一页</button>
+      <span class="page-info" id="page-info">第 1 页 / 共 0 页</span>
+      <button class="page-btn" id="next-page" disabled>下一页</button>
+    </div>
+
+    <div class="loading" id="loading">加载题目中...</div>
+    <div class="error" id="error" style="display: none;"></div>
+    <div id="question-list"></div>
+  </div>
+
+  <!-- 右侧导航栏：纵向分组（判断题→单选题→多选题） -->
+  <div class="sidebar">
+    <!-- 判断题导航分组 -->
+    <div class="nav-group" data-type="judgment">
+      <div class="nav-group-title">判断题</div>
+      <div class="nav-items-container" id="judgment-nav-items"></div>
+    </div>
+    <!-- 单选题导航分组 -->
+    <div class="nav-group" data-type="single">
+      <div class="nav-group-title">单选题</div>
+      <div class="nav-items-container" id="single-nav-items"></div>
+    </div>
+    <!-- 多选题导航分组 -->
+    <div class="nav-group" data-type="multiple">
+      <div class="nav-group-title">多选题</div>
+      <div class="nav-items-container" id="multiple-nav-items"></div>
+    </div>
+  </div>
+
+  <script>
+    // 按题型分类存储题目
+    let questionData = {
+      judgment: [], // 判断题（questions.json）
+      single: [],   // 单选题（questions2.json）
+      multiple: []  // 多选题（questions3.json）
+    };
+    // 题型配置
+    const TYPE_CONFIG = [
+      { key: "judgment", path: "https://zetang94.github.io/assets/courses/IIOT2025/questions.json", name: "判断题" },
+      { key: "single", path: "https://zetang94.github.io/assets/courses/IIOT2025/questions2.json", name: "单选题" },
+      { key: "multiple", path: "https://zetang94.github.io/assets/courses/IIOT2025/questions3.json", name: "多选题" }
+    ];
+    // 作答状态：key=题型-题目ID（如judgment-1、single-1），避免同ID冲突
+    let answerStatus = {};
+    // 翻页相关变量（按题型独立维护）
+    let pageState = {
+      currentType: "judgment", // 当前激活的题型
+      currentPage: 1,          // 当前页码
+      pageSize: 20,            // 每页显示题目数
+      totalPages: {}           // 各题型总页数（key=题型key，value=总页数）
+    };
+
+    // 页面加载完成后初始化
+    // 页面加载完成后初始化
+    window.onload = async function() {
+      try {
+        // 并行加载所有JSON网址，按题型分类存储
+        const loadPromises = TYPE_CONFIG.map(config =>
+          fetch(config.path)
+            .then(res => {
+              if (!res.ok) throw new Error(`加载${config.name}失败（${config.path}），状态码：${res.status}`);
+              return res.json();
+            })
+            .then(questions => {
+              // 为每个题目添加题型标识，存入对应分类
+              questionData[config.key] = questions.map(q => ({
+                ...q,
+                type: config.key,
+                typeName: config.name,
+                uniqueKey: `${config.key}-${q.id}` // 唯一标识（题型-ID）
+              }));
+              // 初始化该题型的总页数
+              pageState.totalPages[config.key] = Math.ceil(questions.length / pageState.pageSize);
+            })
+        );
+        await Promise.all(loadPromises);
+
+        // 初始化作答状态（所有题目默认未作答）
+        Object.values(questionData).flat().forEach(question => {
+          if (!answerStatus.hasOwnProperty(question.uniqueKey)) {
+            answerStatus[question.uniqueKey] = "unanswered";
+          }
+        });
+
+        // 渲染导航栏、题目、翻页控件
+        renderAllNavItems();
+        renderQuestions();
+        renderPagination();
+        bindEvents();
+
+        // 显示内容，隐藏加载提示
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("pagination").style.display = "flex";
+        document.getElementById("question-list").style.display = "block";
+      } catch (error) {
+        document.getElementById("loading").style.display = "none";
+        const errorEl = document.getElementById("error");
+        errorEl.style.display = "flex";
+        // 修改错误提示：适配网址加载场景
+        errorEl.textContent = `❌ 加载失败：${error.message}\n请确保JSON网址可访问、支持跨域（CORS），并使用HTTPS协议`;
+      }
+    };
+
+    /**
+     * 渲染所有题型的导航序号（显示题目自身ID，状态用唯一key）
+     */
+    function renderAllNavItems() {
+      TYPE_CONFIG.forEach(config => {
+        const questions = questionData[config.key];
+        const navContainer = document.getElementById(`${config.key}-nav-items`);
+        navContainer.innerHTML = "";
+
+        questions.forEach((question, index) => {
+          const questionId = question.id;
+          const uniqueKey = question.uniqueKey;
+          const status = answerStatus[uniqueKey];
+          // 计算当前题目所属页码
+          const page = Math.ceil((index + 1) / pageState.pageSize);
+
+          const navItem = document.createElement("div");
+          navItem.className = `nav-item ${status} ${
+            config.key === pageState.currentType && page === pageState.currentPage
+              ? "active"
+              : ""
+          }`;
+          navItem.textContent = questionId; // 显示题目自身ID（1开始，各题型独立）
+          navItem.dataset.uniqueKey = uniqueKey; // 存储唯一标识
+          navItem.dataset.type = config.key;
+          navItem.dataset.page = page;
+          navItem.dataset.questionId = questionId; // 存储原始ID
+
+          // 点击序号跳转：切换题型（如果不同）+ 跳转到对应页码和题目
+          navItem.addEventListener("click", () => {
+            const targetType = config.key;
+            const targetPage = page;
+            const targetQuestionId = questionId;
+
+            // 更新当前状态
+            pageState.currentType = targetType;
+            pageState.currentPage = targetPage;
+
+            // 更新题型标题
+            document.getElementById("current-type-title").textContent = config.name;
+
+            // 重新渲染
+            renderAllNavItems(); // 更新所有导航序号的激活状态
+            renderQuestions();   // 渲染当前题型+当前页的题目
+            renderPagination();  // 更新翻页控件
+
+            // 滚动到目标题目
+            const targetQuestion = document.getElementById(`question-${uniqueKey}`);
+            if (targetQuestion) {
+              targetQuestion.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
+          });
+
+          navContainer.appendChild(navItem);
+        });
+      });
+    }
+
+    /**
+     * 渲染当前题型+当前页的题目（修复选项显示）
+     */
+    function renderQuestions() {
+      const currentQuestions = questionData[pageState.currentType];
+      const questionList = document.getElementById("question-list");
+      questionList.innerHTML = "";
+
+      // 无题目时的提示
+      if (currentQuestions.length === 0) {
+        questionList.innerHTML = `<div class="error">暂无${TYPE_CONFIG.find(c => c.key === pageState.currentType).name}题目</div>`;
+        return;
+      }
+
+      // 计算当前页显示的题目范围
+      const startIndex = (pageState.currentPage - 1) * pageState.pageSize;
+      const endIndex = Math.min(startIndex + pageState.pageSize, currentQuestions.length);
+      const displayQuestions = currentQuestions.slice(startIndex, endIndex);
+
+      // 渲染当前页的题目
+      displayQuestions.forEach(question => {
+        const { uniqueKey, id: questionId, type, question: questionContent, selections } = question;
+        const questionEl = document.createElement("div");
+        questionEl.className = "question-container active"; // 当前页题目直接显示
+        questionEl.id = `question-${uniqueKey}`; // 用唯一标识作为DOM ID
+        questionEl.dataset.uniqueKey = uniqueKey;
+        questionEl.dataset.type = type;
+
+        // 生成选项HTML（核心修复：正确渲染单选/多选题选项）
+        const optionsHtml = generateOptionsHtml(question);
+
+        // 处理解析内容（explanation为空则用answer转换后的文本）
+        const explanationContent = getExplanationContent(question);
+
+        // 构建题目HTML
+        questionEl.innerHTML = `
+          <div class="question-header">${questionId}. ${questionContent}</div>
+          ${optionsHtml}
+          <button class="btn-check" data-unique-key="${uniqueKey}">查看解析</button>
+          <div class="result" id="result-${uniqueKey}"></div>
+          <div class="explanation" id="explanation-${uniqueKey}">${explanationContent}</div>
+        `;
+
+        // 已作答的题目：显示结果和解析，保留选中状态
+        if (answerStatus[uniqueKey] !== "unanswered") {
+          const resultEl = questionEl.querySelector(`#result-${uniqueKey}`);
+          const explanationEl = questionEl.querySelector(`#explanation-${uniqueKey}`);
+          const isCorrect = answerStatus[uniqueKey] === "correct";
+
+          resultEl.style.display = "block";
+          const correctAnswerText = getCorrectAnswerText(question);
+          resultEl.textContent = isCorrect
+            ? "✅ 回答正确！"
+            : `❌ 回答错误！正确答案是：${correctAnswerText}`;
+          resultEl.className = `result ${isCorrect ? "correct" : "incorrect"}`;
+          explanationEl.style.display = "block";
+
+          // 保留选中状态
+          setSelectedAnswers(questionEl, question);
+        }
+
+        questionList.appendChild(questionEl);
+      });
+    }
+
+    /**
+     * 生成不同题型的选项HTML（核心修复：单选/多选正常显示）
+     * @param {object} question - 题目数据
+     * @returns {string} 选项HTML
+     */
+    function generateOptionsHtml(question) {
+      const { uniqueKey, type, selections = {} } = question;
+      const optionKeys = Object.keys(selections).sort((a, b) => {
+        // 按A、B、C、D、E顺序排序
+        return a.charCodeAt(0) - b.charCodeAt(0);
+      });
+
+      // 无选项时的提示
+      if (optionKeys.length === 0 && type !== "judgment") {
+        return '<div class="no-options">该题目无选项</div>';
+      }
+
+      let optionsHtml = '<div class="option-group">';
+
+      if (type === "judgment") {
+        // 判断题：固定正确/错误选项
+        optionsHtml += `
+          <label class="option">
+            <input type="radio" id="opt-${uniqueKey}-Y" name="opt-${uniqueKey}" value="Y">
+            <span>正确（Y）</span>
+          </label>
+          <label class="option">
+            <input type="radio" id="opt-${uniqueKey}-N" name="opt-${uniqueKey}" value="N">
+            <span>错误（N）</span>
+          </label>
+        `;
+      } else if (type === "single") {
+        // 单选题：radio按钮（互斥，name用唯一标识）
+        optionKeys.forEach(key => {
+          const value = selections[key];
+          optionsHtml += `
+            <label class="option">
+              <input type="radio" id="opt-${uniqueKey}-${key}" name="opt-${uniqueKey}" value="${key}">
+              <span>${key}、${value}</span>
+            </label>
+          `;
+        });
+      } else if (type === "multiple") {
+        // 多选题：checkbox按钮（多选，name用唯一标识+key避免冲突）
+        optionKeys.forEach(key => {
+          const value = selections[key];
+          optionsHtml += `
+            <label class="option">
+              <input type="checkbox" id="opt-${uniqueKey}-${key}" name="opt-${uniqueKey}-${key}" value="${key}">
+              <span>${key}、${value}</span>
+            </label>
+          `;
+        });
+      }
+
+      optionsHtml += '</div>';
+      return optionsHtml;
+    }
+
+    /**
+     * 处理解析内容（explanation为空则用answer转换后的文本）
+     */
+    function getExplanationContent(question) {
+      if (question.explanation && question.explanation.trim()) {
+        return question.explanation.trim();
+      }
+      return `正确答案：${getCorrectAnswerText(question)}`;
+    }
+
+    /**
+     * 生成易读的正确答案文本
+     */
+    function getCorrectAnswerText(question) {
+      const { type, answer, selections = {} } = question;
+      const answerKeys = Array.isArray(answer)
+        ? answer
+        : answer.split('').filter(key => key); // 过滤空字符
+
+      if (type === "judgment") {
+        return answer === "Y" ? "正确（Y）" : "错误（N）";
+      } else {
+        return answerKeys.map(key => {
+          const optionValue = selections[key] || key;
+          return `${key}`;
+        }).join("");
+      }
+    }
+
+    /**
+     * 保留已选中的答案（适配唯一标识）
+     */
+    function setSelectedAnswers(questionEl, question) {
+      const { uniqueKey, type, answer } = question;
+      const answerKeys = Array.isArray(answer)
+        ? answer
+        : answer.split('').filter(key => key);
+
+      if (type === "judgment" || type === "single") {
+        // 单选/判断题：选中正确答案
+        const correctKey = answerKeys[0];
+        const radioInput = questionEl.querySelector(`input[id="opt-${uniqueKey}-${correctKey}"]`);
+        if (radioInput) radioInput.checked = true;
+      } else if (type === "multiple") {
+        // 多选题：选中所有正确答案
+        answerKeys.forEach(key => {
+          const checkboxInput = questionEl.querySelector(`input[id="opt-${uniqueKey}-${key}"]`);
+          if (checkboxInput) checkboxInput.checked = true;
+        });
+      }
+    }
+
+    /**
+     * 渲染翻页控件
+     */
+    function renderPagination() {
+      const currentTotalPages = pageState.totalPages[pageState.currentType] || 1;
+      const prevBtn = document.getElementById("prev-page");
+      const nextBtn = document.getElementById("next-page");
+      const pageInfo = document.getElementById("page-info");
+
+      // 更新页码信息
+      pageInfo.textContent = `第 ${pageState.currentPage} 页 / 共 ${currentTotalPages} 页`;
+
+      // 更新按钮禁用状态
+      prevBtn.disabled = pageState.currentPage === 1;
+      nextBtn.disabled = pageState.currentPage === currentTotalPages;
+    }
+
+    /**
+     * 绑定所有交互事件
+     */
+    function bindEvents() {
+      // 上一页按钮
+      document.getElementById("prev-page").addEventListener("click", () => {
+        if (pageState.currentPage > 1) {
+          pageState.currentPage--;
+          renderQuestions();
+          renderAllNavItems();
+          renderPagination();
+          scrollToFirstQuestion();
+        }
+      });
+
+      // 下一页按钮
+      document.getElementById("next-page").addEventListener("click", () => {
+        const currentTotalPages = pageState.totalPages[pageState.currentType] || 1;
+        if (pageState.currentPage < currentTotalPages) {
+          pageState.currentPage++;
+          renderQuestions();
+          renderAllNavItems();
+          renderPagination();
+          scrollToFirstQuestion();
+        }
+      });
+
+      // 查看解析按钮（全局委托）
+      document.addEventListener("click", (e) => {
+        const checkBtn = e.target.closest(".btn-check");
+        if (!checkBtn) return;
+
+        const uniqueKey = checkBtn.getAttribute("data-unique-key");
+        const currentQuestions = Object.values(questionData).flat();
+        const question = currentQuestions.find(q => q.uniqueKey === uniqueKey);
+        if (!question) return;
+
+        const resultEl = document.getElementById(`result-${uniqueKey}`);
+        const explanationEl = document.getElementById(`explanation-${uniqueKey}`);
+        let userAnswer = null;
+
+        // 获取用户答案
+        if (question.type === "judgment" || question.type === "single") {
+          const selectedOption = document.querySelector(`input[name="opt-${uniqueKey}"]:checked`);
+          if (!selectedOption) {
+            resultEl.textContent = "请先选择一个答案再查看解析！";
+            resultEl.className = "result incorrect";
+            resultEl.style.display = "block";
+            explanationEl.style.display = "none";
+            return;
+          }
+          userAnswer = selectedOption.value;
+        } else if (question.type === "multiple") {
+          const selectedOptions = document.querySelectorAll(`input[id^="opt-${uniqueKey}-"]:checked`);
+          if (selectedOptions.length === 0) {
+            resultEl.textContent = "请至少选择一个答案再查看解析！";
+            resultEl.className = "result incorrect";
+            resultEl.style.display = "block";
+            explanationEl.style.display = "none";
+            return;
+          }
+          // 多选答案排序后拼接（与正确答案格式统一）
+          userAnswer = Array.from(selectedOptions)
+            .map(opt => opt.value)
+            .sort()
+            .join('');
+        }
+
+        // 判题逻辑
+        let isCorrect = false;
+        const correctAnswer = Array.isArray(question.answer)
+          ? question.answer.sort().join('')
+          : question.answer.split('').filter(key => key).sort().join('');
+
+        if (question.type === "multiple") {
+          isCorrect = userAnswer === correctAnswer;
+        } else {
+          isCorrect = userAnswer === question.answer;
+        }
+
+        // 更新作答状态（用唯一key）
+        answerStatus[uniqueKey] = isCorrect ? "correct" : "incorrect";
+
+        // 显示结果和解析
+        resultEl.style.display = "block";
+        const correctAnswerText = getCorrectAnswerText(question);
+        resultEl.textContent = isCorrect
+          ? "✅ 回答正确！"
+          : `❌ 回答错误！正确答案是：${correctAnswerText}`;
+        resultEl.className = `result ${isCorrect ? "correct" : "incorrect"}`;
+        explanationEl.style.display = "block";
+
+        // 更新导航序号状态
+        renderAllNavItems();
+      });
+
+      // 点击导航分组标题：切换到对应题型的第一页
+      document.querySelectorAll(".nav-group-title").forEach(title => {
+        title.addEventListener("click", () => {
+          const navGroup = title.closest(".nav-group");
+          const targetType = navGroup.dataset.type;
+          const config = TYPE_CONFIG.find(c => c.key === targetType);
+
+          // 更新状态
+          pageState.currentType = targetType;
+          pageState.currentPage = 1;
+
+          // 重新渲染
+          document.getElementById("current-type-title").textContent = config.name;
+          renderAllNavItems();
+          renderQuestions();
+          renderPagination();
+          scrollToFirstQuestion();
+        });
+      });
+    }
+
+    /**
+     * 滚动到当前页第一道题
+     */
+    function scrollToFirstQuestion() {
+      const firstQuestion = document.querySelector(".question-container.active");
+      if (firstQuestion) {
+        firstQuestion.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+  </script>
+</body>
+</html>
