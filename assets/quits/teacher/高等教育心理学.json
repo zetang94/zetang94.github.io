@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是人们在长期的认知、情绪和意志活动中形成的稳固而经常出现的心理特性，主要包括能力、气质和性格。",
+        "selections": {
+            "A": "个性心理倾向",
+            "B": "个性心理特征",
+            "C": "个性",
+            "D": "人格"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 2,
+        "type": "单选题",
+        "question": "反对把人“神化”“兽化”或“病态化”，主张“人化”的心理学流派是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "信息加工心理学",
+            "B": "人本主义心理学",
+            "C": "认知学派",
+            "D": "精神分析学派"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 3,
+        "type": "单选题",
+        "question": "“因材施教”的心理学依据是学生心理存在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "性别特征",
+            "B": "个体差异",
+            "C": "年龄特征",
+            "D": "时代特征"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 4,
+        "type": "单选题",
+        "question": "教育家<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>第一个明确将心理学作为教育活动和教育学的理论基础，提出了学习过程的四阶段说：明了—联想—系统（化）—方法（运用）。",
+        "selections": {
+            "A": "巴班斯基",
+            "B": "赫尔巴特",
+            "C": "布鲁纳",
+            "D": "布卢姆"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 5,
+        "type": "单选题",
+        "question": "教育必须以学生<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为基础。",
+        "selections": {
+            "A": "现有的发展水平",
+            "B": "可能的发展水平",
+            "C": "未来的就业取向",
+            "D": "最近发展区"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 6,
+        "type": "单选题",
+        "question": "教师不仅关注“教什么”、“如何教”，更关注“如何有效地教”。这种教学水平属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "自主式教学",
+            "B": "经验式教学",
+            "C": "创造式教学",
+            "D": "策略式教学"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 7,
+        "type": "单选题",
+        "question": "一个教师知道的“如何有效地教”的知识，属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "陈述性知识",
+            "B": "程序性知识",
+            "C": "策略性知识",
+            "D": "元学习知识"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 8,
+        "type": "单选题",
+        "question": "教育心理研究常用的方法有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "观察法、调查法、个案法、实验法",
+            "B": "文献法、调查法、个案法、实验法",
+            "C": "观察法、调查法、文献法、实验法",
+            "D": "文献法、观察法、调查法、个案法"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 9,
+        "type": "单选题",
+        "question": "当代大学生义利观的发展表现为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "重义轻利",
+            "B": "重利轻义",
+            "C": "义利并重",
+            "D": "从重义轻利转向义利兼顾"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 10,
+        "type": "单选题",
+        "question": "当代大学生公私观的发展表现为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "大公无私",
+            "B": "重私轻公",
+            "C": "公私冲突",
+            "D": "坚持个人幸福与社会整体幸福的统一"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 11,
+        "type": "单选题",
+        "question": "教师的言语表达能力包括口头言语表达能力与<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "身体言语表达能力",
+            "B": "课件制作能力",
+            "C": "书面言语表达能力",
+            "D": "教学文档写作能力"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 12,
+        "type": "单选题",
+        "question": "教师对教学中的意外情况进行快速反应、随机应变、及时采取恰当措施的综合能力是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "因材施教能力",
+            "B": "组织管理能力",
+            "C": "教育机智",
+            "D": "教学监督能力"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 13,
+        "type": "单选题",
+        "question": "作为教师专业成长的一个基本要素和重要标志，能深化教师的职业价值、唤醒教师专业发展的自觉性并不断追求卓越的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教育原则",
+            "B": "教育信念",
+            "C": "教育价值",
+            "D": "教育目标"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 14,
+        "type": "单选题",
+        "question": "个体通过社会联系能减轻应激反应、缓解紧张状态、提高社会适应能力的资源称为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "社会支持",
+            "B": "社会援助",
+            "C": "社会帮扶",
+            "D": "社会救治"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 15,
+        "type": "单选题",
+        "question": "一般而言，高校教师的职业倦怠容易出现在引导阶段和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "职业生涯初期",
+            "B": "职业生涯中期",
+            "C": "职业生涯晚期",
+            "D": "职业生涯末期"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 16,
+        "type": "单选题",
+        "question": "根据学习的定义，下列属于学习的现象是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "吃了酸的食物流唾液",
+            "B": "望梅止渴",
+            "C": "蜘蛛织网",
+            "D": "儿童模仿电影中人物的行为"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 17,
+        "type": "单选题",
+        "question": "经典性条件反射学说的提出者是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "斯金纳",
+            "B": "班杜拉",
+            "C": "巴甫洛夫",
+            "D": "维果茨基"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 18,
+        "type": "单选题",
+        "question": "观察是一种有目的、有计划的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "感觉过程",
+            "B": "知觉过程",
+            "C": "记忆过程",
+            "D": "思维过程"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 19,
+        "type": "单选题",
+        "question": "把事物的本质属性联合起来的思维过程是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "分析",
+            "B": "分类",
+            "C": "抽象",
+            "D": "概括"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 20,
+        "type": "单选题",
+        "question": "保持时间在1分钟左右的记忆是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "瞬时记忆",
+            "B": "感觉记忆",
+            "C": "短时记忆",
+            "D": "长时记忆"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 21,
+        "type": "单选题",
+        "question": "短时记忆的容量约为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>组块。",
+        "selections": {
+            "A": "6±3",
+            "B": "7±2",
+            "C": "8±2",
+            "D": "7±3"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 22,
+        "type": "单选题",
+        "question": "在武术动作教学中，每一个基本动作往往有一个形象的名称，如太极拳中有“白鹤亮翅”“金鸡独立”等。这样的名称对动作技能的促进作用是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "便于语言编码",
+            "B": "便于动作形象编码",
+            "C": "提高学习兴趣",
+            "D": "便于言语和形象双重编码"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 23,
+        "type": "单选题",
+        "question": "“举一反三”“触类旁通”“闻一知十”所说的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "创造性",
+            "B": "学习迁移",
+            "C": "发现教学",
+            "D": "学会学习"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 24,
+        "type": "单选题",
+        "question": "与知识、技能的学习相比较，学习迁移要达到的目标是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "应知",
+            "B": "应会",
+            "C": "应变",
+            "D": "应试"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 25,
+        "type": "单选题",
+        "question": "毛笔字写得好的学生，他的钢笔字也会写得很好，这属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "正迁移",
+            "B": "负迁移",
+            "C": "纵向迁移",
+            "D": "消极迁移"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 26,
+        "type": "单选题",
+        "question": "寻求教师和同学帮助以获得个别指导的学习策略是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "元认识策略",
+            "B": "认知策略",
+            "C": "复述策略",
+            "D": "资源管理策略"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 27,
+        "type": "单选题",
+        "question": "将某一主题的有关概念置于方框之中, 然后用连线将相关的概念和命题连接, 连线上标明两个概念之间的意义关系的图解方法称为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "示意图",
+            "B": "流程图",
+            "C": "对比图",
+            "D": "概念图"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 28,
+        "type": "单选题",
+        "question": "如果要真正表明某种道德品质形成，只有最终落实到稳固的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "道德信念之中",
+            "B": "道德认知之中",
+            "C": "道德行动之中",
+            "D": "道德情感之中"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 29,
+        "type": "单选题",
+        "question": "品德的研究范畴属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "伦理学",
+            "B": "社会学",
+            "C": "心理学",
+            "D": "教育学"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 30,
+        "type": "单选题",
+        "question": "爱家人、爱母校、爱学习等这一类摪那楦袛属于哪一种道德情感<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "直觉的道德情感",
+            "B": "想象的道德情感",
+            "C": "伦理的道德情感",
+            "D": "感知的道德情感"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 31,
+        "type": "单选题",
+        "question": "要求不良行为者通过自身的努力消除不良行为所造成的后果，恢复并改善原有的状况，同时还要进行适当的练习。这种品德不良矫正方法属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "过矫正",
+            "B": "防范协约",
+            "C": "强化暂停",
+            "D": "表征性奖励"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 32,
+        "type": "单选题",
+        "question": "一位教师引导学生从事公益活动时注意将公益理念、公益价值、公益行为这些信息内容与社会生活高度联系起来，较好地激发了学生的公益动机。这位教师在说服教育中注意了信息的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "透明度",
+            "B": "衍生性",
+            "C": "心理化",
+            "D": "合理化"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 33,
+        "type": "单选题",
+        "question": "教师在说服教育过程中，充分了解学生的年龄特点、心理需求、个性差异、思想实际，而不是空讲道理、教条主义，使说服教育产生实质性效果。这说明教师在说服教育过程中遵循了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "针对性原则",
+            "B": "平等性原则",
+            "C": "可信性原则",
+            "D": "开放性原则"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 34,
+        "type": "单选题",
+        "question": "自我决定理论指出，人的三种基本需要分别是自主需要、胜任需要和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "安全需要",
+            "B": "归属需要",
+            "C": "自尊需要",
+            "D": "审美需要"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 35,
+        "type": "单选题",
+        "question": "“在一定时间内能给出问题解决方案的多少”是创造性的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "流畅性",
+            "B": "灵活性",
+            "C": "独创性",
+            "D": "新颖性"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 36,
+        "type": "单选题",
+        "question": "“解决问题方案的独特程度或者与众不同的程度”是创造性的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "流畅性",
+            "B": "灵活性",
+            "C": "独创性",
+            "D": "刻板性"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 37,
+        "type": "单选题",
+        "question": "关于问题解决与创造性的关系，下列说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "问题解决是创造性的最高级表现",
+            "B": "创造性是问题解决的最高级表现",
+            "C": "问题解决与创造性没有区别",
+            "D": "问题解决与创造性无关"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 38,
+        "type": "单选题",
+        "question": "箱子一般作用是盛物，但某人在一次问题解决过程中将它用来做垫脚台，这是打破了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "定律",
+            "B": "功能固着",
+            "C": "原型启发",
+            "D": "问题表征"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 39,
+        "type": "单选题",
+        "question": "在解决问题时，经过评价当前的问题状态后，限于条件，不是去缩小而是去增加这一状态与目标状态的差异，经过迂回前进，最终达到解决问题的总目标。这种解决问题的策略是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "算法式策略",
+            "B": "启发式策略",
+            "C": "手段-目的分析法",
+            "D": "爬山法"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 40,
+        "type": "单选题",
+        "question": "教师鼓励学生就某一问题提出尽可能多的解决方案，包括看来不着边际、异想天开甚至荒唐可笑的想法，直到所有可能的答案都被提出来。这种创造性培养策略是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "头脑风暴法",
+            "B": "自由畅想法",
+            "C": "聚合思维法",
+            "D": "集体研究法"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 41,
+        "type": "单选题",
+        "question": "由专家或专门研究者按照一定的标准，对受测者的创造性进行评价。这种创造性评价的方法是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "测验法",
+            "B": "主观评定法",
+            "C": "创造性产品评价法",
+            "D": "档案袋评价法"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 42,
+        "type": "单选题",
+        "question": "群体极化往往表现出两种倾向，其中包括冒险偏移与<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "从众倾向",
+            "B": "谨慎偏移",
+            "C": "信息偏移",
+            "D": "群体规范"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 43,
+        "type": "单选题",
+        "question": "大学中的学校规章制度和学生行为守则属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "服从",
+            "B": "集体思维",
+            "C": "集体舆论",
+            "D": "集体规范"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 44,
+        "type": "单选题",
+        "question": "大学生在人际交往过程中能够相互理解、设身处地为他人着想，这种心理现象是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "同情",
+            "B": "共情",
+            "C": "人际吸引",
+            "D": "情感需求"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 45,
+        "type": "单选题",
+        "question": "根据一个人所处的文化环境判断其是否心理健康，这反映了心理健康特点具有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "连续性",
+            "B": "相对性",
+            "C": "可逆性",
+            "D": "动态性"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 46,
+        "type": "单选题",
+        "question": "大学生适应了大学生活，建立起新的心理平衡，这时候就意味着他们进入到<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "适应期",
+            "B": "固着期",
+            "C": "发展期",
+            "D": "成熟期"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 47,
+        "type": "单选题",
+        "question": "大学生经过四年的学习和生活，世界观和价值观逐步形成，这时候他们进入到<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "适应期",
+            "B": "固着期",
+            "C": "发展期",
+            "D": "成熟期"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 48,
+        "type": "单选题",
+        "question": "大学生产生心理疾患的根本原因是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "社会环境",
+            "B": "遗传基因",
+            "C": "家庭环境",
+            "D": "个性"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 49,
+        "type": "单选题",
+        "question": "大学生非智力因素的培养不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "激发学习动机",
+            "B": "锻炼意志品质",
+            "C": "提高学习效率",
+            "D": "培养学习兴趣"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 50,
+        "type": "单选题",
+        "question": "帮助大学生规划人生、发展自我、实现人生价值的心理健康教育内容是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "生命生存教育",
+            "B": "挫折教育",
+            "C": "生涯发展教育",
+            "D": "自我意识发展教育"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 51,
+        "type": "单选题",
+        "question": "性格的态度特征不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "对自然环境的态度特征",
+            "B": "对社会、集体和他人的态度特征",
+            "C": "对学习、工作和劳动的态度特征",
+            "D": "对自己的态度特征"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 52,
+        "type": "单选题",
+        "question": "指导大学生进行有效学习的措施不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "端正学习态度",
+            "B": "降低学习难度",
+            "C": "主动投入学习",
+            "D": "有效利用资源"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 53,
+        "type": "单选题",
+        "question": "个体在感觉基础上，对刺激作出整体反映，这种认知过程被称作<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "记忆",
+            "B": "知觉",
+            "C": "想象",
+            "D": "思维"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 54,
+        "type": "单选题",
+        "question": "德国心理学家<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>于1879年在莱比锡大学创建了世界上第一个心理实验室，这标志着心理学成为一门独立学科。",
+        "selections": {
+            "A": "艾宾浩斯",
+            "B": "冯特",
+            "C": "杜威",
+            "D": "罗杰斯"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 55,
+        "type": "单选题",
+        "question": "苏联教育心理学家维果斯基(Vygotsky)，将学生的“现有的发展水平”和“可能的发展水平”之间的差距称为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "实际发展区",
+            "B": "最近发展区",
+            "C": "实现发展区",
+            "D": "未来发展区"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 56,
+        "type": "单选题",
+        "question": "亲密关系的建立可以减少大学生可能出现的一系列内化和外化的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "冲动行为",
+            "B": "违纪行为",
+            "C": "问题行为",
+            "D": "打架行为"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 57,
+        "type": "单选题",
+        "question": "当前大学生道德观念的变化主要表现在义利观、公私观、荣辱观、幸福观和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>等方面。",
+        "selections": {
+            "A": "世界观",
+            "B": "人生观",
+            "C": "价值观",
+            "D": "苦乐观"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 58,
+        "type": "单选题",
+        "question": "创造性思维是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和聚合思维相结合的产物，需要创造性想象的积极参与。",
+        "selections": {
+            "A": "抽象思维",
+            "B": "发散思维",
+            "C": "逻辑思维",
+            "D": "形式思维"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 59,
+        "type": "单选题",
+        "question": "教师的角色是指处在教育系统中的教师表现出来的由其特殊地位决定的符合<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>对教师期望的一种行为模式。",
+        "selections": {
+            "A": "学生",
+            "B": "社会",
+            "C": "学校",
+            "D": "家长"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 60,
+        "type": "单选题",
+        "question": "教师的威信是指教师个人或者组织改变、控制人们心理和行为的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "感召力",
+            "B": "感染力",
+            "C": "影响力",
+            "D": "说服力"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 61,
+        "type": "单选题",
+        "question": "体现社会、尤其是教育环境中的人对高校教师职业角色、社会地位的认可度，对其学术影响力、道德影响力的承认、褒扬、赞赏度，是教师职业社会价值的特征，这指的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "学识威信",
+            "B": "职业威信",
+            "C": "权力威信",
+            "D": "人格威信"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 62,
+        "type": "单选题",
+        "question": "教师更多考虑的是学生的个别差异，认识到不同发展水平的学生有不同的需要，自觉关注学生，进而因材施教，可以看出该老师处于教师成长的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "关注自我阶段",
+            "B": "关注学生阶段",
+            "C": "关注情境阶段",
+            "D": "关注生存阶段"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 63,
+        "type": "单选题",
+        "question": "福勒和布朗根据教师的需要和不同时期所关注的焦点问题，把教师的成长划分为三个阶段。其中第一阶段是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "关注生存",
+            "B": "关注进修",
+            "C": "关注情境",
+            "D": "关注学生"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 64,
+        "type": "单选题",
+        "question": "以少数的学生为对象，在较短的时间内(5?0分钟)，尝试进行小型的课堂教学，然后把这种教学过程摄制成录像，课后再进行分析，这种教学称作<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "模块教学",
+            "B": "微格教学",
+            "C": "支架教学",
+            "D": "抛锚教学"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 65,
+        "type": "单选题",
+        "question": "认为拥有更多积极品质者能够更好地处置生活应激、减少精神衰退并鼓起勇气的积极心理学家是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>等。",
+        "selections": {
+            "A": "弗洛伊德",
+            "B": "塞里格曼",
+            "C": "艾宾浩斯",
+            "D": "埃里克森"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 66,
+        "type": "单选题",
+        "question": "大学生的社会成熟度低，经济上不独立，心理活动出现多元冲突，表现为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "过渡性",
+            "B": "矛盾性",
+            "C": "可塑性",
+            "D": "差异性"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 67,
+        "type": "单选题",
+        "question": "高年级大学生心理呈现出紧迫感、责任感和忧虑感，说明其进入<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "适应期",
+            "B": "发展期",
+            "C": "成熟期",
+            "D": "焦虑期"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 68,
+        "type": "单选题",
+        "question": "有些大学生出现自我为中心、自卑、自负、懒惰等问题，反映其<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>出现偏差。",
+        "selections": {
+            "A": "价值观念",
+            "B": "自我意识",
+            "C": "情绪状态",
+            "D": "理想信念"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 69,
+        "type": "单选题",
+        "question": "人类个体心理发展的主要途径是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "遗传过程",
+            "B": "社会环境",
+            "C": "实践活动",
+            "D": "自我意识"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 70,
+        "type": "单选题",
+        "question": "Personality一词源于拉丁文persona，原意是指戏剧角色<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "扮演的对象",
+            "B": "穿戴的服饰",
+            "C": "配戴的面具",
+            "D": "具有的性格"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 71,
+        "type": "单选题",
+        "question": "学前儿童人格特征对其未来发展具有一的预测作用，这说明人格具有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "遗传性",
+            "B": "稳定性",
+            "C": "刻板性",
+            "D": "测量性"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 72,
+        "type": "单选题",
+        "question": "受先天遗传因素制约更多的个性特征是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "动机",
+            "B": "性格",
+            "C": "气质",
+            "D": "能力"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 73,
+        "type": "单选题",
+        "question": "按照气质的体液说，活泼外向且灵活的气质类型属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "多血质",
+            "B": "胆汁质",
+            "C": "抑郁质",
+            "D": "粘液质"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 74,
+        "type": "单选题",
+        "question": "生理、心理、道德和社会各要素有机整合及和谐，这描述的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "幻想的人格",
+            "B": "崇高的人格",
+            "C": "完美的人格",
+            "D": "健全的人格"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 75,
+        "type": "单选题",
+        "question": "斯金纳以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为实验对象，提出了操作条件反射学说。",
+        "selections": {
+            "A": "猩猩",
+            "B": "白鼠",
+            "C": "狗",
+            "D": "人"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 76,
+        "type": "单选题",
+        "question": "根据艾宾浩斯的遗忘规律，复习一定要<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "先快后慢",
+            "B": "多样化",
+            "C": "及时",
+            "D": "劳逸结合"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 77,
+        "type": "单选题",
+        "question": "初学者主要依据外部反馈来调节自己的操作，而熟练者主要依据<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>反馈来协调自己的操作。",
+        "selections": {
+            "A": "他人",
+            "B": "动觉",
+            "C": "听觉",
+            "D": "视觉"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 78,
+        "type": "单选题",
+        "question": "地方方言学习影响普通话学习，这是一种<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "正迁移",
+            "B": "负迁移",
+            "C": "顺向迁移",
+            "D": "逆向迁移"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 79,
+        "type": "单选题",
+        "question": "学生头脑内的全部知识内容及其组织被称作<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "知识体系",
+            "B": "认知结构",
+            "C": "基本结构",
+            "D": "认知地图"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 80,
+        "type": "单选题",
+        "question": "加强概念、原理、课题乃至章节之间的横向联系，使学生能发现相关知识之间的异同，揭示相互之间的关系，这遵循了教学内容呈现的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>原则。",
+        "selections": {
+            "A": "不断分化",
+            "B": "综合贯通",
+            "C": "循序渐进",
+            "D": "有序并列"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 81,
+        "type": "单选题",
+        "question": "记忆术属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "复述策略",
+            "B": "精加工策略",
+            "C": "知觉策略",
+            "D": "元认知策略"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 82,
+        "type": "单选题",
+        "question": "对道德现象本质特征的概括反映是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "道德认识",
+            "B": "道德概念",
+            "C": "道德信念",
+            "D": "道德意志"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 83,
+        "type": "单选题",
+        "question": "对于品德结构要素表述正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "道德认识是归属",
+            "B": "道德意志是催化剂",
+            "C": "道德情感是保证",
+            "D": "道德认识是基础"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 84,
+        "type": "单选题",
+        "question": "态度定势对人的心态乃至行为具有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>影响。",
+        "selections": {
+            "A": "积极的",
+            "B": "消极的",
+            "C": "积极的和消极的两面性",
+            "D": "微弱的"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 85,
+        "type": "单选题",
+        "question": "行为者不良行为的形成在某种意义上讲是由于不良刺激不断 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的结果。",
+        "selections": {
+            "A": "强化",
+            "B": "重复",
+            "C": "消退",
+            "D": "娇惯"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 86,
+        "type": "单选题",
+        "question": "在特定的情境中，如果说服者的逻辑论证强而有力，说服对象专注于沟通中的事实，能积极梳理与把握沟通中的逻辑论证，则他们容易被说服，这属于说服的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>路径。",
+        "selections": {
+            "A": "强",
+            "B": "外周",
+            "C": "弱",
+            "D": "中心"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 87,
+        "type": "单选题",
+        "question": "亚里士多德在《修辞学》中提出<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>证明，来说明说服对象在不同心理状态下对信息的接纳方式、接纳程度是不同的。",
+        "selections": {
+            "A": "情感",
+            "B": "信誉",
+            "C": "逻辑",
+            "D": "心理"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 88,
+        "type": "单选题",
+        "question": "著名社会心理学家阿希的经典群体压力实验对<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>做了很好的解释。",
+        "selections": {
+            "A": "社会比较现象",
+            "B": "从众现象",
+            "C": "服从现象",
+            "D": "模仿现象"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 89,
+        "type": "单选题",
+        "question": "关于从众现象，下列说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "从众有真从众和假从众之分",
+            "B": "从众有积极和消极两方面作用",
+            "C": "主体和群体的认知差距越大，从众可能性越大",
+            "D": "高焦虑者从众性较强"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 90,
+        "type": "单选题",
+        "question": "在人际关系的三种成分中，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是核心。",
+        "selections": {
+            "A": "认知成分",
+            "B": "情感成分",
+            "C": "行为成分",
+            "D": "意志成分"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 91,
+        "type": "单选题",
+        "question": "心理学家舒茨的研究表明，存在三种由不同交往需要而产生的交往目的，即包容需要、控制需要和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "沟通需要",
+            "B": "关爱需要",
+            "C": "情感需要",
+            "D": "归属需要"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 92,
+        "type": "单选题",
+        "question": "关于良好人际关系建立，下列说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "第一印象在人际交往中具有重要作用, 决定了交往是否进行或如何进行",
+            "B": "人际交往的成功与人的主动性程度有很大的关系",
+            "C": "共情是沟通人们的内心世界的情感纽带",
+            "D": "先入为主而产生的消极第一印象，会以定势效应作用于主体"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 93,
+        "type": "单选题",
+        "question": "成就目标理论指出，掌握型学习动机者学习是为了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "提高能力",
+            "B": "发展能力",
+            "C": "展示能力",
+            "D": "培养能力"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 94,
+        "type": "单选题",
+        "question": "当问题的给定状态、目标状态以及用于转换状态的方法均已清楚规定时，如 x +1 = 2，那么该问题属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "结构良好问题",
+            "B": "结构不良问题",
+            "C": "常规问题",
+            "D": "非常规问题"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 95,
+        "type": "单选题",
+        "question": "认知学派提出问题的解决策略主要有两大类，分别是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和启发式策略。",
+        "selections": {
+            "A": "手段-目的分析法",
+            "B": "爬山法",
+            "C": "类比法",
+            "D": "算法策略"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 96,
+        "type": "单选题",
+        "question": "南加利福尼亚创造性测试和托兰斯创造性思维测验，主要是以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>来衡量创造性，评定指标是流畅性、灵活性和独特性。",
+        "selections": {
+            "A": "常规思维",
+            "B": "发散思维",
+            "C": "聚合思维",
+            "D": "再造思维"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 97,
+        "type": "单选题",
+        "question": "青少年发展心理学家斯滕伯格(Sternberg)指出，“对于在人生的第二个十年所发生的所有变化来说，只有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是真正必然要发生的事情”。",
+        "selections": {
+            "A": "同一性危机",
+            "B": "情感危机",
+            "C": "心理成熟",
+            "D": "生理成熟"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 98,
+        "type": "单选题",
+        "question": "卢钦斯的水罐实验主要是说明定势的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "积极作用",
+            "B": "消极作用",
+            "C": "促进效应",
+            "D": "经验意义"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 99,
+        "type": "单选题",
+        "question": "群体的特点一般不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "共同目标",
+            "B": "共同规范",
+            "C": "组织结构",
+            "D": "共同财产"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 100,
+        "type": "单选题",
+        "question": "第一届国际心理卫生大会尤其关注世界各国人民的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "心理健康",
+            "B": "神经健康",
+            "C": "身体健康",
+            "D": "生活健康"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 101,
+        "type": "单选题",
+        "question": "大学时期是人际关系走向<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的重要转折时期。",
+        "selections": {
+            "A": "成人化",
+            "B": "稳定化",
+            "C": "社会化",
+            "D": "世故化"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 102,
+        "type": "单选题",
+        "question": "教育部要求高校要按照在校学生人数<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的比例配备专职心理健康教育师资。",
+        "selections": {
+            "A": "1/1000",
+            "B": "1/2000",
+            "C": "1/3000",
+            "D": "1/4000"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 103,
+        "type": "单选题",
+        "question": "行为主义学派后期的主要代表人物是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "桑代克",
+            "B": "斯金纳",
+            "C": "维果斯基",
+            "D": "冯特"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 104,
+        "type": "单选题",
+        "question": "发表了《认知心理学》一书，标志着现代认知心理学正式诞生的心理学家是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "马斯洛",
+            "B": "桑代克",
+            "C": "奈塞尔",
+            "D": "加德纳"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 105,
+        "type": "单选题",
+        "question": "根据个体是否经历探索达到承诺，可以将同一性状态分为四种类型，其中处在高探索、低承诺象限的类型是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "同一性获得",
+            "B": "同一性延缓",
+            "C": "同一性扩散",
+            "D": "同一性早闭"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 106,
+        "type": "单选题",
+        "question": "我们可以从成人的人格特征来推论其早年的人格特征，还可以从空间维度来推论人的行为特点，这反映了人格的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "整体性",
+            "B": "独特性",
+            "C": "稳定性",
+            "D": "社会性"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 107,
+        "type": "单选题",
+        "question": "“青春期-成年”处于弗洛伊德人格发展阶段理论的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>阶段。",
+        "selections": {
+            "A": "性器期",
+            "B": "生殖期",
+            "C": "潜伏期",
+            "D": "口唇期"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 108,
+        "type": "单选题",
+        "question": "提出发展危机就是发展转机，有了发展转机，个体的自我才能获得充分发展的心理学家是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "埃里克森",
+            "B": "荣格",
+            "C": "奥尔波特",
+            "D": "卡特尔"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 109,
+        "type": "单选题",
+        "question": "高级神经活动类型说是由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>提出的，它科学地揭示了气质的生理机制。",
+        "selections": {
+            "A": "巴甫洛夫",
+            "B": "希波克拉底",
+            "C": "盖伦",
+            "D": "克莱因"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 110,
+        "type": "单选题",
+        "question": "教师表扬学生做出的正确行为，从而使学生能在以后经常保持这种行为，这属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "替代强化",
+            "B": "正强化",
+            "C": "负强化",
+            "D": "泛化"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 111,
+        "type": "单选题",
+        "question": "“工欲善其事，必先利其器”，这体现了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的重要性。",
+        "selections": {
+            "A": "学习准备",
+            "B": "学习感知",
+            "C": "学习巩固",
+            "D": "学习应用"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 112,
+        "type": "单选题",
+        "question": "人们对道德活动中所产生的各种关系以及如何处理这些关系的行为准则的认识，被称作<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "道德观念",
+            "B": "道德信念",
+            "C": "道德意念",
+            "D": "道德概念"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 113,
+        "type": "单选题",
+        "question": "表征性奖励系统的使用可使行为者从追求及时强化过渡到适应<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，对矫正不良行为富有建设性意义。",
+        "selections": {
+            "A": "替代强化",
+            "B": "自我强化",
+            "C": "定比强化",
+            "D": "延时强化"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 114,
+        "type": "单选题",
+        "question": "高校教师角色形成的第二个阶段是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "角色认知阶段",
+            "B": "角色认同阶段",
+            "C": "角色信念阶段",
+            "D": "角色扮演阶段"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 115,
+        "type": "单选题",
+        "question": "教育活动的出发点和落脚点是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教育目的",
+            "B": "教学目标",
+            "C": "社会发展",
+            "D": "个人发展"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 116,
+        "type": "单选题",
+        "question": "职业倦怠程度最低的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "新手型教师",
+            "B": "熟手型教师",
+            "C": "专家型教师",
+            "D": "骨干型教师"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 117,
+        "type": "单选题",
+        "question": "知识的反例传递了有利于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的信息。",
+        "selections": {
+            "A": "概括",
+            "B": "分类",
+            "C": "抽象",
+            "D": "辨别"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 118,
+        "type": "单选题",
+        "question": "根据有意义接受学习理论，原有知识与新学习的知识具有三种不同的关系：上位、下位和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "组合",
+            "B": "互反",
+            "C": "并列",
+            "D": "因果"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 119,
+        "type": "单选题",
+        "question": "将数学中的正数与负数进行比较属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "对立比较",
+            "B": "差异比较",
+            "C": "对照比较",
+            "D": "类比"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 120,
+        "type": "单选题",
+        "question": "动机产生的外在条件是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "需要",
+            "B": "情感",
+            "C": "价值观",
+            "D": "诱因"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 121,
+        "type": "单选题",
+        "question": "满足学生需要激发的学习动机主要是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "内在动机",
+            "B": "外在动机",
+            "C": "掌握目标",
+            "D": "表现目标"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 122,
+        "type": "单选题",
+        "question": "高等教育心理学可以帮助教师掌握大学生<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>特点与规律，从而指导大学生进行高效学习。",
+        "selections": {
+            "A": "自我意识",
+            "B": "情绪情感",
+            "C": "学习心理",
+            "D": "理想信念"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 123,
+        "type": "单选题",
+        "question": "下列不属于大学生网络群体的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "班级同学微信群",
+            "B": "大学校园文学社",
+            "C": "大学生电竞QQ族",
+            "D": "大学生学习小组QQ群"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 124,
+        "type": "单选题",
+        "question": "大学生在大学生活成长过程中遇到的心理问题大体包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、境遇性心理问题和病理性心理问题。",
+        "selections": {
+            "A": "成长性心理问题",
+            "B": "学习性心理问题",
+            "C": "交往性心理问题",
+            "D": "懈怠性心理问题"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 125,
+        "type": "单选题",
+        "question": "社会生活条件是人格发展的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "决定因素",
+            "B": "物质基础",
+            "C": "次要因素",
+            "D": "无关因素"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 126,
+        "type": "单选题",
+        "question": "心理动力除动机、兴趣、世界观外还包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "情绪",
+            "B": "需要",
+            "C": "意志",
+            "D": "爱好"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 127,
+        "type": "单选题",
+        "question": "“小明走出考场，如释重负，心情愉快，欢快地向家中走去”，这描述的是小明情绪的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>状态。",
+        "selections": {
+            "A": "激情",
+            "B": "应激",
+            "C": "激动",
+            "D": "心境"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 128,
+        "type": "单选题",
+        "question": "关于大学生生理变化中“脑”的描述正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "第一信号系统和第二信号系统尚处于不发达",
+            "B": "第一信号系统发达、第二信号系统加快发展",
+            "C": "第一信号系统和第二信号系统功能趋于完善",
+            "D": "第一信号系统和第二信号系统的发育均结束"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 129,
+        "type": "单选题",
+        "question": "大学生情绪情感的强烈性与<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>并存。",
+        "selections": {
+            "A": "敏感性",
+            "B": "温和性",
+            "C": "隐匿性",
+            "D": "平静性"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 130,
+        "type": "单选题",
+        "question": "大学生人际交往具有动机迫切性、目的单纯性、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和心理差异性等特征。",
+        "selections": {
+            "A": "追求功利性",
+            "B": "选择盲目性",
+            "C": "内容多样性",
+            "D": "方式多变性"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 131,
+        "type": "单选题",
+        "question": "大学生人际交往具有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、内容多样性、目的单纯性和心理差异性等特征。",
+        "selections": {
+            "A": "利益单纯性",
+            "B": "动机迫切性",
+            "C": "内容兼顾性",
+            "D": "方式多变性"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 132,
+        "type": "单选题",
+        "question": "中国特色社会主义核心价值观建构的思想源泉是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "中国传统文化",
+            "B": "共产主义实践",
+            "C": "党的基本路线",
+            "D": "多民族的团结"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 133,
+        "type": "单选题",
+        "question": "东方文化的主要特征不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "重集体轻个人",
+            "B": "重大同轻差异",
+            "C": "重利己轻利他",
+            "D": "重社会化轻个性化"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 134,
+        "type": "单选题",
+        "question": "东方文化是一种<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的文化。",
+        "selections": {
+            "A": "偏集体价值取向",
+            "B": "偏个体价值取向",
+            "C": "排斥利己主义",
+            "D": "接纳利己主义"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 135,
+        "type": "单选题",
+        "question": "人际交往的定向阶段一般不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "对交往对象的注意",
+            "B": "对是否交往的抉择",
+            "C": "与对方初步的沟通",
+            "D": "解除自己的防御性"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 136,
+        "type": "单选题",
+        "question": "在稳定交往阶段，交往双方可以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "自然地讨论私密领域",
+            "B": "自然地分享生活空间",
+            "C": "忽略彼此的独立主张",
+            "D": "物质交换的价值模糊"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 137,
+        "type": "单选题",
+        "question": "人际交往的对等性和平等性反映了人际交往的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "平等互利原则",
+            "B": "相互尊重原则",
+            "C": "交互性原则",
+            "D": "等价性原则"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 138,
+        "type": "单选题",
+        "question": "按照霍曼斯的社会交换原则，人际交往的基础是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "等价交换的",
+            "B": "物质交换的",
+            "C": "精神交换的",
+            "D": "得大于失的"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 139,
+        "type": "单选题",
+        "question": "根据世界心理卫生联合会的意见，除身心调和、环境适应、幸福体验外，心理健康的标志还包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "工作和职业效率",
+            "B": "行动有目标",
+            "C": "职业能适应",
+            "D": "工作有能力"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 140,
+        "type": "单选题",
+        "question": "根据世界心理卫生联合会的意见，除身心调和、幸福体验、工作和职业有效率外，心理健康的标志还包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "职业效能感",
+            "B": "行动有目标",
+            "C": "环境适应性",
+            "D": "智力的水平"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 141,
+        "type": "单选题",
+        "question": "下列表述中不属于“人格发展”内涵的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "人格发展是一个社会化过程",
+            "B": "人格发展是一个整合性过程",
+            "C": "人格发展是一个毕生的过程",
+            "D": "人格发展是一个重建式过程"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 142,
+        "type": "单选题",
+        "question": "自我同一性意识强是个体<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的标志。",
+        "selections": {
+            "A": "智力优秀",
+            "B": "人格成熟",
+            "C": "自尊自信",
+            "D": "高效能感"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 143,
+        "type": "单选题",
+        "question": "个体关于生存理由及目的、目标的认知与体验叫做<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "人生的理想",
+            "B": "自我价值观",
+            "C": "生命意义感",
+            "D": "生涯方向感"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 144,
+        "type": "单选题",
+        "question": "下列表述中不属于大学生健全人格标准的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "自我整合，悦纳自己",
+            "B": "善于学习，保持好奇",
+            "C": "适应良好，行为有度",
+            "D": "宽以待己，宽以待人"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 145,
+        "type": "单选题",
+        "question": "情绪ABC理论的提出者是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "罗杰斯",
+            "B": "贝克",
+            "C": "埃利斯",
+            "D": "费勒斯"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 146,
+        "type": "单选题",
+        "question": "专业知识学习的最后一个阶段是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "理解阶段",
+            "B": "巩固阶段",
+            "C": "应用阶段",
+            "D": "感知阶段"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 147,
+        "type": "单选题",
+        "question": "心智技能的动作执行具有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "外显性",
+            "B": "内潜性",
+            "C": "观念性",
+            "D": "简缩性"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 148,
+        "type": "单选题",
+        "question": "复杂操作技能形成的第三个阶段是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "认知阶段",
+            "B": "操作分解阶段",
+            "C": "自动化阶段",
+            "D": "操作联系阶段"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 149,
+        "type": "单选题",
+        "question": "在教学过程中，教师最好将不同教学内容中所隐含的共同原理揭示出来。这符合迁移的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的观点。",
+        "selections": {
+            "A": "形式训练说",
+            "B": "关系转换说",
+            "C": "经验概括说",
+            "D": "认知结构说"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 150,
+        "type": "单选题",
+        "question": "个体品德形成的初始阶段，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的作用较为明显。",
+        "selections": {
+            "A": "社会舆论",
+            "B": "态度定势",
+            "C": "教师指导",
+            "D": "认知内驱力"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 151,
+        "type": "单选题",
+        "question": "塑造道德行为时应把道德行为习惯的训练与<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的培养和激发结合起来，使道德行为本身成为学生的内在需求。",
+        "selections": {
+            "A": "道德意志",
+            "B": "道德认知",
+            "C": "道德动机",
+            "D": "道德信念"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 152,
+        "type": "单选题",
+        "question": "动机具有启动、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和维持功能。",
+        "selections": {
+            "A": "定向",
+            "B": "促进",
+            "C": "激发",
+            "D": "强化"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 153,
+        "type": "单选题",
+        "question": "持有自我发生型学习动机的大学生往往持有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>构念。",
+        "selections": {
+            "A": "独立型自我",
+            "B": "互依型自我",
+            "C": "实现型自我",
+            "D": "奉献型自我"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 154,
+        "type": "单选题",
+        "question": "通过教育、引导、激励、反馈等方式对大学生的学习动机进行培养、调节、优化，这体现了大学生学习动机的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "多样性",
+            "B": "差异性",
+            "C": "动态性",
+            "D": "可塑性"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 155,
+        "type": "单选题",
+        "question": "影响大学生学习动机的内在因素主要有人格、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和归因。",
+        "selections": {
+            "A": "知识基础",
+            "B": "智力水平",
+            "C": "价值观",
+            "D": "身体素质"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 156,
+        "type": "单选题",
+        "question": "“已知平行四边形的底边和高，求该平行四边形的面积”这一问题的给定是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "平行四边形",
+            "B": "平行四边形的底边和高",
+            "C": "平行四边形的面积",
+            "D": "平行四边形的周长"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 157,
+        "type": "单选题",
+        "question": "问题解决的首要环节是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "问题表征",
+            "B": "提出假设",
+            "C": "验证假设",
+            "D": "检验结果"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 158,
+        "type": "单选题",
+        "question": "创造活动的原动力是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "丰富的知识",
+            "B": "不懈的毅力",
+            "C": "新奇的想法",
+            "D": "浓厚的求知欲"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 159,
+        "type": "单选题",
+        "question": "心理安全与自由的提出者是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "布鲁纳",
+            "B": "罗杰斯",
+            "C": "马斯洛",
+            "D": "班杜拉"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 160,
+        "type": "单选题",
+        "question": "威廉·戈登提出的发展创造力的方法是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "集体研究制",
+            "B": "逆向思考法",
+            "C": "头脑风暴法",
+            "D": "组合思考法"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 161,
+        "type": "多选题",
+        "question": "教师教学行为包括的环节有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "设计教学目标",
+            "B": "实施教学过程",
+            "C": "改进教学策略",
+            "D": "调整教学评价"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 162,
+        "type": "多选题",
+        "question": "引导学生进行意志的自我锻炼的途径有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "激发学生锻炼愿望",
+            "B": "指导学生制定锻炼计划",
+            "C": "指导学生学会自我评价和自我反馈",
+            "D": "发挥教师的言传身教作用"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 163,
+        "type": "多选题",
+        "question": "集体凝聚力的培养包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "目标整合",
+            "B": "心理互容",
+            "C": "避免争论",
+            "D": "积极开展活动"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 164,
+        "type": "多选题",
+        "question": "根据教师掌握心理学、教育学理论和教育技术程度，教学的针对性、灵活性、创造性及其有效性，可以将教师的教学行为大致分为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>三种水平。",
+        "selections": {
+            "A": "尝试式教学",
+            "B": "启发式教学",
+            "C": "因循式教学",
+            "D": "策略式教学"
+        },
+        "answer": "ACD"
+    },
+    {
+        "id": 165,
+        "type": "多选题",
+        "question": "亲密关系的建立意味着把<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>融为一体，在融合的过程中必然会产生矛盾和摩擦，双方必须做出适当的调整和牺牲，才能发展良好的亲密关系。",
+        "selections": {
+            "A": "同学的同一性",
+            "B": "自己的同一性",
+            "C": "恋人的同一性",
+            "D": "他人的同一性"
+        },
+        "answer": "BD"
+    },
+    {
+        "id": 166,
+        "type": "多选题",
+        "question": "真正的集体一般会兼顾<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的利益。",
+        "selections": {
+            "A": "个人",
+            "B": "集体",
+            "C": "社会",
+            "D": "自然"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 167,
+        "type": "多选题",
+        "question": "古希腊亚里士多德(Aristotes)的《论灵魂》为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的和谐发展提供了哲学心理学的依据。",
+        "selections": {
+            "A": "德育",
+            "B": "智育",
+            "C": "体育",
+            "D": "美育"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 168,
+        "type": "多选题",
+        "question": "所有正常人格发展都会遵循大体相同的发展模式，但是也具有一定的差异性，具体表现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "发展速度上",
+            "B": "发展的起止时间上",
+            "C": "达到的最高水平上",
+            "D": "发展的优势领域上"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 169,
+        "type": "多选题",
+        "question": "归因对个体的影响表现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "个体对今后成功的期望",
+            "B": "不同的原因觉知所引起不同的情感反应",
+            "C": "个体的后继行为",
+            "D": "个体的不同需要"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 170,
+        "type": "多选题",
+        "question": "下面关于高校教师威信的维护和提升的表述正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "要有坦荡的胸怀",
+            "B": "要有不断进取的精神",
+            "C": "要言行一致",
+            "D": "发挥心理效应"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 171,
+        "type": "多选题",
+        "question": "创造性教学要求教师<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "注意提供自由、安全、和谐的情境与气氛",
+            "B": "注重激发学生兴趣",
+            "C": "单独开设创造性课程",
+            "D": "鼓励学生表达与接纳不同的意见"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 172,
+        "type": "多选题",
+        "question": "大学生认知偏差常表现为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "兴趣狭窄",
+            "B": "绝对化",
+            "C": "思维播散",
+            "D": "概括化"
+        },
+        "answer": "BD"
+    },
+    {
+        "id": 173,
+        "type": "多选题",
+        "question": "下列特质中属于大五人格所提到的成分是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "变异性",
+            "B": "宜人性",
+            "C": "开放性",
+            "D": "实验性"
+        },
+        "answer": "BC"
+    },
+    {
+        "id": 174,
+        "type": "多选题",
+        "question": "高校教师的教育能力包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "因材施教能力",
+            "B": "教学设计能力",
+            "C": "组织管理能力",
+            "D": "教学监控能力"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 175,
+        "type": "多选题",
+        "question": "心智技能练习的心理特征包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "对象脱离具体支持物",
+            "B": "进程压缩化",
+            "C": "应用高效性",
+            "D": "形成运动图式"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 176,
+        "type": "多选题",
+        "question": "教师在指导大学生心智技能的形成时要<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "促进学生陈述性知识的形成",
+            "B": "促进学生产生式知识的自动化",
+            "C": "加强学生语言表达能力的训练",
+            "D": "指导学生科学练习"
+        },
+        "answer": "BCD"
+    },
+    {
+        "id": 177,
+        "type": "多选题",
+        "question": "学习高等数学后促进了原有数学知识的学习，这种迁移属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "正迁移",
+            "B": "负迁移",
+            "C": "顺向迁移",
+            "D": "逆向迁移"
+        },
+        "answer": "AD"
+    },
+    {
+        "id": 178,
+        "type": "多选题",
+        "question": "下列情感属于道德情感的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "义务感",
+            "B": "荣誉感",
+            "C": "爱国主义情感",
+            "D": "爱情"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 179,
+        "type": "多选题",
+        "question": "下列关于道德信念表述正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "道德信念是道德活动的理性基础",
+            "B": "一旦道德信念形成就会使个体的道德行为表现出坚定性和一贯性",
+            "C": "教师自身的道德信念对学生具有强烈的迁移与感化作用",
+            "D": "道德情感是道德信念的基础"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 180,
+        "type": "多选题",
+        "question": "引导学生想象力的方法有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "将不同类型的表象进行重新组合",
+            "B": "抓住事物之间的相似性",
+            "C": "进行集中思维训练",
+            "D": "累积丰富知识经验"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 181,
+        "type": "判断题",
+        "question": "教育心理学的研究对象就是教师教育的基本心理学规律。",
+        "answer": "N"
+    },
+    {
+        "id": 182,
+        "type": "判断题",
+        "question": "男女平等趋向是当代大学生的婚恋观带有个人主义色彩的典型表现。",
+        "answer": "N"
+    },
+    {
+        "id": 183,
+        "type": "判断题",
+        "question": "高校教师要对教学内容进行科学的加工设计，选择恰当的教学方法进行有效教学。",
+        "answer": "Y"
+    },
+    {
+        "id": 184,
+        "type": "判断题",
+        "question": "良好的人际关系是教师获得幸福感的重要影响因素。",
+        "answer": "Y"
+    },
+    {
+        "id": 185,
+        "type": "判断题",
+        "question": "操作技能与心智技能既有联系也有区别，并可以相互转化。",
+        "answer": "Y"
+    },
+    {
+        "id": 186,
+        "type": "判断题",
+        "question": "通俗地说，学习策略就是学习方法。",
+        "answer": "N"
+    },
+    {
+        "id": 187,
+        "type": "判断题",
+        "question": "相比于认知策略，元认知策略和资源管理策略不太重要。",
+        "answer": "N"
+    },
+    {
+        "id": 188,
+        "type": "判断题",
+        "question": "道德信念是个人道德品质形成中的关键因素。",
+        "answer": "Y"
+    },
+    {
+        "id": 189,
+        "type": "判断题",
+        "question": "对个体道德品质的评价主要以该个体的道德行动为依据。",
+        "answer": "Y"
+    },
+    {
+        "id": 190,
+        "type": "判断题",
+        "question": "归因训练时应尽量引导学生进行努力归因和可控归因。",
+        "answer": "Y"
+    },
+    {
+        "id": 191,
+        "type": "判断题",
+        "question": "真创造和类创造所表现出来的思维或认知能力在本质上是不同的。",
+        "answer": "N"
+    },
+    {
+        "id": 192,
+        "type": "判断题",
+        "question": "高度紧张和过度焦虑等消极情绪会抑制大学生思维活动，阻碍问题解决。",
+        "answer": "Y"
+    },
+    {
+        "id": 193,
+        "type": "判断题",
+        "question": "别人在场或与别人一起活动，造成活动效率下降的现象，被称为去个性化。",
+        "answer": "N"
+    },
+    {
+        "id": 194,
+        "type": "判断题",
+        "question": "大一新生最突出的问题是如何适应大学生活，建立起新的人际关系。",
+        "answer": "Y"
+    },
+    {
+        "id": 195,
+        "type": "判断题",
+        "question": "卡特尔根据人格特质理论编制了16种人格因素调查表，简称16PF。",
+        "answer": "Y"
+    },
+    {
+        "id": 196,
+        "type": "判断题",
+        "question": "通过对大学生逻辑思维的考察，了解到大学生的形式逻辑思维进一步发展，并占主导地位。",
+        "answer": "Y"
+    },
+    {
+        "id": 197,
+        "type": "判断题",
+        "question": "人格是心理学独有的概念和研究内容。",
+        "answer": "N"
+    },
+    {
+        "id": 198,
+        "type": "判断题",
+        "question": "不良行为者的许多问题就是只顾追求长远的利益（延时强化），而没有考虑眼前的利益（及时强化）。",
+        "answer": "N"
+    },
+    {
+        "id": 199,
+        "type": "判断题",
+        "question": "交往情境可以分为客观情境和心理情境，其中客观情境在交往中起决定作用。",
+        "answer": "N"
+    },
+    {
+        "id": 200,
+        "type": "判断题",
+        "question": "自我生发型和社会规范型学习动机都仅仅指向了学习成绩和学业发展，并未向全人生发展的方向延伸。",
+        "answer": "N"
+    },
+    {
+        "id": 201,
+        "type": "判断题",
+        "question": "教学中，教师应满足学生需要，以内在动机为辅，激发外在学习动机。",
+        "answer": "N"
+    },
+    {
+        "id": 202,
+        "type": "判断题",
+        "question": "大学课堂应鼓励学生进行“学术冒险”，即创造条件，使学生勇于选择高难度的挑战任务。",
+        "answer": "N"
+    },
+    {
+        "id": 203,
+        "type": "判断题",
+        "question": "创造性教学存在于一般教学活动之中，同一般教学活动相辅相成。",
+        "answer": "Y"
+    },
+    {
+        "id": 204,
+        "type": "判断题",
+        "question": "正式群体内部的非正式群体常常会破坏群体的团结。",
+        "answer": "N"
+    },
+    {
+        "id": 205,
+        "type": "判断题",
+        "question": "人际关系是所有年代中大学生心理健康的标准之一。",
+        "answer": "Y"
+    },
+    {
+        "id": 206,
+        "type": "判断题",
+        "question": "角色认同高的高校教师会自觉履行教师角色的行为规范、社会职责，并经常用优秀教师的标准来衡量自己的言行。",
+        "answer": "Y"
+    },
+    {
+        "id": 207,
+        "type": "判断题",
+        "question": "尝试背诵法的效果要远远好于单纯重复阅读。",
+        "answer": "Y"
+    },
+    {
+        "id": 208,
+        "type": "判断题",
+        "question": "学习有法，学无定法，贵在得法。",
+        "answer": "Y"
+    },
+    {
+        "id": 209,
+        "type": "判断题",
+        "question": "压力可以是阻力，也可以成为动力，这在很大程度上取决于教师个体对压力的认知。",
+        "answer": "Y"
+    },
+    {
+        "id": 210,
+        "type": "判断题",
+        "question": "学习策略区别于一般学习方法或学习方式的最大特点是计划预谋性。",
+        "answer": "N"
+    },
+    {
+        "id": 211,
+        "type": "判断题",
+        "question": "认知主义心理学被称为是心理学的“第三势力”。",
+        "answer": "N"
+    },
+    {
+        "id": 212,
+        "type": "判断题",
+        "question": "心理测试可以有效反映大学生的心理问题，是心理问题识别的关键手段。",
+        "answer": "N"
+    },
+    {
+        "id": 213,
+        "type": "判断题",
+        "question": "人格发展是个体整体的发展，也是终生的过程。",
+        "answer": "Y"
+    },
+    {
+        "id": 214,
+        "type": "判断题",
+        "question": "人际冲突是普遍存在和不可避免的，理性处理冲突对于维护人际关系至关重要。",
+        "answer": "Y"
+    },
+    {
+        "id": 215,
+        "type": "判断题",
+        "question": "大学生的心理健康标准不包括建立亲密关系的能力方面。",
+        "answer": "N"
+    },
+    {
+        "id": 216,
+        "type": "判断题",
+        "question": "健全人格的培养需要在人际交往中避免与人发生冲突和争执。",
+        "answer": "N"
+    },
+    {
+        "id": 217,
+        "type": "判断题",
+        "question": "实物直观受时间、空间和感官特性的限制较大，必须结合其他的直观形式。",
+        "answer": "Y"
+    },
+    {
+        "id": 218,
+        "type": "判断题",
+        "question": "一般来说，知识的正例传递了有利于辨别的信息。",
+        "answer": "N"
+    },
+    {
+        "id": 219,
+        "type": "判断题",
+        "question": "对伦理性道德情感的培养主要依靠说理的方式进行。",
+        "answer": "Y"
+    },
+    {
+        "id": 220,
+        "type": "判断题",
+        "question": "问题表征就是在头脑中以某种理解来呈现问题，使问题的任务领域转化为问题空间。",
+        "answer": "Y"
+    }
+]

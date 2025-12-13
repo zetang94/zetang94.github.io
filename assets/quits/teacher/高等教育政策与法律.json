@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "type": "单选题",
+        "question": "教育法治化的核心是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "法治权威",
+            "B": "法治精神",
+            "C": "法治理念",
+            "D": "法治规范"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 2,
+        "type": "单选题",
+        "question": "我国高等教育法治化的分界线是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "1978年党的十一届三中全会",
+            "B": "1982年通过《中华人民共和国宪法》",
+            "C": "1995年通过《教育法》",
+            "D": "1998年通过《高等教育法》"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 3,
+        "type": "单选题",
+        "question": "教育法律法规维护教育主体的合法权益，保障教育事业的顺利发展，这样<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>就成了教育立法的实施指向。",
+        "selections": {
+            "A": "教育守法",
+            "B": "受教育者",
+            "C": "教育者",
+            "D": "教育执法"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 4,
+        "type": "单选题",
+        "question": "关于教育法治的权威化，以下说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教育法治的权威化体现为在教育领域法的权威化和法治的权威化",
+            "B": "在教育事业的发展中必须树立法律的权威性",
+            "C": "教育法治化不仅是一种教育实践，还是一种理念和思想",
+            "D": "教育法治的权威化仅指法律在教育领域是一种治理工具"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 5,
+        "type": "单选题",
+        "question": "以下哪一项属于我国教育法治化初步发展阶段颁布的政策文件？",
+        "selections": {
+            "A": "《关于教育体制改革的决定》",
+            "B": "《中华人民共和国学位条例》",
+            "C": "《中华人民共和国教师法》",
+            "D": "《关于一九五三年全国高等学校院系调整的计划》"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 6,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>揭开了社会主义法治重建的序幕，开始了高等教育法治建设的恢复发展。",
+        "selections": {
+            "A": "十二届二中全会",
+            "B": "十一届二中全会",
+            "C": "十一届三中全会",
+            "D": "十届三中全会"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 7,
+        "type": "单选题",
+        "question": "1980年，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>制定通过了《中华人民共和国学位条例》，高等教育事业开始步入正轨.",
+        "selections": {
+            "A": "教育部",
+            "B": "国务院",
+            "C": "高教司",
+            "D": "全国人大常委会"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 8,
+        "type": "单选题",
+        "question": "1981年，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>制定了《中华人民共和国学位条例暂行实施办法》。",
+        "selections": {
+            "A": "全国人大",
+            "B": "全国人大常委会",
+            "C": "教育部",
+            "D": "国务院"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 9,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，随着第一个“五年普法”工作的开展，全国各地、各行业都在推行“依法治理”工作，在教育领域逐渐出现了“依法治教”的说法。",
+        "selections": {
+            "A": "20世纪90年代后期",
+            "B": "20世纪80年代后期",
+            "C": "21世纪初期",
+            "D": "20世纪90年代中期"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 10,
+        "type": "单选题",
+        "question": "第一次明确提出依法治教方针的文件是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《中国教育改革和发展纲要》",
+            "B": "《关于加强依法治校工作的若干意见》",
+            "C": "《关于加强教育法制建设的意见》",
+            "D": "《依法治教实施纲要（2016—2020年）》"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 11,
+        "type": "单选题",
+        "question": "关于社会主义教育事业的性质，以下说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "我国的教育事业具有一定的公益性质",
+            "B": "我国的教育事业发展是以人民为中心的体现",
+            "C": "我国的教育事业是全公益性质的",
+            "D": "社会主义国家教育和资本主义国家教育有本质的区别"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 12,
+        "type": "单选题",
+        "question": "关于法治与法制的区别，以下说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "法治的内涵大于法制",
+            "B": "法制的内涵大于法治",
+            "C": "法治到法制的变化是一种进步",
+            "D": "法制是最佳的社会治理体系"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 13,
+        "type": "单选题",
+        "question": "教师作为公民和教育者的双重身份要求教师的法治素养更高，教师要知法、守法和用法。<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教师知法、守法、用法的前提。",
+        "selections": {
+            "A": "法治意识",
+            "B": "法治实践",
+            "C": "法治思维",
+            "D": "法治精神"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 14,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教师知法、守法、用法的保证。",
+        "selections": {
+            "A": "法治精神",
+            "B": "法治思维",
+            "C": "法治意识",
+            "D": "法治水平"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 15,
+        "type": "单选题",
+        "question": "下列属于教育基本法的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《中华人民共和国教师法》",
+            "B": "《中华人民共和国教育法》",
+            "C": "《中华人民共和国义务教育法》",
+            "D": "《中华人民共和国高等教育法》"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 16,
+        "type": "单选题",
+        "question": "中国的高等教育已经进入<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>时代。",
+        "selections": {
+            "A": "精英化",
+            "B": "普及化",
+            "C": "扩招化",
+            "D": "大众化"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 17,
+        "type": "单选题",
+        "question": "教育法律的最高层次是指<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《中华人民共和国教育法》",
+            "B": "全国人民代表大会制定的宪法中的有关教育条款",
+            "C": "《中华人民共和国义务教育法》",
+            "D": "全国人民代表大会常务委员会制定的教育单行法规"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 18,
+        "type": "单选题",
+        "question": "下列属于全国人民代表大会常务委员会制定的教育单行法律的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《中华人民共和国学位条例》",
+            "B": "《中华人民共和国教育法》",
+            "C": "《教师资格条例》",
+            "D": "《校外培训行政处罚暂行办法》"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 19,
+        "type": "单选题",
+        "question": "下列不属于教育政策与法律基本功能的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "维护和保障教育事业的发展的发展方向",
+            "B": "调配各种教育资源",
+            "C": "保证教育主办方获得经济利益",
+            "D": "协调和平衡教育系统相关矛盾和冲突"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 20,
+        "type": "单选题",
+        "question": "从教育的内外部关系规律来看，教育的目的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "推动社会进步",
+            "B": "促进人与社会的发展",
+            "C": "实现人的全面发展",
+            "D": "推动生产力和生产关系的和谐发展"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 21,
+        "type": "单选题",
+        "question": "关于党的十一届三中全会，以下说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "在此之前我国高等教育法治化建设毫无建树",
+            "B": "在此之前我国高等教育法治化建设飞速发展",
+            "C": "在此之后我国高等教育法治化建设发展缓慢",
+            "D": "在此之前我国高等教育法治化建设经历了开始发展到停滞不前"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 22,
+        "type": "单选题",
+        "question": "《中华人民共和国学位条例》是在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>年制订通过的。",
+        "selections": {
+            "A": "1980",
+            "B": "1999",
+            "C": "2002",
+            "D": "1978"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 23,
+        "type": "单选题",
+        "question": "教育政策是教育政策主体在一定时期内为实现特定教育目标而制定的行动准则或行动规范，以下理解不正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "是对教育政策客体行为的规范性要求",
+            "B": "以特定的教育问题为逻辑起点",
+            "C": "有其特定的权利属性",
+            "D": "是一种对教育利益进行分配的动态连续的主动选择和发展过程"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 24,
+        "type": "单选题",
+        "question": "以下不属于高等教育政策系统内部组成部分的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等教育经费政策",
+            "B": "高等教育课程政策",
+            "C": "税收政策",
+            "D": "高职高专高等教育政策"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 25,
+        "type": "单选题",
+        "question": "高等教育政策在引导高等教育系统朝着特定目标发展时，其核心功能被称为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "分配功能",
+            "B": "象征功能",
+            "C": "导向功能",
+            "D": "协调功能"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 26,
+        "type": "单选题",
+        "question": "高等教育政策的功能主要体现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "仅调节高等教育机构内部的成员行为",
+            "B": "主要控制高等教育机构的财务和预算分配",
+            "C": "影响或调节高等教育成员及其行为的范围，包括不同的成员、阶层、行业或地区",
+            "D": "只针对特定地区的居民进行教育政策的制定和实施"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 27,
+        "type": "单选题",
+        "question": "高等教育政策的规范功能主要体现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "规定高等教育机构必须遵循的最低标准",
+            "B": "为高等教育成员提供个性化的发展路径",
+            "C": "强制所有高等教育成员参与特定的研究项目",
+            "D": "仅对高等教育成员的学术成果进行评价和认证"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 28,
+        "type": "单选题",
+        "question": "下列哪一类主体通常不被视为官方的高等教育政策活动者？",
+        "selections": {
+            "A": "教育行政部门",
+            "B": "学术研究机构",
+            "C": "执政党",
+            "D": "立法机构"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 29,
+        "type": "单选题",
+        "question": "以下哪种智库具有独立性和客观性的最大特点？",
+        "selections": {
+            "A": "官方智库",
+            "B": "半官方智库",
+            "C": "民间智库",
+            "D": "跨国智库"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 30,
+        "type": "单选题",
+        "question": "高等教育政策制定的基本出发点是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "经济环境",
+            "B": "政治环境",
+            "C": "文化环境",
+            "D": "国际环境"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 31,
+        "type": "单选题",
+        "question": "高等教育政策中“目标团体”指的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "政策制定者",
+            "B": "受政策影响的高等教育成员",
+            "C": "教育行政部门",
+            "D": "高等教育机构"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 32,
+        "type": "单选题",
+        "question": "学术委员会的特邀委员由校长、学术委员会主任委员或者<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>以上学术委员会委员提名，经学术委员会同意后确定。",
+        "selections": {
+            "A": "二分之一",
+            "B": "三分之一",
+            "C": "三分之二",
+            "D": "四分之三"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 33,
+        "type": "单选题",
+        "question": "学术委员会委员由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>聘任。",
+        "selections": {
+            "A": "校长",
+            "B": "学术委员会主任",
+            "C": "学术委员会",
+            "D": "主任委员"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 34,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教师职称评审的首要条件。",
+        "selections": {
+            "A": "思想政治",
+            "B": "师德表现",
+            "C": "立德树人的成效",
+            "D": "科研业绩"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 35,
+        "type": "单选题",
+        "question": "完善教师评价标准应当严把思想政治和师德师风考核。贯彻习近平新时代中国特色社会主义思想，坚持社会主义办学方向，以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为核心。",
+        "selections": {
+            "A": "思想政治教育",
+            "B": "社会主义核心价值观教育",
+            "C": "理想信念教育",
+            "D": "价值观教育"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 36,
+        "type": "单选题",
+        "question": "根据《关于深化高等学校教师职称制度改革的指导意见》，高校教师职称评审权直接下放至<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "省级人民政府",
+            "B": "省级人民政府教育行政部门",
+            "C": "高校",
+            "D": "学院"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 37,
+        "type": "单选题",
+        "question": "下列不属于教育部“红七条”的师德禁行行为是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "不得有损害国家利益、损害学生和学校合法权益的行为",
+            "B": "不得忽视学生的正当需求",
+            "C": "不得在教育教学活动中有违背党的路线方针政策的言行",
+            "D": "不得在招生、考试、学生推优、保研等工作中徇私舞弊"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 38,
+        "type": "单选题",
+        "question": "国家励志奖学金奖励标准为每人每年<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>元；获得励志奖学金的人数占学生总数的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "8000、3%",
+            "B": "5000、3%",
+            "C": "3000、5%",
+            "D": "5000、5%"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 39,
+        "type": "单选题",
+        "question": "《普通本科高校、高等职业学校国家助学金管理暂行办法》规定，平均资助标准为每生每年<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>元，具体标准在每生每年1000—3000元范围内确定，可以分为2—3档。",
+        "selections": {
+            "A": "1000",
+            "B": "1500",
+            "C": "2000",
+            "D": "2500"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 40,
+        "type": "单选题",
+        "question": "根据《普通高等学校学生管理规定》规定，学校要坚持以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为根本。",
+        "selections": {
+            "A": "立德树人",
+            "B": "理想信念教育",
+            "C": "培养学生的创新精神和实践能力",
+            "D": "依法治校"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 41,
+        "type": "单选题",
+        "question": "高校根据《专业目录》设置专业（国家控制布点专业除外），需要经法定程序报<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>备案。",
+        "selections": {
+            "A": "国务院",
+            "B": "教育部",
+            "C": "所在地省人民政府",
+            "D": "所在地省教育厅"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 42,
+        "type": "单选题",
+        "question": "“双万计划”建设原则上按<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>实施。",
+        "selections": {
+            "A": "“两步走”",
+            "B": "“三步走”",
+            "C": "“四步走”",
+            "D": "“五育并举”"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 43,
+        "type": "单选题",
+        "question": "“双万计划”报送的专业需要通过<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>组织开展的认证才可以确定为国家级一流本科专业。",
+        "selections": {
+            "A": "教育部",
+            "B": "国务院",
+            "C": "全国人民代表大会的相关专业委员会",
+            "D": "全国人民代表大会常务委员会的相关专业委员会"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 44,
+        "type": "单选题",
+        "question": "高校专业设置原则上鼓励学校设置前沿、紧缺、交叉融合的专业，优化专业结构，注重突出专业建设在人才培养中的主导地位，不断提高<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>培养质量。",
+        "selections": {
+            "A": "基础型人才",
+            "B": "复合型人才",
+            "C": "创新型人才",
+            "D": "应用型人才"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 45,
+        "type": "单选题",
+        "question": "关于我国教育的目标，以下说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "必须与生产劳动和社会实践相结合",
+            "B": "培养德智体美劳全面发展的社会主义建设者和接班人",
+            "C": "教育应当坚持立德树人，对受教育者加强社会主义核心价值观教育",
+            "D": "教育应该保持独立性，应远离意识形态影响"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 46,
+        "type": "单选题",
+        "question": "根据《中华人民共和国教育法》相关规定，我国教育的基本性质是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "以人为本",
+            "B": "社会主义",
+            "C": "教书育人",
+            "D": "教育和社会实践相结合"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 47,
+        "type": "单选题",
+        "question": "《中华人民共和国高等教育法》规定，本科教育的基本修业年限为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>年。",
+        "selections": {
+            "A": "四至五",
+            "B": "三至六",
+            "C": "四至六",
+            "D": "四至七"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 48,
+        "type": "单选题",
+        "question": "高等教育，是指在完成高级中等教育基础上实施的教育。它包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "学历教育和非学历教育",
+            "B": "本科教育和研究生教育",
+            "C": "全日制教育和非全日制教育",
+            "D": "专科教育和本科教育"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 49,
+        "type": "单选题",
+        "question": "19世纪中叶以后，下列<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是最为典型的现代意义的高等学校。",
+        "selections": {
+            "A": "德国洪堡大学",
+            "B": "法国巴黎大学",
+            "C": "英国剑桥大学",
+            "D": "美国哈佛大学"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 50,
+        "type": "单选题",
+        "question": "名誉博士学位授予、撤销的具体办法由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>制定。",
+        "selections": {
+            "A": "学位授予单位",
+            "B": "省级学位委员会",
+            "C": "国务院教育行政部门",
+            "D": "国务院学位委员会"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 51,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>年中共中央、国务院颁布了《关于全面深化新时代教师队伍建设改革的意见》。",
+        "selections": {
+            "A": "2016",
+            "B": "2017",
+            "C": "2018",
+            "D": "2019"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 52,
+        "type": "单选题",
+        "question": "根据《民办教育促进法》的规定，我国民办教育的性质是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "准公益性",
+            "B": "公益性",
+            "C": "营利性",
+            "D": "公共性"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 53,
+        "type": "单选题",
+        "question": "教育行政部门委托社会中介组织对民办高校的办学水平和教育质量进行评估，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是行政主体。",
+        "selections": {
+            "A": "受委托的社会中介组织",
+            "B": "接受评估的民办高校",
+            "C": "委托评估的教育行政部门",
+            "D": "教育行政部门所属的当地人民政府"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 54,
+        "type": "单选题",
+        "question": "高等教育行政机关的主要职能不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等教育招生和录取管理",
+            "B": "高等教育机构的学科专业设置和评估",
+            "C": "高等教育毕业生的就业政策制定",
+            "D": "高等教育学费的收取"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 55,
+        "type": "单选题",
+        "question": "对盗用、冒用他人身份，顶替他人取得的入学资格的，由教育行政部门或者其他有关行政部门责令撤销入学资格，并责令停止参加相关国家教育考试<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "一年以上三年以下",
+            "B": "一年以上五年以下",
+            "C": "二年以下三年以下",
+            "D": "二年以上五年以下"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 56,
+        "type": "单选题",
+        "question": "在国家教育考试中出现的考试作弊行为，由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>处理。",
+        "selections": {
+            "A": "省级教育行政机关",
+            "B": "市级教育行政机关",
+            "C": "省级教育考试机构",
+            "D": "市级教育考试机构"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 57,
+        "type": "单选题",
+        "question": "加强<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>人民政府对高等教育的统筹权，调动地方办学积极性，是我国高等教育改革的方向。",
+        "selections": {
+            "A": "中央",
+            "B": "省级",
+            "C": "市级",
+            "D": "省级和市级"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 58,
+        "type": "单选题",
+        "question": "省级教育行政机关根据教师资格专家审查委员会的审查意见，在受理申请期限终止之日起<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>个法定工作日内作出是否认定教师资格的结论。",
+        "selections": {
+            "A": "15",
+            "B": "20",
+            "C": "30",
+            "D": "60"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 59,
+        "type": "单选题",
+        "question": "以下关于“高等教育行政机关”的表述，错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "国务院其他有关部门在国务院规定的职责范围内，负责有关的高等教育工作。",
+            "B": "与中央教育行政机关相比，省、自治区、直辖市人民政府的管理事项具有地域性。",
+            "C": "《高等教育法》没有明确提及省级教育行政部门负责高等教育工作，因此省级教育行政部门不是高等教育行政机关。",
+            "D": "教育部高等教育司既不是行政机关，也不是行政主体。"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 60,
+        "type": "单选题",
+        "question": "《高等教育法》第25条第2款规定：“设立高等学校的具体标准由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>制定。”",
+        "selections": {
+            "A": "全国人大常委会",
+            "B": "国务院",
+            "C": "国务院教育行政部门",
+            "D": "省级教育行政部门"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 61,
+        "type": "单选题",
+        "question": "捐赠者对民办学校发展做出特殊贡献的，实施高等学历教育的民办学校经<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>按照国家规定的条件批准，可以以捐赠者的姓名或者名称作为学校校名。",
+        "selections": {
+            "A": "国务院",
+            "B": "国务院教育行政部门",
+            "C": "省级人民政府",
+            "D": "省级教育行政部门"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 62,
+        "type": "单选题",
+        "question": "关于“携带手机进入考场”，以下表述<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是正确的。",
+        "selections": {
+            "A": "携带手机进入考场即认定为考试作弊",
+            "B": "使用手机是构成考试作弊的前提",
+            "C": "故意携带手机进入考场才可能认定为考试作弊",
+            "D": "过失携带手机进入考场不构成考试作弊"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 63,
+        "type": "单选题",
+        "question": "《高等教育法》第19条第4款规定，允许特定学科和专业的本科毕业生直接取得博士研究生入学资格，具体办法由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>规定。",
+        "selections": {
+            "A": "国务院",
+            "B": "国务院教育行政部门",
+            "C": "国务院人力资源与社会保障部门",
+            "D": "省级人民政府"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 64,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>不是国务院制定的行政法规。",
+        "selections": {
+            "A": "《高等教育自学考试暂行条例》",
+            "B": "《教师资格条例》",
+            "C": "《教育督导条例》",
+            "D": "《民办教育促进法》"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 65,
+        "type": "单选题",
+        "question": "地方政府举办的高等学校的章程由省级教育行政部门核准，其中本科以上高等学校的章程核准后，应当报<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>备案。",
+        "selections": {
+            "A": "国务院",
+            "B": "教育部",
+            "C": "同级人民政府",
+            "D": "国务院学位委员会"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 66,
+        "type": "单选题",
+        "question": "《学校招收和培养国际学生管理办法》第41条规定，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>应当对本行政区域的国际学生培养进行监督。",
+        "selections": {
+            "A": "省级人民政府",
+            "B": "省级教育行政部门",
+            "C": "市级人民政府",
+            "D": "市级教育行政部门"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 67,
+        "type": "单选题",
+        "question": "高等教育行政补助的对象不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "地方政府",
+            "B": "高校教师",
+            "C": "高等学校",
+            "D": "高校学生"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 68,
+        "type": "单选题",
+        "question": "高等教育行政机关的法律责任本质上是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "民事责任",
+            "B": "行政责任",
+            "C": "刑事责任",
+            "D": "教育责任"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 69,
+        "type": "单选题",
+        "question": "对高等教育行政机关不履行或迟延履行法定职责的违法行为，法律责任的形式为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "责令改正",
+            "B": "限期履行",
+            "C": "行政赔偿",
+            "D": "罚款"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 70,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>主要是以行使法定行政职权的方式来推进高等教育事业发展。",
+        "selections": {
+            "A": "高等教育行政机关",
+            "B": "高等学校",
+            "C": "学生",
+            "D": "家庭"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 71,
+        "type": "单选题",
+        "question": "《职业教育法》第67条规定：“教育行政部门、人力资源社会保障行政部门或者其他有关部门的工作人员违反本法规定，滥用职权、玩忽职守、徇私舞弊的，依法给予处分；构成犯罪的，依法追究刑事责任。”该条款关于行政处分和刑事责任的内容需要通过其他法律规范确定，属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "授权性条款",
+            "B": "义务性条款",
+            "C": "权利性条款",
+            "D": "引致性条款"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 72,
+        "type": "单选题",
+        "question": "将教育法律责任与其他领域的法律责任区分开来的，是其<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "综合性",
+            "B": "多元性",
+            "C": "教育属性",
+            "D": "责任形式"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 73,
+        "type": "单选题",
+        "question": "关于“高等教育行政机关工作人员法律责任”的表述正确的有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "按照违法行为的危害程度区分行政责任和刑事责任, 二者不能等同或替代",
+            "B": "已经构成刑事犯罪的，行为人无需再承担行政责任",
+            "C": "已经构成刑事犯罪的，一律给予撤职处分",
+            "D": "已经构成刑事犯罪的，一律给予开除处分"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 74,
+        "type": "单选题",
+        "question": "高等教育行政机关的工作人员<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "承担外部行政法律责任",
+            "B": "承担内部行政法律责任",
+            "C": "既承担外部行政法律责任，又承担行政内部法律责任",
+            "D": "不承担任何行政法律责任"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 75,
+        "type": "单选题",
+        "question": "高等教育行政机关工作人员的刑事法律责任是指其行为违反了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>而应承担的法律责任。",
+        "selections": {
+            "A": "民事法律规范",
+            "B": "行政法律规范",
+            "C": "刑事法律规范",
+            "D": "宪法规范"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 76,
+        "type": "单选题",
+        "question": "大学及独立设置的学院应当具有较强的教学和科学研究力量，较高的教学、科学研究水平，能够实施<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "本科教育",
+            "B": "本科以上教育",
+            "C": "专科及本科教育",
+            "D": "本科及本科以上教育"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 77,
+        "type": "单选题",
+        "question": "普通本科学校设置时，公共必修课程和专业基础必修课程，分别配备具有副高级专业技术职务以上的专任教师<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>人。",
+        "selections": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 78,
+        "type": "单选题",
+        "question": "申请筹设民办高校的筹设期不应超过<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>年。",
+        "selections": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 79,
+        "type": "单选题",
+        "question": "地方政府举办的本科以上高等学校章程，需要<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "经主管部门同意，报教育部核准",
+            "B": "直接报教育部核准",
+            "C": "省级教育行政部门核准",
+            "D": "省级教育行政部门核准，教育部备案"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 80,
+        "type": "单选题",
+        "question": "某机构擅自使用某高校校名、校徽误导消费者以从中牟利，该高校已就相关名称进行过相关商标注册，遂据此提起诉讼，此时在高校和机构的法律关系中，高校的身份是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "行政主体",
+            "B": "行政相对人",
+            "C": "平等的民事主体",
+            "D": "具有不平等身份的民事主体"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 81,
+        "type": "单选题",
+        "question": "经国务院教育行政部门批准，科学研究机构可以承担<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的任务。",
+        "selections": {
+            "A": "本科教育",
+            "B": "专科教育",
+            "C": "研究生教育",
+            "D": "非学历高等教育"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 82,
+        "type": "单选题",
+        "question": "设立普通本科学校，具有副高级专业技术职务以上的专任教师人数应不低于专任教师总数的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "5%",
+            "B": "10%",
+            "C": "20%",
+            "D": "30%"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 83,
+        "type": "单选题",
+        "question": "根据《民办教育促进法》的规定，民办学校与公办学校具有同等的法律地位，国家保障民办学校的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "办学自主权",
+            "B": "财政自主权",
+            "C": "经营自主权",
+            "D": "设立自主权"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 84,
+        "type": "单选题",
+        "question": "我国现行《教育法》第67条规定，国家鼓励开展教育对外交流与合作，支持学校及其他教育机构引进<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "优质教育资源",
+            "B": "国外教育资源",
+            "C": "优质人才资源",
+            "D": "国外人才资源"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 85,
+        "type": "单选题",
+        "question": "下列不属于高校权利直接依据的法规范是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《中华人民共和国宪法》",
+            "B": "《中华人民共和国高等教育法》",
+            "C": "《中华人民共和国教育法》",
+            "D": "《中华人民共和国民法典》"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 86,
+        "type": "单选题",
+        "question": "司法机关对高校的学术评价标准一般不作合理性评价，这是尊重高校<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的体现。",
+        "selections": {
+            "A": "财产自主权",
+            "B": "章程制定权",
+            "C": "办学自主权",
+            "D": "科学研究权"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 87,
+        "type": "单选题",
+        "question": "根据《高等教育法》，高等学校应当以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为中心，开展教学、科学研究和社会服务。",
+        "selections": {
+            "A": "培养人才",
+            "B": "思想教育",
+            "C": "科学研究",
+            "D": "立德树人"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 88,
+        "type": "单选题",
+        "question": "根据《高等教育法》，高等学校根据<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，自主制定教学计划、选编教材、组织实施教学活动。",
+        "selections": {
+            "A": "社会需要",
+            "B": "科研需要",
+            "C": "高校自身需要",
+            "D": "教学需要"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 89,
+        "type": "单选题",
+        "question": "根据《高等教育法》，高校应当保证教学质量达到<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "国家规定的标准",
+            "B": "章程设定的标准",
+            "C": "社会评级设定的标准",
+            "D": "所在地教育行政部门设定的标准"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 90,
+        "type": "单选题",
+        "question": "高校有权对受教育者的学习成果进行评价，并依法对符合不同条件的受教育者颁发对应的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "毕业证书",
+            "B": "结业证书",
+            "C": "学位证书",
+            "D": "学业证书"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 91,
+        "type": "单选题",
+        "question": "下列不属于高校对外交流与合作基本要求的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "保障一切境外个人在境内高校的研究权利",
+            "B": "不得损害国家安全和社会公共利益",
+            "C": "不得违反中国法律",
+            "D": "遵守国家有关规定认定中国公民留学在外取得的相关证书"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 92,
+        "type": "单选题",
+        "question": "《普通高等学校本科专业类教学质量国家标准》是教育部在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>发布的。",
+        "selections": {
+            "A": "2015",
+            "B": "2016",
+            "C": "2017",
+            "D": "2018"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 93,
+        "type": "单选题",
+        "question": "高等学校应当遵循<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，建立科学的学术水平考核评价标准、办法。",
+        "selections": {
+            "A": "人才培养规律",
+            "B": "教育教学规律",
+            "C": "社会发展规律",
+            "D": "学术研究规律"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 94,
+        "type": "单选题",
+        "question": "高校应当依法建立、健全财务管理制度，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>教育经费。",
+        "selections": {
+            "A": "合理使用、灵活管理",
+            "B": "灵活使用、合理管理",
+            "C": "合理使用、严格管理",
+            "D": "严格使用、灵活管理"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 95,
+        "type": "单选题",
+        "question": "《高等教育法》规定，高等学校应当面向社会，依法自主办学，实行<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "自主管理",
+            "B": "民主管理",
+            "C": "科学管理",
+            "D": "高效管理"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 96,
+        "type": "单选题",
+        "question": "高等学校应当为教师参加培训、开展科学研究和进行学术交流提供<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "资金报销",
+            "B": "全过程帮扶",
+            "C": "便利条件",
+            "D": "人员帮助"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 97,
+        "type": "单选题",
+        "question": "根据《教师法》，下列不属于教师职业使命的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "培养社会主义事业建设者和接班人",
+            "B": "提高民族素质",
+            "C": "完成经济任务",
+            "D": "教书育人"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 98,
+        "type": "单选题",
+        "question": "高校教师的法律身份主要体现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高校教师的资格认证和教学能力",
+            "B": "高校教师与政府、学校、学生之间的社会关系及其在社会结构中的位置",
+            "C": "高校教师与其他社会劳动者的区别",
+            "D": "高校教师在教学科研以外的其他活动中的角色"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 99,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>规定了教师的平均工资水平应当不低于或者高于国家公务员的平均工资水平。",
+        "selections": {
+            "A": "《高等教育法》",
+            "B": "《教师法》",
+            "C": "《公务员法》",
+            "D": "《劳动法》"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 100,
+        "type": "单选题",
+        "question": "在计划经济时代，高校教师的身份是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "劳动者",
+            "B": "国家干部",
+            "C": "公务员",
+            "D": "专业人员"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 101,
+        "type": "单选题",
+        "question": "下列不属于高校教师法定权利的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "进行教育教学活动",
+            "B": "享有寒暑假期限",
+            "C": "决定学校经费使用",
+            "D": "参加专业的学术团体"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 102,
+        "type": "单选题",
+        "question": "高校教师在进行科学研究时，依法享有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "选择研究课题的自由，但必须获得学校批准",
+            "B": "独立进行科学研究，不受外界干扰",
+            "C": "必须与他人合作进行所有科学研究",
+            "D": "只能使用学校提供的资源进行研究"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 103,
+        "type": "单选题",
+        "question": "教师有权通过<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>参与学校的民主管理。",
+        "selections": {
+            "A": "股东大会",
+            "B": "教职工代表大会",
+            "C": "校长办公室会议",
+            "D": "董事会"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 104,
+        "type": "单选题",
+        "question": "教师进行思想政治教育的主要目标是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "提高自身教学水平",
+            "B": "追求个人名利",
+            "C": "培养学生树立正确的世界观、人生观、价值观",
+            "D": "增加学校收入"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 105,
+        "type": "单选题",
+        "question": "列哪项不属于申请认定教师资格的程序：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "提交书面申请及相关材料",
+            "B": "教育行政部门组织面试",
+            "C": "教育行政部门审核并通知结果",
+            "D": "颁发教师资格证书"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 106,
+        "type": "单选题",
+        "question": "高校教师聘任制的核心原则是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "行政任用",
+            "B": "平等自愿、协商一致",
+            "C": "终身聘用",
+            "D": "学校单方面决定"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 107,
+        "type": "单选题",
+        "question": "根据《教育法》第5条的规定，教师在日常教育教学工作中应如何履行自己的法定职责：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "只关注学生的智育发展",
+            "B": "着重培养学生的体育能力",
+            "C": "全面贯彻国家教育方针，培养全面发展的学生",
+            "D": "专注于提高学生的劳动技能"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 108,
+        "type": "单选题",
+        "question": "高校教师聘任合同中的试用期一般在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>中规定。",
+        "selections": {
+            "A": "无固定期限的聘任合同",
+            "B": "初次就业或新进受聘人员的高校教师聘任合同",
+            "C": "以完成一定工作为期限的聘任合同",
+            "D": "所有类型的聘任合同"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 109,
+        "type": "单选题",
+        "question": "当高校因故意或过失侵犯学生的人身权利时，依<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，应当承担民事责任。",
+        "selections": {
+            "A": "公平责任原则",
+            "B": "过错责任原则",
+            "C": "无过错责任原则",
+            "D": "举证倒置责任原则"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 110,
+        "type": "单选题",
+        "question": "高校学生未按时上交各种合法经费，如学费、住宿费，需要承担<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "民事责任",
+            "B": "行政责任",
+            "C": "刑事责任",
+            "D": "民事责任和行政责任"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 111,
+        "type": "单选题",
+        "question": "下列关于高校与学生之间行政法律关系的说法，错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高校在法律法规的授权下向学生授予学位",
+            "B": "高校对学生进行学籍管理具有高权行政的色彩",
+            "C": "监督与救济行政法律关系中，学生具有服从和接受管理的义务",
+            "D": "高校应当避免过度行政化给教学管理带来的负面影响"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 112,
+        "type": "单选题",
+        "question": "下列关于高校学生在民事法律关系中的法律地位的说法，错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "在民事法律关系中，高校与其学生在法律地位上是平等的",
+            "B": "高校学生是自然人，享有个人的合法权益",
+            "C": "学生与高校的合作共赢，为高等教育的可持续发展和创新提供了有力支持",
+            "D": "高校可以对学生实施奖励或处分等单方性、强制性的管理行为"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 113,
+        "type": "单选题",
+        "question": "当学生与高校处于行政法律关系之中，学生最重要的义务是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "爱护学校公私财物、保护校园公共设施的义务",
+            "B": "服从高校行政管理的义务",
+            "C": "遵守校规校训、维护学校形象与声誉的义务",
+            "D": "学术诚信的义务"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 114,
+        "type": "单选题",
+        "question": "国家、社会、学校及其他教育机构应当根据残疾人<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和需要实施教育。",
+        "selections": {
+            "A": "成长规律",
+            "B": "发展规律",
+            "C": "伤残等级",
+            "D": "身心特性"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 115,
+        "type": "单选题",
+        "question": "学生体育成绩评定要突出<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "素质管理",
+            "B": "综合管理",
+            "C": "优化管理",
+            "D": "过程管理"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 116,
+        "type": "单选题",
+        "question": "有关部门在处理因对学校处理或者处分决定不服提起的学生申诉时，发现高校认定事实清楚，但超越职权、违反上位法规定作出决定，应当<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "予以维持",
+            "B": "责令学校予以撤销",
+            "C": "责令学校予以变更",
+            "D": "责令学校重新作出决定"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 117,
+        "type": "单选题",
+        "question": "学位类型可以分为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "学士学位   硕士学位   博士学位  博士后学位",
+            "B": "学士学位   研究生学位",
+            "C": "学士学位   研究生学位 博士后学位",
+            "D": "学士学位   硕士学位   博士学位"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 118,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>设立学位委员会，领导全国学位工作。",
+        "selections": {
+            "A": "全国人民代表大会",
+            "B": "全国人民代表大会常务委员会",
+            "C": "国务院",
+            "D": "教育部"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 119,
+        "type": "单选题",
+        "question": "学位授予单位应当保存学位申请人的申请材料和学位论文、实践成果等档案资料；博士学位论文应当同时交存<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和有关专业图书馆。",
+        "selections": {
+            "A": "省级学位委员会",
+            "B": "国务院教育行政部门",
+            "C": "国务院学位委员会",
+            "D": "国家图书馆"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 120,
+        "type": "单选题",
+        "question": "省级学位委员会需要将本行政区域的学位授予信息报国务院学位委员会<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "批准",
+            "B": "备案",
+            "C": "审批",
+            "D": "核准"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 121,
+        "type": "单选题",
+        "question": "自<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>起，学生在申诉期内未提出申诉的视为放弃申诉。",
+        "selections": {
+            "A": "处理、处分或者复查决定书作出之日",
+            "B": "处理、处分或者复查决定书送达之日",
+            "C": "学生就处理、处分或者复查决定作出陈述申辩之日",
+            "D": "学生对处理、处分或者复查决定提出异议之日"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 122,
+        "type": "单选题",
+        "question": "学校应当对转学情况应当及时进行公示，并在转学完成后<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>内，由转入学校报所在地省级教育行政部门备案。",
+        "selections": {
+            "A": "1个月",
+            "B": "15日",
+            "C": "3个月",
+            "D": "6个月"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 123,
+        "type": "单选题",
+        "question": "对学生作出涉及学生重大利益的处理或者处分决定的，应当提交校长办公会或者校长授权的专门会议研究决定，并应当事先进行<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "合法性审查",
+            "B": "合理性审查",
+            "C": "政治性审查",
+            "D": "形式审查"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 124,
+        "type": "单选题",
+        "question": "学生结业后补考合格的，颁发的毕业证书获得学位时间按照<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>填写。",
+        "selections": {
+            "A": "发证日期",
+            "B": "结业日期",
+            "C": "补考日期",
+            "D": "补考成绩公布日期"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 125,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是高等教育法律救济产生的前提和基础。",
+        "selections": {
+            "A": "教育立法",
+            "B": "教育行政",
+            "C": "教育纠纷",
+            "D": "教育管理"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 126,
+        "type": "单选题",
+        "question": "关于行政申诉、行政复议和行政诉讼三种救济方式之间关系的表述错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "行政复议和行政诉讼的依据是《行政复议法》和《行政诉讼法》，行政申诉的依据主要是教育法规",
+            "B": "行政申诉的适用范围宽于行政复议和行政诉讼",
+            "C": "行政申诉和行政复议属于行政救济，行政诉讼属于司法救济",
+            "D": "行政复议是行政诉讼的前置程序"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 127,
+        "type": "单选题",
+        "question": "教育行政申诉的主要法律依据有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "《教育法》",
+            "B": "《教师法》",
+            "C": "《普通高等学校学生管理规定》",
+            "D": "《行政复议法》"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 128,
+        "type": "单选题",
+        "question": "根据《教育法》《普通高等学校学生管理规定》的规定，学生的申诉范围包含了教育行政争议和教育民事争议，以下属于教育行政争议的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "学生对学校给予的违纪处分或退学等处理决定表示不满的",
+            "B": "学生认为学校侵犯了其人身权的",
+            "C": "学生认为学校侵犯了其财产权的",
+            "D": "学生认为学校或教师侵犯了其知识产权的"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 129,
+        "type": "单选题",
+        "question": "教师申诉的范围不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教师认为学校或其他教育机构侵犯其合法权益",
+            "B": "教师对学校或者其他教育机构作出的处理决定不服",
+            "C": "教师认为当地人民政府有关行政部门侵犯其根据《教师法》规定享有的权利",
+            "D": "教师对教育行政部门作出的申诉决定不服"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 130,
+        "type": "单选题",
+        "question": "省级教育行政部门在处理因对学校处理或者处分决定不服提起的学生申诉时，应当听取<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的意见。",
+        "selections": {
+            "A": "学生",
+            "B": "学校",
+            "C": "教师",
+            "D": "学校和学生"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 131,
+        "type": "单选题",
+        "question": "因不可抗力或者其他正当理由耽误法定复议申请期限的，申请期限自<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>之日起继续计算。",
+        "selections": {
+            "A": "行政行为作出",
+            "B": "知道或应当知道该行政行为",
+            "C": "障碍出现",
+            "D": "障碍消除"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 132,
+        "type": "单选题",
+        "question": "下列<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>情形，申请人应当先向行政复议机关申请行政复议，对行政复议决定不服的，可以再依法向人民法院提起行政诉讼。",
+        "selections": {
+            "A": "教育行政机关未履行保护人身权、财产权、受教育权的法定职责",
+            "B": "对教育行政机关作出的行政处罚决定不服",
+            "C": "对教育行政机关作出的赔偿决定不服的",
+            "D": "对教育行政机关作出的行政许可决定不服"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 133,
+        "type": "单选题",
+        "question": "行政复议机关不得作出对申请人更为不利的变更决定，但是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的除外。",
+        "selections": {
+            "A": "被申请人要求",
+            "B": "第三人提出相反请求",
+            "C": "复议机关认为必要",
+            "D": "为了保护公共利益"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 134,
+        "type": "单选题",
+        "question": "不属于教育行政诉讼受案范围的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "退学处分决定",
+            "B": "开除学籍处分决定",
+            "C": "拒绝颁发毕业证、学位证",
+            "D": "教育行政机关对其工作人员的纪律处分"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 135,
+        "type": "单选题",
+        "question": "公民、法人或者其他组织直接向人民法院提起诉讼的，应当自知道或者应当知道作出行政行为之日起<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>内提出。<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>另有规定的除外。",
+        "selections": {
+            "A": "三个月，法律",
+            "B": "三个月，法律或行政法规",
+            "C": "六个月，法律",
+            "D": "六个月，法律或行政法规"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 136,
+        "type": "单选题",
+        "question": "在确定教育行政诉讼受案范围时，应谨慎处理司法审查权与<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>之间的关系。",
+        "selections": {
+            "A": "行政权",
+            "B": "立法权",
+            "C": "受教育权",
+            "D": "高校自治权"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 137,
+        "type": "单选题",
+        "question": "与行政诉讼相比，高等教育仲裁机制的优势在于可以对学术纠纷进行<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>审查。",
+        "selections": {
+            "A": "实质性",
+            "B": "程序性",
+            "C": "事前",
+            "D": "事后"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 138,
+        "type": "单选题",
+        "question": "关于高等教育仲裁制度表述错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等教育仲裁机构是中立的第三方仲裁机构",
+            "B": "高等教育仲裁制度回应了高等教育纠纷在现实中的需求",
+            "C": "高等教育仲裁制度是高等教育纠纷解决多元化的体现",
+            "D": "高等教育仲裁将取代其他教育救济机制"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 139,
+        "type": "单选题",
+        "question": "关于学术自由的表述错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "消极层面指在进行学术研究、授课或发布学术成果等活动时，学者和教师享有不被国家或其他社会机构不正当干涉的权益",
+            "B": "积极层面表示公民有权要求其他实体采取积极行动，以保障学术自由的实现",
+            "C": "消极层面和积极层面相互支持",
+            "D": "消极层面和积极层面相互排斥"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 140,
+        "type": "单选题",
+        "question": "关于高等教育仲裁程序的设计，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是不合理的。",
+        "selections": {
+            "A": "设立回避制度",
+            "B": "仲裁庭组织双方进行陈述、质证、申辩",
+            "C": "具有严格的对抗性",
+            "D": "仲裁庭在充分听取案件事实和双方意见的基础上作出仲裁决定"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 141,
+        "type": "单选题",
+        "question": "下列关于高校接受监督的说法，错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等学校应当积极配合来自高校内部的监督",
+            "B": "高等学校应当积极配合来自政府机关的监督",
+            "C": "如果相关问题涉及高校的重要声誉，高校可以拒绝来自社会力量的监督",
+            "D": "个人有权对高校进行监督"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 142,
+        "type": "单选题",
+        "question": "下列不属于高校保障学生合法权益义务直接表现的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "设立学金、助学金、贷学金",
+            "B": "对家庭经济困难的学生给予补助和减免学费",
+            "C": "为毕业生、结业生提供就业指导和服务",
+            "D": "支持教师参加培训、开展科学研究和进行学术交流"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 143,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是现代社会的发展潮流，是一个社会现代化的根本标志。",
+        "selections": {
+            "A": "法治政府",
+            "B": "法治文化",
+            "C": "法治教育",
+            "D": "法治社会"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 144,
+        "type": "单选题",
+        "question": "无论教育如何发展，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>一定是教师必须肩负的最基本职能。",
+        "selections": {
+            "A": "科学研究",
+            "B": "社会服务",
+            "C": "人才培养",
+            "D": "产学合作"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 145,
+        "type": "单选题",
+        "question": "任何教育政策都是以特定的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为逻辑起点。",
+        "selections": {
+            "A": "教育主体",
+            "B": "教育立法",
+            "C": "教育问题",
+            "D": "教育规律"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 146,
+        "type": "单选题",
+        "question": "高等教育政策在外在形态上的基本表现是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "行为规范",
+            "B": "政策文本",
+            "C": "活动主体",
+            "D": "目标取向"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 147,
+        "type": "单选题",
+        "question": "雅克·哈拉克提出的政策冲突类型中，发生在高等教育部门与政府其他部门（如劳动部门）利益之间的冲突属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "部门内冲突",
+            "B": "分部门政策冲突",
+            "C": "全局性或部门间冲突",
+            "D": "目标性冲突"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 148,
+        "type": "单选题",
+        "question": "下列不属于高等学校组织政策内容的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等学校设置政策",
+            "B": "高校教职工代表大会制度",
+            "C": "学生社团管理制度",
+            "D": "党委领导下的校长负责制"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 149,
+        "type": "单选题",
+        "question": "高等学校设置工作的基本原则不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "中央集权，统一管理",
+            "B": "优化存量，做优增量",
+            "C": "科学规划，分类发展",
+            "D": "公开透明，规范严格"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 150,
+        "type": "单选题",
+        "question": "高校学生享有的权利不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "使用学校教育教学资源",
+            "B": "随意组织校外集会活动",
+            "C": "申请奖学金和助学金",
+            "D": "对学校处分提出申诉"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 151,
+        "type": "单选题",
+        "question": "下列不属于高等教育法律具有明确性的体现是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "权利义务清晰",
+            "B": "行为规范明确",
+            "C": "法律责任明确",
+            "D": "符合正当程序"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 152,
+        "type": "单选题",
+        "question": "下列不属于高等教育概括性的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等教育法律涵盖了高等教育的各个方面",
+            "B": "高等教育法律为高等教育事业的发展提供宏观层面的指导",
+            "C": "高等教育法律对公立高校和私立高校都有约束作用",
+            "D": "高等教育法律禁止任何形式的歧视和不公平待遇"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 153,
+        "type": "单选题",
+        "question": "高等教育法律运行的起点是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>环节。",
+        "selections": {
+            "A": "执法",
+            "B": "立法",
+            "C": "司法",
+            "D": "法律监督"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 154,
+        "type": "单选题",
+        "question": "高等教育法律监督的目的不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "维护教育公平",
+            "B": "保障受教育者合法权益",
+            "C": "提高高校招生数量",
+            "D": "维护教育质量"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 155,
+        "type": "单选题",
+        "question": "学生申诉制度根据<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>专门设立。",
+        "selections": {
+            "A": "《宪法》",
+            "B": "《教育法》",
+            "C": "《行政复议法》",
+            "D": "《行政诉讼法》"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 156,
+        "type": "单选题",
+        "question": "下列不属于教师申诉应当满足的条件的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "在法定的申诉范围内",
+            "B": "具备明确的理由和请求",
+            "C": "以法定形式提出",
+            "D": "教师人身权益受到严重侵害"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 157,
+        "type": "单选题",
+        "question": "作为被申请人的教育局不履行法定职责的，行政复议机关有权<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "代为履行",
+            "B": "决定教育局在一定期限内履行",
+            "C": "确认行政行为无效",
+            "D": "作出行政处罚"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 158,
+        "type": "单选题",
+        "question": "在教育行政诉讼中，下列不属于合理性审查的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "同等情况是否被同等对待",
+            "B": "手段和目的是否相当",
+            "C": "处罚与情节是否相符",
+            "D": "是否符合法定程序"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 159,
+        "type": "单选题",
+        "question": "下列不属于行政机关特征的是 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "根据《宪法》和法律设立",
+            "B": "具有行政权能",
+            "C": "行政权能一经成立即具备",
+            "D": "需经法律、法规授权方可获得行政权能"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 160,
+        "type": "单选题",
+        "question": "高等学校的基础义务是 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "贯彻高校办学特色",
+            "B": "遵守法律、法规，依法接受监督",
+            "C": "维护教育工作者的合法权益",
+            "D": "公开收费项目"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 161,
+        "type": "多选题",
+        "question": "20世纪80年代，我国提出的法治建设方针包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "有法可依",
+            "B": "有法必依",
+            "C": "执法必严",
+            "D": "违法必究"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 162,
+        "type": "多选题",
+        "question": "法治社会的形成和良好运行的前提是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "成员在日常行为中有法治意识、法治思维、法治信仰和法治精神",
+            "B": "全体成员必须具备一定的法治素养",
+            "C": "社会成员必须学法、知法和懂法",
+            "D": "公平公正处理违法案件"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 163,
+        "type": "多选题",
+        "question": "高等教育政策的本质体现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "反映统治阶级的意志和愿望",
+            "B": "服务于社会经济的发展和文化的进步",
+            "C": "调整高等教育利益关系",
+            "D": "仅关注高等教育学术研究的发展"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 164,
+        "type": "多选题",
+        "question": "关于高等教育政策的变化，以下说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高等教育政策的变化是自动产生的",
+            "B": "高等教育政策的变化可能受到情感、意识形态和权力搭配的影响",
+            "C": "高等教育政策的变化反映了阶级力量的变化",
+            "D": "高等教育政策的变化完全由经济因素决定"
+        },
+        "answer": "BC"
+    },
+    {
+        "id": 165,
+        "type": "多选题",
+        "question": "根据《新时代高校教师职业行为十项准则》，教师应当落实立德树人根本任务，遵循<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，因材施教，教学相长。",
+        "selections": {
+            "A": "教学规律",
+            "B": "教育规律",
+            "C": "科学研究规律",
+            "D": "学生成长规律"
+        },
+        "answer": "BD"
+    },
+    {
+        "id": 166,
+        "type": "多选题",
+        "question": "目前我国所进行的教育评估类型主要包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "最低标准评估",
+            "B": "合格评估",
+            "C": "办学水平评估",
+            "D": "选优评估"
+        },
+        "answer": "BCD"
+    },
+    {
+        "id": 167,
+        "type": "多选题",
+        "question": "根据教育评估的组织者来分类，高等学校教育评估可以分为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "学校自行组织的自我评估",
+            "B": "教育行政部门组织的评估",
+            "C": "工会组织的评估",
+            "D": "社会组织的评估"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 168,
+        "type": "多选题",
+        "question": "高校设置和调整专业，应当<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "主动适应国家和区域经济社会发展需要",
+            "B": "适应知识创新、科技进步以及学科发展需要",
+            "C": "更好地满足人民群众接受价廉物美教育的需求",
+            "D": "遵循高等教育规律和人才成长规律"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 169,
+        "type": "多选题",
+        "question": "下列行为属于违反高校义务的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高校对英语等级考试费用擅自提高标准、多收取费用",
+            "B": "高校依法自主展开科学研究活动",
+            "C": "李某需要了解奖学金有关情况，高校因李某提出的方法侵犯受教育者隐私权、名誉权为由采用其他方式告知相关信息",
+            "D": "高校向学生收取选修费"
+        },
+        "answer": "AD"
+    },
+    {
+        "id": 170,
+        "type": "多选题",
+        "question": "高校教师聘任制的实施，主要带来了的影响是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "促进了高校自治",
+            "B": "保障了教师自由",
+            "C": "增强了教师的谈判能力",
+            "D": "有利于教师权益的保障"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 171,
+        "type": "多选题",
+        "question": "下列可能导致高校教师管理实践中出现问题和争议的因素是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教师法律身份的多重性",
+            "B": "不同教育阶段教师法律地位的差异性",
+            "C": "法律法规对教师权利保护不足",
+            "D": "高校教师与高校之间的不平等关系"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 172,
+        "type": "多选题",
+        "question": "下列属于教师在关心爱护学生方面应有的表现是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "关心全体学生",
+            "B": "尊重学生人格",
+            "C": "批评学生的成绩",
+            "D": "促进学生全面发展"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 173,
+        "type": "多选题",
+        "question": "学校对学生的处分，应当做到<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "证据充分、依据明确",
+            "B": "失责必问、问责必严",
+            "C": "定性准确、程序正当",
+            "D": "教育与惩戒相结合、处分适当"
+        },
+        "answer": "ACD"
+    },
+    {
+        "id": 174,
+        "type": "多选题",
+        "question": "学校应当制定学生申诉的具体办法，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "健全学生申诉处理委员会的组成",
+            "B": "健全学生申诉处理委员会的工作规则",
+            "C": "提供必要条件",
+            "D": "保证其能够客观、公正地履行职责"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 175,
+        "type": "多选题",
+        "question": "高等教育行政补助的对象包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "非营利性民办高校",
+            "B": "民办高校教师",
+            "C": "高校学生",
+            "D": "行政机关内部公务人员"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 176,
+        "type": "多选题",
+        "question": "通过高等教育法律救济，我们能够捍卫教育法律关系主体，特别是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的正当权益。",
+        "selections": {
+            "A": "学生",
+            "B": "学校",
+            "C": "教师",
+            "D": "学院"
+        },
+        "answer": "AC"
+    },
+    {
+        "id": 177,
+        "type": "多选题",
+        "question": "实现依法治教，需要<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "健全的法律制度",
+            "B": "完善的教育执法和监督机制",
+            "C": "明确高等教育法律责任和救济机制",
+            "D": "纠正违法或不当的教育行为"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 178,
+        "type": "多选题",
+        "question": "纠纷解决从传统的单一机制发展到“<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>”的现代机制，是治理体系迭代发展中不可或缺的一环。",
+        "selections": {
+            "A": "国家主导",
+            "B": "社会参与",
+            "C": "司法推动",
+            "D": "多元共治"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 179,
+        "type": "多选题",
+        "question": "下列属于核准机关对高校章程不予核准的情形是 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "违反法律法规或相关规定",
+            "B": "超越高校职权",
+            "C": "学校内部对章程内容存在重大分歧",
+            "D": "章程核准委员会未通过或提出重大修改意见"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 180,
+        "type": "多选题",
+        "question": "下列属于高等学校在民事法律关系中的权利的有 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "名称权",
+            "B": "名誉权",
+            "C": "学位授予权",
+            "D": "荣誉权"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 181,
+        "type": "判断题",
+        "question": "建设中国特色社会主义法治体系是推进全面依法治国的总抓手。",
+        "answer": "Y"
+    },
+    {
+        "id": 182,
+        "type": "判断题",
+        "question": "在高等教育政策的制定过程中，利益的选择、综合、分配与落实是静态的、一次性的过程。",
+        "answer": "N"
+    },
+    {
+        "id": 183,
+        "type": "判断题",
+        "question": "高等教育政策与其他公共政策、教育政策相互支持，相互制约。",
+        "answer": "Y"
+    },
+    {
+        "id": 184,
+        "type": "判断题",
+        "question": "高等教育政策一旦制定公布，在任何情况下都绝对不能随意变动。",
+        "answer": "N"
+    },
+    {
+        "id": 185,
+        "type": "判断题",
+        "question": "高等教育政策的分配功能在操作上应当完全追求平均分配，以确保所有群体都能获得相同数量的教育资源。",
+        "answer": "N"
+    },
+    {
+        "id": 186,
+        "type": "判断题",
+        "question": "职业院校、应用型本科高校对特殊高技能人才可适当放宽职称评定的学历要求。",
+        "answer": "Y"
+    },
+    {
+        "id": 187,
+        "type": "判断题",
+        "question": "高等教育法律对教育活动中的许多环节和流程都进行了明确的规定，包括招生、教学、考试、评估等方面。",
+        "answer": "Y"
+    },
+    {
+        "id": 188,
+        "type": "判断题",
+        "question": "民办高校的校长由教育行政机关聘任和解聘。",
+        "answer": "N"
+    },
+    {
+        "id": 189,
+        "type": "判断题",
+        "question": "教育行政机关在行使监督检查职权时，有权主动对高校校规进行审查。",
+        "answer": "Y"
+    },
+    {
+        "id": 190,
+        "type": "判断题",
+        "question": "高等教育行政机关的法律责任以惩罚性责任为主。",
+        "answer": "N"
+    },
+    {
+        "id": 191,
+        "type": "判断题",
+        "question": "高校教师职业是要求具备经过严格并持续不断的研究才能获得并维持专业知识及专业技能的公共业务。",
+        "answer": "Y"
+    },
+    {
+        "id": 192,
+        "type": "判断题",
+        "question": "高校教师的法律身份在不同历史时期有不同规定。",
+        "answer": "Y"
+    },
+    {
+        "id": 193,
+        "type": "判断题",
+        "question": "高校教师有权按时获取工资报酬，享受国家规定的福利待遇。",
+        "answer": "Y"
+    },
+    {
+        "id": 194,
+        "type": "判断题",
+        "question": "高校教师的权利与义务是由一般公民的权利与义务直接转化而来的，没有特别的法律规定。",
+        "answer": "N"
+    },
+    {
+        "id": 195,
+        "type": "判断题",
+        "question": "任何教育行政管理措施都不应该损害学生的法定权利，应当依法合规，保持教育行政管理的规范性和合法性。",
+        "answer": "Y"
+    },
+    {
+        "id": 196,
+        "type": "判断题",
+        "question": "学生和高校之间始终处于平等的法律地位。",
+        "answer": "N"
+    },
+    {
+        "id": 197,
+        "type": "判断题",
+        "question": "公民无论民族、种族、性别、职业、财产状况、宗教信仰等，都应依法享有平等的受教育机会。",
+        "answer": "Y"
+    },
+    {
+        "id": 198,
+        "type": "判断题",
+        "question": "学生因患病无法继续在本校学习的，可以申请转学。",
+        "answer": "Y"
+    },
+    {
+        "id": 199,
+        "type": "判断题",
+        "question": "行政救济源于公民或组织的合法权益遭受违法或不当行政行为侵害，旨在纠正此类违法或不当行政行为，或者补偿因行政行为导致的公民合法权益损害。",
+        "answer": "Y"
+    },
+    {
+        "id": 200,
+        "type": "判断题",
+        "question": "学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申诉之日起30日内作出复查结论并告知申诉人。",
+        "answer": "N"
+    },
+    {
+        "id": 201,
+        "type": "判断题",
+        "question": "高等教育仲裁机构应设在高等学校内部。",
+        "answer": "N"
+    },
+    {
+        "id": 202,
+        "type": "判断题",
+        "question": "高校教师职称评价中，国外期刊论文应优于国内期刊论文。",
+        "answer": "N"
+    },
+    {
+        "id": 203,
+        "type": "判断题",
+        "question": "高校学生每学期开学都需办理注册手续，注册具有连续性，不得中断。",
+        "answer": "Y"
+    },
+    {
+        "id": 204,
+        "type": "判断题",
+        "question": "高等学校教育评估中，上一级教育评估领导小组对申诉的仲裁结果是教育评估的最后结论。",
+        "answer": "Y"
+    },
+    {
+        "id": 205,
+        "type": "判断题",
+        "question": "《高等教育法》是解决高等教育法律纠纷和冲突的唯一依据。",
+        "answer": "N"
+    },
+    {
+        "id": 206,
+        "type": "判断题",
+        "question": "高等教育法律是具有明确内部秩序的体系，各个法律之间互不相干。",
+        "answer": "N"
+    },
+    {
+        "id": 207,
+        "type": "判断题",
+        "question": "设立实施专科教育的高等学校，由省级人民政府审批，无需报国务院教育行政部门备案。",
+        "answer": "N"
+    },
+    {
+        "id": 208,
+        "type": "判断题",
+        "question": "高等教育法治化的重要标志之一是学生必须依照校规展开学习活动，违法行为将面临相应的法律责任。",
+        "answer": "N"
+    },
+    {
+        "id": 209,
+        "type": "判断题",
+        "question": "国务院部委、省级人民政府的行政立法权指行政法规的制定权。",
+        "answer": "N"
+    },
+    {
+        "id": 210,
+        "type": "判断题",
+        "question": "国务院是最高国家行政机关，统一领导和管理全国高等教育事业。",
+        "answer": "Y"
+    },
+    {
+        "id": 211,
+        "type": "判断题",
+        "question": "公办高校的经费主要来自财政拨款，民办高校经费主要来自自筹，因此教育行政机关对民办高校经费无监管权。",
+        "answer": "N"
+    },
+    {
+        "id": 212,
+        "type": "判断题",
+        "question": "行政赔偿责任仅适用于民办高等教育领域，不适用于公办高等教育。",
+        "answer": "N"
+    },
+    {
+        "id": 213,
+        "type": "判断题",
+        "question": "公立高等学校自批准设立之日起取得法人资格。",
+        "answer": "Y"
+    },
+    {
+        "id": 214,
+        "type": "判断题",
+        "question": "高校可自主决定是否设置专业，无需依据法定条件。",
+        "answer": "N"
+    },
+    {
+        "id": 215,
+        "type": "判断题",
+        "question": "高校有权自主调整学校专业技术人员的津贴分配。",
+        "answer": "Y"
+    },
+    {
+        "id": 216,
+        "type": "判断题",
+        "question": "高校在科研活动中只要没有违反法律的强制性规定，即使存在轻微学术不端也无需承担责任。",
+        "answer": "N"
+    },
+    {
+        "id": 217,
+        "type": "判断题",
+        "question": "宪法中有关教育的条款是教育法律的最高层次，任何教育规范不得与其抵触。",
+        "answer": "Y"
+    },
+    {
+        "id": 218,
+        "type": "判断题",
+        "question": "《教师资格条例》由国务院制定。",
+        "answer": "Y"
+    },
+    {
+        "id": 219,
+        "type": "判断题",
+        "question": "教育政策与教育法律的指导思想均体现马克思主义中国化的社会主义精神实质。",
+        "answer": "Y"
+    },
+    {
+        "id": 220,
+        "type": "判断题",
+        "question": "高等职业学校可以按照国家有关规定，采取文化素质与职业技能相结合的考核方式招收学生。",
+        "answer": "Y"
+    }
+]

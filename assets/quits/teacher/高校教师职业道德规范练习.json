@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "type": "单选题",
+        "question": "在我国<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>时，职业种类增至300多个，人们开始把社会职业分工统称为“三百六十行”。",
+        "selections": {
+            "A": "清朝",
+            "B": "明朝",
+            "C": "宋朝",
+            "D": "隋朝"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 2,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是我国第一部具有国家标准性质的职业分类大全。",
+        "selections": {
+            "A": "《中华人民共和国职业分类提纲》",
+            "B": "《中华人民共和国职业分类细则》",
+            "C": "《中华人民共和国职业分类大典》",
+            "D": "《中华人民共和国职业分类纲要》"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 3,
+        "type": "单选题",
+        "question": "认为“师者，所以传道受业解惑也”的古代教育家是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "孔子",
+            "B": "韩愈",
+            "C": "朱熹",
+            "D": "王守仁"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 4,
+        "type": "单选题",
+        "question": "1966年，联合国教科文组织与国际劳工组织在《关于教师地位的建议》中，首次以官方文件形式，对<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>作出说明。",
+        "selections": {
+            "A": "教师专业化",
+            "B": "教师专门化",
+            "C": "教师职业化",
+            "D": "教师标准化"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 5,
+        "type": "单选题",
+        "question": "作为专业的“职业”，以下说法不正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "为公众提供服务",
+            "B": "纯粹的技能",
+            "C": "自主制定规范标准",
+            "D": "非一般人可以轻易获得"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 6,
+        "type": "单选题",
+        "question": "关于高校教师劳动特征的选项中，错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "对教学内容的把握和讲授具有自主性",
+            "B": "对课程的设计、实施等方面具有自主权",
+            "C": "可根据自己的专长进行个性化教学",
+            "D": "在教学中可以随意发表自己的观点"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 7,
+        "type": "单选题",
+        "question": "高等学校教师职业的特点表现为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教学与管理相统一、学术自由性与教学纪律性相统一、个体劳动与群体协作性相统一",
+            "B": "教学与科研相统一、学术自由性与教学纪律性相统一、个体劳动与群体协作性相统一",
+            "C": "复杂性和繁重性相统一、创造性和灵活性相统一、主体性和示范性相统一",
+            "D": "全面性和艰巨性相统一、长期性和长效性相统一、个体性与集体性相统一"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 8,
+        "type": "单选题",
+        "question": "道德的评价标准是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "公与私",
+            "B": "是与非",
+            "C": "善与恶",
+            "D": "美与丑"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 9,
+        "type": "单选题",
+        "question": "清代名臣<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>提出了封建官吏道德修养的六条标准，即：勤抚恤、慎刑法、绝贿赂、杜私派、严征收、崇节俭。",
+        "selections": {
+            "A": "于成龙",
+            "B": "左宗棠",
+            "C": "李鸿章",
+            "D": "林则徐"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 10,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>认为，私德是“人人独善其身”，公德是“人人相善其群”。",
+        "selections": {
+            "A": "王国维",
+            "B": "梁启超",
+            "C": "胡适",
+            "D": "康有为"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 11,
+        "type": "单选题",
+        "question": "教导青年人必须扣好人生第一粒纽扣的“纽扣论”，是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>提出的。",
+        "selections": {
+            "A": "毛泽东",
+            "B": "习近平",
+            "C": "邓小平",
+            "D": "鲁迅"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 12,
+        "type": "单选题",
+        "question": "古代教育家<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>把“三纲五常”的道德教条作为教师职业道德的核心要求。",
+        "selections": {
+            "A": "孔子",
+            "B": "董仲舒",
+            "C": "朱熹",
+            "D": "王守仁"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 13,
+        "type": "单选题",
+        "question": "我国古代著名的“私学大师”是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "孔子",
+            "B": "孟子",
+            "C": "荀子",
+            "D": "管子"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 14,
+        "type": "单选题",
+        "question": "重视道德修养，强调“功夫全在行上”的古代教育家是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "孔子",
+            "B": "董仲舒",
+            "C": "朱熹",
+            "D": "韩愈"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 15,
+        "type": "单选题",
+        "question": "倡导教师应该“千教万教教人求真，千学万学学做真人”的教育家是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "蔡元培",
+            "B": "梁启超",
+            "C": "陶行知",
+            "D": "章太炎"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 16,
+        "type": "单选题",
+        "question": "张謇创办的通州民立师范学校的校训是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "坚苦自立，忠实不欺",
+            "B": "勤苦俭朴",
+            "C": "忠实不欺，力求精进",
+            "D": "祈通中西，以宏慈善"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 17,
+        "type": "单选题",
+        "question": "新时代高校教师的根本任务是落实<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的根本任务。",
+        "selections": {
+            "A": "教书育人",
+            "B": "服务社会",
+            "C": "立德树人",
+            "D": "爱国守法"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 18,
+        "type": "单选题",
+        "question": "1954年8月，在国际教育工会推动下通过的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，规定了各国教师应遵循的师德规范。",
+        "selections": {
+            "A": "《关于教师地位的建议》",
+            "B": "《国际教师团体协商委员会教师宪章》",
+            "C": "《教育工作者专业道德标准》",
+            "D": "《关于教师作用的变化及其对教学专业的职前教育、在职教育的影响的建议》"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 19,
+        "type": "单选题",
+        "question": "英国的全国教师联盟对教师提出详细的行为要求，以下说法错误的选项是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "保护学生的安全是教师最基本的责任",
+            "B": "教师的专业伦理只制约教师的校内活动",
+            "C": "教师应避免有不合适的行为",
+            "D": "教师应该避免出现渎职行为和失职行为"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 20,
+        "type": "单选题",
+        "question": "英国的全国教师联盟对教师提出详细的行为要求，以下行为不属于教师不合适行为，但属于教师应该避免的渎职行为是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "当着学生和家长的面批评同事",
+            "B": "对学生喊叫",
+            "C": "从学校活动中攫取利益",
+            "D": "试图影响学生的特定宗教信仰或观念"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 21,
+        "type": "单选题",
+        "question": "高校教师与国家、民族、事业间的道德关系是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "爱国守法",
+            "B": "为人师表",
+            "C": "教书育人",
+            "D": "严谨治学"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 22,
+        "type": "单选题",
+        "question": "孙中山表述其爱国情感的话语是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "“天下兴亡，匹夫有责”",
+            "B": "“救亡图存，振兴中华”",
+            "C": "“只解沙场为国死，何须马革裹尸还”",
+            "D": "“苟利国家生死以，岂因祸福避趋之”"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 23,
+        "type": "单选题",
+        "question": "从爱国道德的心理结构上看，情意是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "灵魂",
+            "B": "基础",
+            "C": "体现",
+            "D": "关键"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 24,
+        "type": "单选题",
+        "question": "境界最低的守法状态是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "不违法犯罪",
+            "B": "积极学习法律知识",
+            "C": "依法办事",
+            "D": "行为及内在动机都符合法的精神和要求"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 25,
+        "type": "单选题",
+        "question": "提出“其身正，不令则行；其身不正，虽令而不从”的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "孔子",
+            "B": "老子",
+            "C": "墨子",
+            "D": "荀子"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 26,
+        "type": "单选题",
+        "question": "勤勤恳恳、兢兢业业、忠于职守、尽职尽责，体现的职业道德是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "敬业",
+            "B": "爱生",
+            "C": "爱国",
+            "D": "守法"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 27,
+        "type": "单选题",
+        "question": "在工作中，强调充分尊重职业的内在规律，要求每个人好好做事，恭敬严肃地对待工作，体现的职业道德是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "敬业",
+            "B": "爱生",
+            "C": "爱国",
+            "D": "守法"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 28,
+        "type": "单选题",
+        "question": "“坚持社会主义办学方向”是我国教育事业发展的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "总要求",
+            "B": "总任务",
+            "C": "根本保证",
+            "D": "根本方向"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 29,
+        "type": "单选题",
+        "question": "人们在职业上依据社会要求和个人条件，借想象而确立的奋斗目标，即个人渴望达到的职业境界是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "职业兴趣",
+            "B": "职业道德",
+            "C": "职业情感",
+            "D": "职业理想"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 30,
+        "type": "单选题",
+        "question": "高校教师与工作对象关系的根本要求是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "敬业",
+            "B": "爱生",
+            "C": "爱国",
+            "D": "守法"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 31,
+        "type": "单选题",
+        "question": "在涉及大学生切身利益的事务中，各项规则和办事程序透明，这体现的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "公平",
+            "B": "公开",
+            "C": "关爱",
+            "D": "严格"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 32,
+        "type": "单选题",
+        "question": "立德树人的主体为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教师和辅导员",
+            "B": "高校和高校教师",
+            "C": "教师和德育工作者",
+            "D": "专业课教师和思政课教师"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 33,
+        "type": "单选题",
+        "question": "高等院校要严格按教育规律办事，各个类型、层次的高校要科学设置、定位准确。这是遵循教育规律中的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "人才培养的无限性规律",
+            "B": "教育教学中的职业性规律",
+            "C": "科学发展中的开放性规律",
+            "D": "教育的内外部关系规律"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 34,
+        "type": "单选题",
+        "question": "有少数大学生不关心他人，不关心社会，没有责任担当，这是缺乏<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的表现。",
+        "selections": {
+            "A": "人文教育",
+            "B": "实践能力",
+            "C": "社会责任感",
+            "D": "主人翁意识"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 35,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>要求高校教师要坚持教育教学与生产劳动、社会实践相结合，开发实践课程和活动课程，增强学生科学实践、生产实习和技能实训的成效，促进知和行的转化。",
+        "selections": {
+            "A": "学思结合",
+            "B": "知行合一",
+            "C": "因材施教",
+            "D": "主动学习"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 36,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教书育人的有效途径。",
+        "selections": {
+            "A": "社会服务",
+            "B": "实践育人",
+            "C": "师表育人",
+            "D": "教学与科研"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 37,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教书育人的隐性环节。",
+        "selections": {
+            "A": "社会服务",
+            "B": "实践育人",
+            "C": "师表育人",
+            "D": "教学与科研"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 38,
+        "type": "单选题",
+        "question": "以下行为不属于严谨治学精神的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "秉持学术良知，恪守学术规范",
+            "B": "尊重他人劳动和学术成果，维护学术自由和学术尊严",
+            "C": "弘扬科学精神，勇于探索，追求真理，修正错误，精益求精",
+            "D": "爱护学生，宽严相济，诲人不倦"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 39,
+        "type": "单选题",
+        "question": "科学精神的两大支柱是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "实证精神和理性精神",
+            "B": "实证精神和人文精神",
+            "C": "感性精神和理性精神",
+            "D": "人文精神和理性精神"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 40,
+        "type": "单选题",
+        "question": "关于科学精神论述正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "科学精神只适用于科学领域",
+            "B": "科学精神主要提倡创新，继承并不重要",
+            "C": "崇尚科学精神要求我们绝对的信任科学权威",
+            "D": "理性的怀疑与批判是科学精神的核心与灵魂"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 41,
+        "type": "单选题",
+        "question": "在高校教育教学中<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，就是要求高校教师保障学生的合法权益，尊重学生的意见，坚持以学生为本。",
+        "selections": {
+            "A": "实事求是",
+            "B": "团结协作",
+            "C": "发扬民主",
+            "D": "教书育人"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 42,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 是共产主义道德和社会主义道德的集体主义原则在教师职业道德中的具体化。",
+        "selections": {
+            "A": "团结合作",
+            "B": "协同创新",
+            "C": "互利共赢",
+            "D": "适当合作"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 43,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是指在学术界约定俗成并得到学者认同和共同遵守的观念道德和价值取向，包括对待学术事业的态度、学术责任等。",
+        "selections": {
+            "A": "学术信念",
+            "B": "学术规范",
+            "C": "学术道德",
+            "D": "学术诚信"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 44,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是指学术共同体内形成的进行学术活动的基本伦理道德规范，是根据学术发展规律制定的有关学术活动的基本准则。",
+        "selections": {
+            "A": "学术规则",
+            "B": "学术规范",
+            "C": "学术道德",
+            "D": "学术伦理"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 45,
+        "type": "单选题",
+        "question": "学术素养包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、独立的意识、批判的思维和热爱的情感四个要素。",
+        "selections": {
+            "A": "无畏的精神",
+            "B": "谨慎的精神",
+            "C": "负责的精神",
+            "D": "执着的精神"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 46,
+        "type": "单选题",
+        "question": "高校教师服务社会是自身成长发展的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "动力源泉",
+            "B": "体现",
+            "C": "派生和动力源泉",
+            "D": "体现和派生"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 47,
+        "type": "单选题",
+        "question": "高校教师服务社会本质上是一种<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "补偿性服务",
+            "B": "义务性服务",
+            "C": "专业性服务",
+            "D": "公益性服务"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 48,
+        "type": "单选题",
+        "question": "高校教师服务社会是指高校教师除了完成自己在校内的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>之外，利用自己的学科专业特长服务于社会企事业单位、学术组织、社区活动等劳动活动。",
+        "selections": {
+            "A": "本职工作",
+            "B": "教学、科研工作",
+            "C": "学校指派的工作",
+            "D": "聘任工作"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 49,
+        "type": "单选题",
+        "question": "教育部2011年颁布的《高校教师职业道德规范》文件中提出：坚持反对滥用<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和学术影响。",
+        "selections": {
+            "A": "学术知识",
+            "B": "学术资源",
+            "C": "职务特权",
+            "D": "学术特权"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 50,
+        "type": "单选题",
+        "question": "学术资源滥用是指利用学术资源谋取<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "利益",
+            "B": "名誉",
+            "C": "职称",
+            "D": "非正当利益"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 51,
+        "type": "单选题",
+        "question": "2015年国务院印发的《关于进一步做好新形势下就业创业工作的意见》指出，高校、科研院所等专业技术人员离岗创业的，经原单位同意，可在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>年内保留人事关系。",
+        "selections": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 52,
+        "type": "单选题",
+        "question": "2016年4月21日，《国务院办公厅关于印发促进科技成果转化行动方案的通知》指出，支持高校和科研院所开展科技成果转移转化。组织高校和科研院所梳理科技成果资源，发布<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，建立面向企业的技术服务站点网络，推动科技成果与产业、企业需求的有效对接。",
+        "selections": {
+            "A": "合作意向",
+            "B": "招标意向",
+            "C": "转让意向",
+            "D": "科技成果目录"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 53,
+        "type": "单选题",
+        "question": "2015年6月11日，国务院印发的《关于大力推进大众创业万众创新若干政策措施的意见》指出，要健全科研人员<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "绩效考核制度",
+            "B": "兼职管理制度",
+            "C": "日常管理制度",
+            "D": "双向流动机制"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 54,
+        "type": "单选题",
+        "question": "习近平总书记说过，广大教师必须率先垂范、以身作则，引导和帮助学生把握好人生方向，特别是引导和帮助青少年学生<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "乐意接受教师的教导",
+            "B": "热爱学术",
+            "C": "乐于奉献社会",
+            "D": "扣好人生的第一粒扣子"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 55,
+        "type": "单选题",
+        "question": "陶行知先生对教师奉献精神的形象表述是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "捧着一颗心来，不带半根草去",
+            "B": "教育为公以达天下为公",
+            "C": "好的先生不是教书，不是教学生，是教学生学",
+            "D": "爱满天下"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 56,
+        "type": "单选题",
+        "question": "亲其师而信其道，体现了教师为人师表具有情感上的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "培育作用",
+            "B": "鼓励作用",
+            "C": "感动作用",
+            "D": "导向作用"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 57,
+        "type": "单选题",
+        "question": "我国古代的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>认为，“尊严而惮，可以为师”，意思是严格和有威信的人才能做教师。",
+        "selections": {
+            "A": "孔子",
+            "B": "孟子",
+            "C": "荀子",
+            "D": "朱熹"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 58,
+        "type": "单选题",
+        "question": "《新时代高校教师职业行为十项准则》中提出，要秉持公平诚信，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，处事公道，光明磊落，为人正直。",
+        "selections": {
+            "A": "认真负责",
+            "B": "严谨治学",
+            "C": "待人真诚",
+            "D": "坚持原则"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 59,
+        "type": "单选题",
+        "question": "南京大学韩儒林先生把范文澜先生的治学精神概括为“<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，文章不写半句空”。",
+        "selections": {
+            "A": "板凳需坐十年冷",
+            "B": "少年需知勤学苦",
+            "C": "求学需知常练笔",
+            "D": "学问需知常钻研"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 60,
+        "type": "单选题",
+        "question": "2014年教育部《关于建立健全高校师德建设长效机制的意见》中提出，要“建立问责机制，对教师严重违反师德行为造成不良影响或严重后果的，追究高校<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的责任。",
+        "selections": {
+            "A": "当事人",
+            "B": "当事人及管理者",
+            "C": "管理部门",
+            "D": "主要责任人"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 61,
+        "type": "单选题",
+        "question": "荀子说，“道虽迩，不行不至；事虽小，不为不成”反映了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的终极目标是“行道”。",
+        "selections": {
+            "A": "法家",
+            "B": "墨家",
+            "C": "道家",
+            "D": "儒家"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 62,
+        "type": "单选题",
+        "question": "所谓正直就是对人对事公正，坚持原则，不阿谀逢迎，不见风使舵，不屈服于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "权贵",
+            "B": "人情",
+            "C": "个人利益",
+            "D": "各种压力"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 63,
+        "type": "单选题",
+        "question": "要引导高校教师把个人发展与社会发展、国家发展，把自身价值的实现与他人价值的实现、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的实现有机统一起来。",
+        "selections": {
+            "A": "学校价值",
+            "B": "个人利益",
+            "C": "个人发展",
+            "D": "社会价值"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 64,
+        "type": "单选题",
+        "question": "所谓“重要他人”是指对个体社会化过程中具有重要影响的具体人物。在大学里，对大学生而言，重要他人是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "家长",
+            "B": "同伴",
+            "C": "班主任",
+            "D": "高校教师"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 65,
+        "type": "单选题",
+        "question": "高校教师的道德责任是建立在道德文件或<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>之上的。",
+        "selections": {
+            "A": "乡规民约",
+            "B": "学生需求",
+            "C": "道德制度",
+            "D": "公民条例"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 66,
+        "type": "单选题",
+        "question": "高等学校教师的职业特点决定了高校教师在工作中<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "个体劳动为主，群体协作为辅",
+            "B": "群体协作为主，个体劳动为辅",
+            "C": "个体性特征显著，群体性协作则看情况而定",
+            "D": "个体劳动和群体协作相统一"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 67,
+        "type": "单选题",
+        "question": "下列说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "一个人如果违反了法律，一定违反了道德",
+            "B": "一个人如果违反了法律，不一定违反了道德",
+            "C": "一个人如果违反了道德，不一定违反了法律",
+            "D": "法律比道德更严格，力度更大。"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 68,
+        "type": "单选题",
+        "question": "“其身正，不令而行；其身不正，虽令不从。”出自于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《大学》",
+            "B": "《中庸》",
+            "C": "《论语》",
+            "D": "《孟子》"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 69,
+        "type": "单选题",
+        "question": "《高等学校教师职业道德规范》从“爱国守法”、“敬业爱生”、“教书育人”、“严谨治学”、 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 、“为人师表”六个方面对高校教师提出了师德要求。",
+        "selections": {
+            "A": "服务他人",
+            "B": "服务国家",
+            "C": "服务社会",
+            "D": "服务集体"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 70,
+        "type": "单选题",
+        "question": "“教书育人”最恰当的表述是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教师完成教书工作之后，再去育人",
+            "B": "教学工作和育人工作相辅相成，不可分割",
+            "C": "教学以育人为最终目的，育人以教学为基本途径",
+            "D": "兼顾教学与德育"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 71,
+        "type": "单选题",
+        "question": "从教师职业道德的发展过程看，一般入职4年内的教师，教师专业道德的学习处于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "依从性道德学习状态",
+            "B": "认同性道德学习状态",
+            "C": "信奉性道德学习状态",
+            "D": "认同性道德学习状态稳定期"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 72,
+        "type": "单选题",
+        "question": "充分尊重职业的内在规律，恭敬严肃地对待工作，体现了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的职业道德。",
+        "selections": {
+            "A": "专心",
+            "B": "奉献",
+            "C": "严谨",
+            "D": "敬业"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 73,
+        "type": "单选题",
+        "question": "敬业的内涵不包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "敬业是价值自觉向行为自觉的转化",
+            "B": "敬业是行为自觉向价值自觉的转化",
+            "C": "敬业是道德他律向道德自律的转化",
+            "D": "敬业是个人理想与民族梦想的融合"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 74,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是高校教师的第一使命。",
+        "selections": {
+            "A": "科学研究",
+            "B": "人才培养",
+            "C": "社会服务",
+            "D": "文化传承"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 75,
+        "type": "单选题",
+        "question": "“终身学习是21世纪的生存概念”是1994年于意大利罗马召开的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>上提出的口号。",
+        "selections": {
+            "A": "“教育的使命——面向21世纪的教育宣言和行动纲领”。",
+            "B": "首届世界终身学习会议",
+            "C": "世界教育大会",
+            "D": "世界教师代表会议"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 76,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是对高校教师与工作对象的根本要求。",
+        "selections": {
+            "A": "敬业",
+            "B": "爱岗",
+            "C": "育人",
+            "D": "爱生"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 77,
+        "type": "单选题",
+        "question": "爱生在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>层面上集中体现为做大学生的良师益友。",
+        "selections": {
+            "A": "道德原则",
+            "B": "道德理想",
+            "C": "道德准则",
+            "D": "道德信念"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 78,
+        "type": "单选题",
+        "question": "高校教师无视大学生的需求和感受，往往处于自身的行为习惯和喜好进行种种错位的关怀，这种关怀属于<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "过度型关怀",
+            "B": "选择型关怀",
+            "C": "被动型关怀",
+            "D": "一厢情愿型关怀"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 79,
+        "type": "单选题",
+        "question": "高校教师承担道德责任的外部依据是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "道德标准和制度化规范",
+            "B": "重要他人",
+            "C": "自身的专业素质相对较高",
+            "D": "高校教师职业的学术性"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 80,
+        "type": "单选题",
+        "question": "关于教师专业伦理和职业道德，以下说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教师职业道德与教师专业伦理之间有很多地方是相同的，但在内涵、侧重点和主客观等方面存在区别。",
+            "B": "教师职业道德强调教师应该且必须遵守的行为规范和准则，具有客观性。",
+            "C": "教师专业伦理强调个人主观意志和行为，具有主观性。",
+            "D": "教师专业伦理和教师职业道德都一样既具有客观性，也具有主观性。"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 81,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>提出了教师必备的四个条件：“尊严而惮”“耆艾而信”“诵说而不陵不犯”“知微而论”。",
+        "selections": {
+            "A": "孔子",
+            "B": "孟子",
+            "C": "荀子",
+            "D": "墨子"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 82,
+        "type": "单选题",
+        "question": "美国高校建立了系统的高校教师专业伦理规范体系，其中<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>体现了对学生的责任。",
+        "selections": {
+            "A": "进取、诚实",
+            "B": "尊重、引导",
+            "C": "热爱、公平",
+            "D": "监督、维护"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 83,
+        "type": "单选题",
+        "question": "美国高校建立了系统的高校教师专业伦理规范体系，其中<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>体现了对社会的责任。",
+        "selections": {
+            "A": "进取、诚实",
+            "B": "悦纳、合作",
+            "C": "维护、引导",
+            "D": "公心、服务"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 84,
+        "type": "单选题",
+        "question": "从<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>上来说，国家就是保卫一定区域内人民不受其区域以外势力侵犯与压迫，并保证区域内人民安居乐业，自由、平等、有序地工作、生活的权力机构。",
+        "selections": {
+            "A": "地理意义",
+            "B": "权利意义",
+            "C": "职能意义",
+            "D": "治理意义"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 85,
+        "type": "单选题",
+        "question": "爱国守法是高校教师与国家、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、职业间的道德关系的概括。",
+        "selections": {
+            "A": "社会",
+            "B": "共同体",
+            "C": "单位",
+            "D": "民族"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 86,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>深深植根于中华民族心中，是中华民族的的精神基因，维系着华夏大地上各个民族的团结统一。",
+        "selections": {
+            "A": "求真意志",
+            "B": "勤劳勇敢的品质",
+            "C": "自强不息的精神",
+            "D": "爱国主义精神"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 87,
+        "type": "单选题",
+        "question": "高校已经形成了以<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为主的规章制度体系，为高校教师守法守规奠定了良好基础。",
+        "selections": {
+            "A": "大学章程",
+            "B": "大学纪律",
+            "C": "大学规则",
+            "D": "大学准则"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 88,
+        "type": "单选题",
+        "question": "高校教师自身成长发展的动力源泉来自<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "参与社会",
+            "B": "服务社会",
+            "C": "治理社会",
+            "D": "社会生产"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 89,
+        "type": "单选题",
+        "question": "高校教师在服务社会过程中，需要对自己曾经<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>进行“重构”“改组”，这是教师不断专业化、不断提高的过程。",
+        "selections": {
+            "A": "掌握的知识",
+            "B": "学习的专业",
+            "C": "参与的项目",
+            "D": "提供的决策建议"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 90,
+        "type": "单选题",
+        "question": "从理想的角度看，学术资源使用遵循最基本的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是最有利于学术发展。",
+        "selections": {
+            "A": "原则",
+            "B": "方式",
+            "C": "方法",
+            "D": "途径"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 91,
+        "type": "单选题",
+        "question": "将教学工作作为学校的中心工作，并不是否定学校的科研和社会服务功能，而是强调学校的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教学。",
+        "selections": {
+            "A": "首要功能",
+            "B": "派生功能",
+            "C": "衍生功能",
+            "D": "重要功能"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 92,
+        "type": "单选题",
+        "question": "高校教师在社会服务过程中，要明确<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，处理好知识产权关系。",
+        "selections": {
+            "A": "责任",
+            "B": "权利",
+            "C": "责权",
+            "D": "报酬"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 93,
+        "type": "单选题",
+        "question": "下列不属于《左传》“三不朽”的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "立功",
+            "B": "立德",
+            "C": "立人",
+            "D": "立言"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 94,
+        "type": "单选题",
+        "question": "苏格拉底指出：“知识即<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。”",
+        "selections": {
+            "A": "智慧",
+            "B": "美德",
+            "C": "科学",
+            "D": "卓越"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 95,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>首倡博雅教育，认为教育的目的在于通过实际活动和反复练习，逐渐养成“中庸”的良好道德。",
+        "selections": {
+            "A": "孔子",
+            "B": "子思",
+            "C": "柏拉图",
+            "D": "亚里士多德"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 96,
+        "type": "单选题",
+        "question": "高校立德树人的主体包括两类：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "高校和高校教师",
+            "B": "任课教师和行政人员",
+            "C": "专业课教师和思政课教师",
+            "D": "高校党委和教师委员会"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 97,
+        "type": "单选题",
+        "question": "下列说法错误的是：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "大学素质教育的初衷之一是规避过窄的专业教育带来的弊端。",
+            "B": "大学的素质教育应当按素质教育思想来改造原有专业教育。",
+            "C": "大学素质教育的主战场是专业教育。",
+            "D": "大学素质教育应当淡化专业意识。"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 98,
+        "type": "单选题",
+        "question": "高校是培养<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的基地。",
+        "selections": {
+            "A": "专门人才",
+            "B": "高级人才",
+            "C": "高级专门人才",
+            "D": "精英人才"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 99,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>曾指出：“不学无术的教师，消极指导别人，是没有躯体的人影，是无雨的云、无水的源、无光的灯。”",
+        "selections": {
+            "A": "夸美纽斯",
+            "B": "王国维",
+            "C": "蔡元培",
+            "D": "马克思"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 100,
+        "type": "单选题",
+        "question": "关于严谨治学，下列说法错误的是：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "严谨治学是培养人才的需要。",
+            "B": "严谨治学是提高教育质量的必需。",
+            "C": "严谨治学是高校对教师和学生的单方面要求。",
+            "D": "严谨治学是提高教师素质的必需。"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 101,
+        "type": "单选题",
+        "question": "要坚持实事求是，必须做到“明、敢、正、恒”，其中“敢”指的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "作风堂堂正正，明明白白做人",
+            "B": "吃透情况，明察秋毫",
+            "C": "正视现实，坚持真理",
+            "D": "坚持不懈，贯彻实事求是精神"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 102,
+        "type": "单选题",
+        "question": "在高校管理中，发扬民主意味着<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "各级管理者要让学生充分参与治校，发挥学生会的管理功能。",
+            "B": "各级管理者要保障教职员工参与管理的权利，以及表达诉求的机会。",
+            "C": "各级管理者要充分保障科研人员的学术自由。",
+            "D": "各级管理者要充分将政治上的民主概念直接运用于大学教育之中。"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 103,
+        "type": "单选题",
+        "question": "以下不属于学术法律规范的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "《中华人民共和国著作权法》",
+            "B": "《国家科技计划实施中科研不端行为处理办法（试行）》",
+            "C": "《高等学校哲学社会科学研究学术规范（试行）》",
+            "D": "《中国高等学校社会科学学报编排规范》"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 104,
+        "type": "单选题",
+        "question": "学术问责的启动条件是：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "当学术作品被举报时",
+            "B": "当审查部门开始对学术作品开展审查时",
+            "C": "当执行部门对被举报人立案调查时",
+            "D": "当评价结果受到查处或明显存在异议时"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 105,
+        "type": "单选题",
+        "question": "廉洁从教是为人师表的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "基础和底线",
+            "B": "追求和理想",
+            "C": "目标和导向",
+            "D": "实现路径"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 106,
+        "type": "单选题",
+        "question": "专业伦理是专业团体内部成员与其专业活动相关的成员互动时，必须遵守的一套约定俗成的行为规范。这种规范具有一定的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "强制性",
+            "B": "严肃性",
+            "C": "约束性",
+            "D": "主体性"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 107,
+        "type": "单选题",
+        "question": "爱国主义道德规范要求即使在发生利益矛盾时，也要坚持<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "个人利益服从集体利益",
+            "B": "个人利益服从国际利益",
+            "C": "个人利益服从团体利益",
+            "D": "个人利益服从祖国利益、民族利益"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 108,
+        "type": "单选题",
+        "question": "高校教师服务社会既是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>实现方式，也是高校教师作为公民应该承担的社会责任和义务。",
+        "selections": {
+            "A": "高校的属性使然",
+            "B": "高校目的",
+            "C": "高校教学目的",
+            "D": "高校德育"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 109,
+        "type": "单选题",
+        "question": "《中华人民共和国高等教育法》规定：“高等学校应当以培养人才为中心，开展教学、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和社会服务，保证教育教学质量达到国家规定的标准。”",
+        "selections": {
+            "A": "科技产业化",
+            "B": "科学研究",
+            "C": "科学管理",
+            "D": "科学服务"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 110,
+        "type": "单选题",
+        "question": "有学者从知识学的角度分析高校教师服务社会的行动过程，认为高校教师服务社会主要有三种类型：第一类是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>为基本任务的社会服务，第二类是以实际问题解决为主要任务的社会服务，第三类是以技术创新为引领的社会服务。",
+        "selections": {
+            "A": "以科学研究",
+            "B": "以教育教学",
+            "C": "以培养学生",
+            "D": "以知识的传播或推广应用"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 111,
+        "type": "单选题",
+        "question": "中华民族传统文化孕育了知识分子“为天地立心，为生民立命，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，为万世开太平”的情怀。",
+        "selections": {
+            "A": "为往圣继绝学",
+            "B": "为往圣继传统",
+            "C": "为往圣继精神",
+            "D": "为往圣继才能"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 112,
+        "type": "单选题",
+        "question": "滥用<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的主要表现有：一是垄断资源的“学霸”现象；二是学位申请与授予中的滥用；三是学术评审中的滥用；四是学术界中的“交易”行为。",
+        "selections": {
+            "A": "教育权威",
+            "B": "教育平台",
+            "C": "学术资源",
+            "D": "学术信息"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 113,
+        "type": "单选题",
+        "question": "高校教师服务社会不得滥用学术资源和学术影响；不得假公济私，擅自利用学校名义或校名、校徽、专利、场所等资源谋取<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "团体荣誉",
+            "B": "团队利益",
+            "C": "个人名誉",
+            "D": "个人利益"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 114,
+        "type": "单选题",
+        "question": "2015年，国务院印发的《<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>》，支持科研人员创业，对经同意离岗的可在3年内保留人事关系，建立健全科研人员双向流动机制。",
+        "selections": {
+            "A": "关于实行以增加知识价值为导向分配政策的若干意见",
+            "B": "关于进一步做好新形势下就业创业工作的意见",
+            "C": "关于深化高等学校创新创业教育改革的实施意见",
+            "D": "关于大力推进大众创业万众创新若干政策措施的意见"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 115,
+        "type": "单选题",
+        "question": "2016年，《<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>》指出，支持高校和科研院所开展科技成果转移转化，实现科技成果市场价值。",
+        "selections": {
+            "A": "关于实行以增加知识价值为导向分配政策的若干意见",
+            "B": "关于进一步做好新形势下就业创业工作的意见",
+            "C": "关于深化高等学校创新创业教育改革的实施意见",
+            "D": "国务院办公厅关于印发促进科技成果转移转化行动方案的通知"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 116,
+        "type": "单选题",
+        "question": "有研究表明，从教师个体来说，在教师职业生涯发展过程中，教师职业道德形成和发展大约会经历入职期、发展期、停滞期或者重新评估期、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和保守期五个阶段。",
+        "selections": {
+            "A": "继续发展期",
+            "B": "高峰期",
+            "C": "稳定期",
+            "D": "收获期"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 117,
+        "type": "单选题",
+        "question": "下列属于严谨治学内涵的方面是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "对学术研究的要求",
+            "B": "对教学效果的要求",
+            "C": "对研究成果的要求",
+            "D": "对教学内容的要求"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 118,
+        "type": "单选题",
+        "question": "下列属于严谨治学的内涵是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "追求高效率的技术转化",
+            "B": "追求良好的教学效果",
+            "C": "追求严谨治学的作风",
+            "D": "追求因材施教的教育理念"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 119,
+        "type": "单选题",
+        "question": "下列不属于高校教师严谨治学的意义的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "为提高教师素质所必需",
+            "B": "为不断提高教育质量所必需",
+            "C": "为获得高回报所必需",
+            "D": "为培养人才所必需"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 120,
+        "type": "单选题",
+        "question": "下列属于高校教师严谨治学的意义的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "为获得职称晋升所必需",
+            "B": "为不断提供教育质量所必需",
+            "C": "为大学获得更高排名所必需",
+            "D": "为大学获得更高的社会地位所必需"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 121,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教书育人的常态化途径。",
+        "selections": {
+            "A": "实践育人",
+            "B": "科研育人",
+            "C": "师表育人",
+            "D": "教学育人"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 122,
+        "type": "单选题",
+        "question": "下列关于《新时代高校教师职业行为十项准则》中要求高校教师要坚守廉洁自律的论述，不正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "要严于律己，清廉从教",
+            "B": "不得索要、收受学生及家长财物",
+            "C": "不得利用家长资源谋取私利",
+            "D": "可以参加由学生及家长付费的宴请"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 123,
+        "type": "单选题",
+        "question": "每种职业一经产生，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>就赋予它一定的社会责任。",
+        "selections": {
+            "A": "国家",
+            "B": "政府",
+            "C": "社会",
+            "D": "群众"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 124,
+        "type": "单选题",
+        "question": "中国古代书院教学组织形式在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>萌生出来，甚至不少学识渊博的士人在隐居读书的同时成为教师。",
+        "selections": {
+            "A": "乡村里",
+            "B": "城镇中",
+            "C": "山林中",
+            "D": "太学里"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 125,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是促进和保障教师知识常新的重要措施和有效路径。",
+        "selections": {
+            "A": "社会服务",
+            "B": "知识传授",
+            "C": "科学研究",
+            "D": "成果转化"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 126,
+        "type": "单选题",
+        "question": "下列不属于《事业单位工作人员处分规定》第三章第十六条的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "有抄袭、剽窃、侵吞他人学术成果，伪造、篡改数据文献，或者捏造事实等学术不端行为的；",
+            "B": "参加旨在反对宪法、中国共产党领导和国家的集会、游行、示威等活动的；",
+            "C": "拒不执行或者变相不执行中国共产党和国家的路线方针政策、重大决策部署的；",
+            "D": "参加非法组织、非法活动的。"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 127,
+        "type": "单选题",
+        "question": "高校教师作为培养<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的主力军，不仅肩负着传播文明以及传承文化的重要责任，更背负着传递信念、价值以及知识的伟大使命。",
+        "selections": {
+            "A": "高素质人才",
+            "B": "高素质建设者",
+            "C": "高素质大学生",
+            "D": "高素质研究生"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 128,
+        "type": "单选题",
+        "question": "高校教师往往兼具“<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>”与“专家”这两大职业角色，因此理应代表着公民职业道德的高级水平，从而被寄予高尚道德的厚望。",
+        "selections": {
+            "A": "知识分子",
+            "B": "教师",
+            "C": "专业人员",
+            "D": "学者"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 129,
+        "type": "单选题",
+        "question": "《中华人民共和国教师法》第一章第三条提出，教师承担教书育人，培养社会主义事业<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>和接班人、 提高民族素质的使命。",
+        "selections": {
+            "A": "好学生",
+            "B": "公民",
+            "C": "好人",
+            "D": "建设者"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 130,
+        "type": "单选题",
+        "question": "师德建设是落实<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>根本任务的先决条件。",
+        "selections": {
+            "A": "立德树人",
+            "B": "提高学生成绩",
+            "C": "课程改革",
+            "D": "教育改革"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 131,
+        "type": "单选题",
+        "question": "在《新时代高校教师职业行为十项准则》中，“<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>”的主要内容是“落实立德树人根本任务，遵循教育规律和学生成长规律，因材施教，教学相长；不得违反教学纪律，敷衍教学，或擅自从事影响教育教学本职工作的兼职兼薪行为。”",
+        "selections": {
+            "A": "自觉爱国守法",
+            "B": "传播优秀文化",
+            "C": "潜心教书育人",
+            "D": "坚定政治方向"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 132,
+        "type": "单选题",
+        "question": "在《新时代高校教师职业行为十项准则》中，“<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>”的主要内容是“履行社会责任，贡献聪明才智，树立正确义利观；不得假公济私，擅自利用学校名义或校名、校徽、专利、场所等资源谋取个人利益。”",
+        "selections": {
+            "A": "坚守廉洁自律",
+            "B": "积极奉献社会",
+            "C": "关心爱护学生",
+            "D": "秉持公平诚信"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 133,
+        "type": "单选题",
+        "question": "教育部在《<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>》中提出，建立健全高校教师违反师德行为的惩处机制，划出对高校教师具有警示教育意义的师德禁行行为“红七条”。",
+        "selections": {
+            "A": "中国共产党纪律处分条例",
+            "B": "事业单位工作人员处分暂行规定",
+            "C": "关于建立健全高校师德建设长效机制的意见",
+            "D": "事业单位人事管理条例"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 134,
+        "type": "单选题",
+        "question": "角色定位是高校教师职业道德建设的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "逻辑起点",
+            "B": "前提条件",
+            "C": "决定条件",
+            "D": "重要条件"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 135,
+        "type": "单选题",
+        "question": "高校教师兼有“大学教师”和“行业专家”双重身份，在职业道德要求上也是双重的，即要遵循<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>与专业伦理。",
+        "selections": {
+            "A": "管理伦理",
+            "B": "组织伦理",
+            "C": "教师伦理",
+            "D": "研究伦理"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 136,
+        "type": "单选题",
+        "question": "高校教师兼有“大学教师”和“行业专家”双重身份，在职业道德要求上也是双重的，即要遵循教师伦理与<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "组织伦理",
+            "B": "管理伦理",
+            "C": "专业伦理",
+            "D": "研究伦理"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 137,
+        "type": "单选题",
+        "question": "高校教师职业道德为高等教育的可持续发展提供了<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的根本保障。",
+        "selections": {
+            "A": "方向性",
+            "B": "职业性",
+            "C": "专业性",
+            "D": "教育性"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 138,
+        "type": "单选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是实现新时代高校教师使命的基本保证。",
+        "selections": {
+            "A": "职业伦理",
+            "B": "良好师德师风",
+            "C": "专业道德",
+            "D": "职业规范"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 139,
+        "type": "单选题",
+        "question": "爱国的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是爱国道德的根本。",
+        "selections": {
+            "A": "认知",
+            "B": "态度",
+            "C": "情意",
+            "D": "行为"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 140,
+        "type": "单选题",
+        "question": "守法的实践逻辑关系是由完备的法律制度规范、教育行政执法、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、严格的教育法治监督四部分组成。",
+        "selections": {
+            "A": "自觉知法",
+            "B": "自觉守法",
+            "C": "自觉学法",
+            "D": "自觉信法"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 141,
+        "type": "单选题",
+        "question": "高校教师社会服务的本质是为社会提供智力产品和智力服务，按其性质和形态，可分为人才培养服务、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、信息服务等几个方面。",
+        "selections": {
+            "A": "科技服务",
+            "B": "创新服务",
+            "C": "传播知识",
+            "D": "科学普及"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 142,
+        "type": "单选题",
+        "question": "习近平总书记强调，要用好红色资源，加强革命传统教育、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、青少年思想道德教育，引导全社会更好知史爱党、知史爱国。",
+        "selections": {
+            "A": "民间文化教育",
+            "B": "传统习俗教育",
+            "C": "地方文化教育",
+            "D": "爱国主义教育"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 143,
+        "type": "单选题",
+        "question": "习近平总书记强调，要把爱国主义教育贯穿国民教育和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>全过程。",
+        "selections": {
+            "A": "物质文明建设",
+            "B": "制度文明建设",
+            "C": "生态文明建设",
+            "D": "精神文明建设"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 144,
+        "type": "单选题",
+        "question": "习近平总书记多次论述爱国与爱国主义，其内容主题包括:把<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>作为永恒主题；坚持爱国主义和社会主义相统一；维护祖国统一和民族团结；必须尊重和传承中华民族历史和文化；坚持立足民族又面向世界。",
+        "selections": {
+            "A": "地方文化教育",
+            "B": "民间文化教育",
+            "C": "爱国主义教育",
+            "D": "传统习俗教育"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 145,
+        "type": "单选题",
+        "question": "习近平总书记多次论述爱国与爱国主义，其内容主题包括：把爱国主义教育作为永恒主题；坚持爱国主义和<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>相统一；维护祖国统一和民族团结；必须尊重和传承中华民族历史和文化；坚持立足民族又面向世界。",
+        "selections": {
+            "A": "马克思主义",
+            "B": "社会主义",
+            "C": "社会民主主义",
+            "D": "国家福利主义"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 146,
+        "type": "单选题",
+        "question": "高校教师敬业是影响高校人才培养质量的关键因素，是成就个人事业的<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，是实现中华民族“教育梦”的保证。",
+        "selections": {
+            "A": "决定性因素",
+            "B": "重要条件",
+            "C": "充分条件",
+            "D": "根本性因素"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 147,
+        "type": "单选题",
+        "question": "高校教师敬业在不同层面的表现，包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、知业、研业、爱业、乐业、精业。",
+        "selections": {
+            "A": "尊业",
+            "B": "立业",
+            "C": "畏业",
+            "D": "建业"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 148,
+        "type": "单选题",
+        "question": "高校教师敬业在不同层面的表现，包括畏业、知业、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、爱业、乐业、精业。",
+        "selections": {
+            "A": "建业",
+            "B": "研业",
+            "C": "立业",
+            "D": "创业"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 149,
+        "type": "单选题",
+        "question": "高校教师敬业在不同层面的表现，包括畏业、知业、研业、爱业、<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、精业。",
+        "selections": {
+            "A": "尊业",
+            "B": "安业",
+            "C": "守业",
+            "D": "乐业"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 150,
+        "type": "单选题",
+        "question": "高校教师爱生的具体规范包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>、严格要求大学生、公正对待大学生、做大学生的良师益友、不得损害大学生和学校的合法权益。",
+        "selections": {
+            "A": "真心关爱大学生",
+            "B": "事事为大学生做主",
+            "C": "处处照顾大学生",
+            "D": "全力庇护大学生"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 151,
+        "type": "单选题",
+        "question": "高校教师爱生的具体规范中，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是最根本的“爱生”。",
+        "selections": {
+            "A": "处处保护大学生",
+            "B": "把大学生培养成人、成才",
+            "C": "严格要求大学生",
+            "D": "做大学生的良师益友"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 152,
+        "type": "单选题",
+        "question": "高校教师爱生的行为要求，主要表现为: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>；生活上关心、心理上关注、学业上帮助；做好对特殊群体的关爱。",
+        "selections": {
+            "A": "事事为大学生做主",
+            "B": "区别对待大学生",
+            "C": "全力庇护大学生",
+            "D": "尊重信任大学生"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 153,
+        "type": "单选题",
+        "question": "下列有关教书育人的说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教书育人就是教师在完成教学工作之后，对学生进行思想教育",
+            "B": "教书本身包含育人的意义，教好书是育人的基础",
+            "C": "教书育人是要求教师只在教书的过程中对学生进行思想政治教育和道德品质教育",
+            "D": "教书育人应将“教书”与“育人”分开进行。"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 154,
+        "type": "单选题",
+        "question": "下列有关教书育人的说法错误的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "教书育人就是教师在完成教学工作之后，对学生进行思想教育",
+            "B": "教书本身包含育人的意义，教好书是育人的基础",
+            "C": "教书育人要求教师既要教书又要育人",
+            "D": "教书和育人并非彼此分离、互不相干的两个过程"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 155,
+        "type": "单选题",
+        "question": "对于高校教师而言，<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>是教书育人的重要途径，实践育人是教书育人的有效途径，师表育人是教书育人的常态化途径。",
+        "selections": {
+            "A": "教学评价",
+            "B": "社会服务",
+            "C": "教学与科研",
+            "D": "科学研究"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 156,
+        "type": "单选题",
+        "question": "高校教师严谨治学包括三个方面的内容:一是对学术研究的要求；二是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>；三是对学生的要求。",
+        "selections": {
+            "A": "对师生关系的要求",
+            "B": "对团队协作的要求",
+            "C": "对自己做人做事的要求",
+            "D": "对社会服务的要求"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 157,
+        "type": "单选题",
+        "question": "高校教师严谨治学的意义，是一切学术活动的内在逻辑，是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>，是提高教师素质与不断提高教育质量所必需。",
+        "selections": {
+            "A": "课堂教学的要求",
+            "B": "教学评价的要求",
+            "C": "科研成果转化的要求",
+            "D": "培养人才的要求"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 158,
+        "type": "单选题",
+        "question": "下列不属于高校教师服务社会规范的具体要求是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "勇担社会责任，为国家富强、民族振兴和人类进步服务",
+            "B": "认真教学，关爱学生",
+            "C": "热心公益，服务大众",
+            "D": "传播优秀文化，普及科学知识"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 159,
+        "type": "单选题",
+        "question": "下列不属于高校教师服务社会规范的具体要求是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "热心公益，服务大众",
+            "B": "严谨治学、追求真理",
+            "C": "不滥用学术资源和学术影响",
+            "D": "传播优秀文化，普及科学知识"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 160,
+        "type": "单选题",
+        "question": "为了更好地满足社会成员日益增长的物质和精神生活需要，就需要将社会成员组织起来并进行<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "阶级分工",
+            "B": "阶级合作",
+            "C": "社会合作",
+            "D": "社会分工"
+        },
+        "answer": "D"
+    },
+    {
+        "id": 161,
+        "type": "多选题",
+        "question": "落实立德树人这一根本任务，就是要弘扬社会主义核心价值观，培养具有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>的社会主义建设者和接班人。",
+        "selections": {
+            "A": "中华文化底蕴",
+            "B": "中国特色社会主义共同理想",
+            "C": "国际视野",
+            "D": "科学精神"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 162,
+        "type": "多选题",
+        "question": "<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>共同构成了科学家的道德立场，它们是科学工作者从事科学研究活动的内在动力。",
+        "selections": {
+            "A": "科学信念",
+            "B": "科学理念",
+            "C": "科学情感",
+            "D": "科学道德"
+        },
+        "answer": "AC"
+    },
+    {
+        "id": 163,
+        "type": "多选题",
+        "question": "《高等学校预防与处理学术不端行为办法》中第二十九条提出，对学术不端行为责任人可以作出的处理建议有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> 。",
+        "selections": {
+            "A": "通报批评",
+            "B": "终止或者撤销相关的科研项目，撤销学术奖励，荣誉称号，并在一定期限内取消申请资格",
+            "C": "警告、记过",
+            "D": "开除或解聘"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 164,
+        "type": "多选题",
+        "question": "下列属于高等学校教师职业的特点的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "个体劳动与群体协作性相统一",
+            "B": "学术自由性与教学纪律性相统一",
+            "C": "个体性和示范性相统一",
+            "D": "教学与科研相统一"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 165,
+        "type": "多选题",
+        "question": "下列关于敬业说法正确的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "敬业是贯穿于各种具体的职业道德的一般要求。",
+            "B": "敬业不仅是一种道德原则，更是一种道德精神。",
+            "C": "敬业是行为自觉向价值自觉的转化。",
+            "D": "敬业的价值体现为一种道德他律向道德自律的提升。"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 166,
+        "type": "多选题",
+        "question": "高校教师承担道德责任的依据有<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "高校教师职业的学术性",
+            "B": "高校教师自身的专业素质",
+            "C": "“重要他人”",
+            "D": "道德标准和制度化规范"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 167,
+        "type": "多选题",
+        "question": "有学者梳理了《论语》中孔子的教师职业道德思想，包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "因材施教，有教无类；博学多识，终身学习",
+            "B": "诚信为人，以身作则；积极乐观，意志坚定",
+            "C": "严以律己，宽以待人；以其昭昭，使人昭昭",
+            "D": "爱生如子，尊重学生；执着教育，诲人不倦"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 168,
+        "type": "多选题",
+        "question": "我国2011年颁布的《高校教师职业道德规范》，从层次结构来看，主要从<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>三个层面提出了要求。",
+        "selections": {
+            "A": "倡导性道德理想",
+            "B": "规范性道德原则",
+            "C": "强制性道德行为",
+            "D": "禁止性道德准则"
+        },
+        "answer": "ABD"
+    },
+    {
+        "id": 169,
+        "type": "多选题",
+        "question": "国家由三项基本要素构成：<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "国土",
+            "B": "国民",
+            "C": "政府",
+            "D": "社会"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 170,
+        "type": "多选题",
+        "question": "守法状态级别包括:<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "最低级",
+            "B": "中级",
+            "C": "高级",
+            "D": "最高级"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 171,
+        "type": "多选题",
+        "question": "促进大学生全面发展的途径包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "selections": {
+            "A": "提高思想政治素质",
+            "B": "加强校园文化建设",
+            "C": "改革培养模式",
+            "D": "强化实践环节"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 172,
+        "type": "多选题",
+        "question": "高校教师教学实践性表现体现在<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "课堂教学",
+            "B": "课外实践",
+            "C": "科研活动",
+            "D": "与行业、企业的合作"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 173,
+        "type": "多选题",
+        "question": "下列属于《新时代高校教师职业行为十项准则》中禁止的高校教师行为是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "不得在教育教学活动中及其他场合有损害党中央权威、违背党的路线方针政策的言行。",
+            "B": "不得损害国家利益、社会公共利益，或违背社会公序良俗。",
+            "C": "不得通过课堂、论坛、讲座、信息网络及其他渠道发表、转发错误观点，或编造散布虚假信息、不良信息。",
+            "D": "不得从事任何与教育教学工作无关的兼职。"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 174,
+        "type": "多选题",
+        "question": "下列属于《新时代高校教师职业行为十项准则》基本内容的是<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "坚守廉洁自律",
+            "B": "积极奉献社会",
+            "C": "坚持言行雅正",
+            "D": "关心爱护学生"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 175,
+        "type": "多选题",
+        "question": "高校教师职业道德建设主要包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "职业伦理",
+            "B": "专业伦理",
+            "C": "制度建设",
+            "D": "专业发展"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 176,
+        "type": "多选题",
+        "question": "新时期的好老师要“四有”，除了“有仁爱之心”外，还包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "有理想信念",
+            "B": "有道德情操",
+            "C": "有扎实学识",
+            "D": "有专业技能"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 177,
+        "type": "多选题",
+        "question": "新时代高校师德建设的核心内容包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "思想政治素质",
+            "B": "职业道德素质",
+            "C": "传统文化素养",
+            "D": "科学人文素养"
+        },
+        "answer": "AB"
+    },
+    {
+        "id": 178,
+        "type": "多选题",
+        "question": "道德的心理结构一般由<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>三方面构成。",
+        "selections": {
+            "A": "道德认知",
+            "B": "道德情意",
+            "C": "道德行为",
+            "D": "道德理想"
+        },
+        "answer": "ABC"
+    },
+    {
+        "id": 179,
+        "type": "多选题",
+        "question": "下列属于守法道德的表现包括<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "公平公正",
+            "B": "自觉遵守",
+            "C": "勇于担当",
+            "D": "宣传法律"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 180,
+        "type": "多选题",
+        "question": "结合国际社会实践经验，根据我国社会发展实际情况，高校教师服务社会主要表现为<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>。",
+        "selections": {
+            "A": "传播与创新文化，引领社会",
+            "B": "咨询、指导，为社会提供智力服务",
+            "C": "依托科技园和创新中心，提供创、就业服务",
+            "D": "课题研究深入企业、社会，成为校企合作的促进者"
+        },
+        "answer": "ABCD"
+    },
+    {
+        "id": 181,
+        "type": "判断题",
+        "question": "高校教师职业道德是特定的场合道德，在职场之外，对教师没有约束。",
+        "answer": "N"
+    },
+    {
+        "id": 182,
+        "type": "判断题",
+        "question": "提出“人民第一”“爱满天下”的教育家是叶圣陶。",
+        "answer": "N"
+    },
+    {
+        "id": 183,
+        "type": "判断题",
+        "question": "在我国，高校教师出现师德失范问题，所在院（系）行政主要负责人和党组织主要负责人需向学校分别做出检讨。",
+        "answer": "Y"
+    },
+    {
+        "id": 184,
+        "type": "判断题",
+        "question": "1954年颁布的《国际教师团体协商委员会教师宪章》，对我国高校教师没有约束力。",
+        "answer": "N"
+    },
+    {
+        "id": 185,
+        "type": "判断题",
+        "question": "守法是法律要求，不是道德要求。",
+        "answer": "N"
+    },
+    {
+        "id": 186,
+        "type": "判断题",
+        "question": "高校教师只要遵守法律法规，对社会公序良俗的要求不必严格遵守。",
+        "answer": "N"
+    },
+    {
+        "id": 187,
+        "type": "判断题",
+        "question": "敬业体现了主体做到了价值自觉向行为自觉的转化。",
+        "answer": "Y"
+    },
+    {
+        "id": 188,
+        "type": "判断题",
+        "question": "敬业者必然会“乐业”。",
+        "answer": "N"
+    },
+    {
+        "id": 189,
+        "type": "判断题",
+        "question": "高校教师关爱学生是无条件的。",
+        "answer": "Y"
+    },
+    {
+        "id": 190,
+        "type": "判断题",
+        "question": "教书育人是教师的天职。",
+        "answer": "Y"
+    },
+    {
+        "id": 191,
+        "type": "判断题",
+        "question": "要注重教书与育人相统一。",
+        "answer": "Y"
+    },
+    {
+        "id": 192,
+        "type": "判断题",
+        "question": "高等教育要坚持“以本为本”，推进“四个回归”，即回归学识、回归本分，回归初心、回归梦想。",
+        "answer": "N"
+    },
+    {
+        "id": 193,
+        "type": "判断题",
+        "question": "“教书教人”比“教书育人”更能反映教育的本质。",
+        "answer": "N"
+    },
+    {
+        "id": 194,
+        "type": "判断题",
+        "question": "严谨治学就是要做到：严格标准、严格程序、严格细节。",
+        "answer": "Y"
+    },
+    {
+        "id": 195,
+        "type": "判断题",
+        "question": "从社会学角度看，高校教育工作者发扬民主也是道德层面的要求。",
+        "answer": "Y"
+    },
+    {
+        "id": 196,
+        "type": "判断题",
+        "question": "服务社会、热心公益也是对高等教师的道德要求。",
+        "answer": "Y"
+    },
+    {
+        "id": 197,
+        "type": "判断题",
+        "question": "教师的个人科研经费属于个人财产。",
+        "answer": "N"
+    },
+    {
+        "id": 198,
+        "type": "判断题",
+        "question": "高校教师兼职服务社会不需要单位同意。",
+        "answer": "N"
+    },
+    {
+        "id": 199,
+        "type": "判断题",
+        "question": "高校教师为人师表是教师育人的唯一路径。",
+        "answer": "N"
+    },
+    {
+        "id": 200,
+        "type": "判断题",
+        "question": "淡泊名利与高远之志的实现没有关系。",
+        "answer": "N"
+    },
+    {
+        "id": 201,
+        "type": "判断题",
+        "question": "“教师”一词有两重含义，具体是既指一种社会角色，又指这一角色的承担者。",
+        "answer": "Y"
+    },
+    {
+        "id": 202,
+        "type": "判断题",
+        "question": "与中小学教师相比，高等学校教师职业的特殊性体现在科研为先，以科研促进教学。",
+        "answer": "N"
+    },
+    {
+        "id": 203,
+        "type": "判断题",
+        "question": "道德和法律都是规范体系，但二者调适的范围不同。道德不仅规范人们的行为，还可以规范人们的思想；而法律只是行为层面的规范。",
+        "answer": "Y"
+    },
+    {
+        "id": 204,
+        "type": "判断题",
+        "question": "高校教师良好的道德品质和专业精神，能深刻影响大学生的道德品质和专业精神，是无声的教育资源。",
+        "answer": "Y"
+    },
+    {
+        "id": 205,
+        "type": "判断题",
+        "question": "敬业不仅是一种道德原则，更是一种道德理想。",
+        "answer": "Y"
+    },
+    {
+        "id": 206,
+        "type": "判断题",
+        "question": "大学的原点、根本和核心是科学研究。",
+        "answer": "N"
+    },
+    {
+        "id": 207,
+        "type": "判断题",
+        "question": "师爱的特征有职业性、服务性、广博性和原则性。",
+        "answer": "Y"
+    },
+    {
+        "id": 208,
+        "type": "判断题",
+        "question": "爱生在道德理想层面集中体现为尊重理解、严格要求大学生。",
+        "answer": "N"
+    },
+    {
+        "id": 209,
+        "type": "判断题",
+        "question": "对大学生深切的爱，既是教师个体在职业道德层面上的内在要求，也是教师取得成功的秘诀。",
+        "answer": "Y"
+    },
+    {
+        "id": 210,
+        "type": "判断题",
+        "question": "只要师德考评不合格，不管学术成果多么优秀，在教师评优、评聘等环节中都必须一票否决。",
+        "answer": "Y"
+    },
+    {
+        "id": 211,
+        "type": "判断题",
+        "question": "高校教师工作具有弹性，很难量化，是一种“良心工作”，衡量教师的教学质量很难用时间来衡量。",
+        "answer": "Y"
+    },
+    {
+        "id": 212,
+        "type": "判断题",
+        "question": "学术规范是学术共同体内形成的进行学术活动的基本伦理道德规范。",
+        "answer": "Y"
+    },
+    {
+        "id": 213,
+        "type": "判断题",
+        "question": "学术良知就是学者基于学术理想，对学术道德的一种本能追求。",
+        "answer": "Y"
+    },
+    {
+        "id": 214,
+        "type": "判断题",
+        "question": "教师要不论在什么情况下都能保持心平气和。",
+        "answer": "Y"
+    },
+    {
+        "id": 215,
+        "type": "判断题",
+        "question": "教师承担教书育人、培养社会主义事业建设者和接班人、提高民族素质的使命。",
+        "answer": "Y"
+    },
+    {
+        "id": 216,
+        "type": "判断题",
+        "question": "师德师风不是评价教师队伍素质的第一标准。",
+        "answer": "N"
+    },
+    {
+        "id": 217,
+        "type": "判断题",
+        "question": "2018年11月教育部印发了《高等学校教师职业道德规范》，明确新时代教师职业规范，划定基本底线，深化师德师风建设。",
+        "answer": "N"
+    },
+    {
+        "id": 218,
+        "type": "判断题",
+        "question": "仅有“德性”层面的引领和教育，而无“德行”层面的规导和约束，并不能理性而自然地形成一个有着公序良俗的社会生态。",
+        "answer": "Y"
+    },
+    {
+        "id": 219,
+        "type": "判断题",
+        "question": "爱国主义不需要鼓励对国家的奉献和牺牲。",
+        "answer": "N"
+    },
+    {
+        "id": 220,
+        "type": "判断题",
+        "question": "进一步坚定跟中国共产党走中国特色社会主义道路的信念，这是爱国与爱社会主义相统一的核心和关键。",
+        "answer": "Y"
+    }
+]
